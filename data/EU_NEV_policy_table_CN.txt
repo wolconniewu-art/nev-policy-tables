@@ -1,48 +1,47 @@
 地区: EU
 政策数: 42
-时间跨度: 1 - 42
 生成日期: 2026-05-06
 
 政策列表:
-1. [1] 2009.04
-2. [2] 2010.04
-3. [3] 2011.12
-4. [4] 2013.01
-5. [5] 2014.10
-6. [6] 2015.07
-7. [7] 2016.11
-8. [8] 2017.03
-9. [9] 2017.10
-10. [10] 2018.05
-11. [11] 2019.04
-12. [12] 2019.06
-13. [13] 2019.12
-14. [14] 2020.03
-15. [15] 2020.07
-16. [16] 2020.12
-17. [17] 2021.02
-18. [18] 2021.06
-19. [19] 2021.07
-20. [20] 2021.07
-21. [21] 2022.06
-22. [22] 2022.12
-23. [23] 2022.12
-24. [24] 2023.02
-25. [25] 2023.03
-26. [26] 2023.04
-27. [27] 2023.06
-28. [28] 2023.08.17
-29. [29] 2023.10.01
-30. [30] 2023.09
-31. [31] 2024.04
-32. [32] 2024.05
-33. [33] 2024.10
-34. [34] 2024.12
-35. [35] 2025.05
-36. [36] 2025.10
-37. [37] 2025.12
-38. [38] 2025.12
-39. [39] 2026.01.01
-40. [40] 2026.02
-41. [41] 2026.03
-42. [42] 2026.03
+1. [1] 2009.04 - Directive 2009/33/EC on the promotion of clean and energy-efficient road transport vehicles（清洁车辆指令）
+2. [2] 2010.04 - EU Green Cars Initiative（欧盟绿色汽车倡议）
+3. [3] 2011.12 - Smart Grids & E-Mobility Action Plan（智能电网与电动汽车行动计划）
+4. [4] 2013.01 - Clean Power for Transport Strategy（清洁燃料战略）
+5. [5] 2014.10 - Directive 2014/94/EU on the deployment of alternative fuels infrastructure (AFID)（替代燃料基础设施指令）
+6. [6] 2015.07 - Energy Union Strategy（能源联盟战略）
+7. [7] 2016.11 - European Strategy for Low-Emission Mobility（欧洲低排放交通战略）
+8. [8] 2017.03 - IPCEI Framework for Batteries（电池领域欧洲共同利益重大项目框架）
+9. [9] 2017.10 - European Battery Alliance (EBA) Launched（欧洲电池联盟成立）
+10. [10] 2018.05 - Strategic Action Plan on Batteries（电池战略行动计划）
+11. [11] 2019.04 - Regulation (EU) 2019/631 — CO₂ emission performance standards for new passenger cars and new light commercial vehicles（乘用车/轻型商用车CO₂排放标准）
+12. [12] 2019.06 - Regulation (EU) 2019/1242 — CO₂ emission performance standards for new heavy-duty vehicles（重型车CO₂排放标准）
+13. [13] 2019.12 - European Green Deal（欧洲绿色协议）
+14. [14] 2020.03 - New Circular Economy Action Plan（新循环经济行动计划）
+15. [15] 2020.07 - Critical Raw Materials Action Plan（关键原材料行动计划）
+16. [16] 2020.12 - Sustainable and Smart Mobility Strategy（可持续和智能交通战略）
+17. [17] 2021.02 - Second Battery IPCEI Approved（第二电池IPCEI获批准）
+18. [18] 2021.06 - European Climate Law — Regulation (EU) 2021/1119（欧洲气候法）
+19. [19] 2021.07 - Fit for 55 Package（"减碳55"一揽子立法提案）
+20. [20] 2021.07 - CBAM Proposal — Regulation establishing a carbon border adjustment mechanism（碳边境调节机制提案）
+21. [21] 2022.06 - European Parliament votes 2035 ICE ban（欧洲议会投票通过2035禁燃）
+22. [22] 2022.12 - Provisional agreement on CBAM（CBAM临时协议达成）
+23. [23] 2022.12 - Alternative Fuels Infrastructure Regulation (AFIR) provisional agreement（替代燃料基础设施法规临时协议）
+24. [24] 2023.02 - Green Deal Industrial Plan / Net-Zero Industry Act proposal（绿色协议产业计划/净零工业法案提案）
+25. [25] 2023.03 - Critical Raw Materials Act proposal（关键原材料法案提案）
+26. [26] 2023.04 - Regulation (EU) 2023/851 — Amending CO₂ standards for cars and vans（乘用车/货车CO₂标准修订正式通过）
+27. [27] 2023.06 - Regulation (EU) 2023/1542 — Batteries Regulation adopted（新电池法规通过）
+28. [28] 2023.08.17 - Regulation (EU) 2023/1542 enters into force（新电池法规生效）
+29. [29] 2023.10.01 - CBAM transitional period begins（CBAM过渡期启动）
+30. [30] 2023.09 - Regulation (EU) 2023/1804 — Alternative Fuels Infrastructure Regulation (AFIR) formally adopted（替代燃料基础设施法规正式通过）
+31. [31] 2024.04 - Regulation (EU) 2024/1257 — Euro 7 adopted（欧7排放标准通过）
+32. [32] 2024.05 - Regulation (EU) 2024/1610 — HDV CO₂ emission standards revised（重型车CO₂排放标准修订）
+33. [33] 2024.10 - EU imposes additional tariffs on Chinese BEVs（欧盟对中国产纯电动汽车加征关税）
+34. [34] 2024.12 - Critical Raw Materials Act enters into force — Regulation (EU) 2024/1252（关键原材料法案生效）
+35. [35] 2025.05 - Net-Zero Industry Act enters into force — Regulation (EU) 2025/703（净零工业法案生效）
+36. [36] 2025.10 - EU-China EV tariff framework agreement（EU-中国EV关税争端框架协议）
+37. [37] 2025.12 - Automotive Package（汽车一揽子方案）
+38. [38] 2025.12 - CO₂ Standards Review — 2035 ICE ban flexibility adjustments（CO₂标准审查/2035灵活性调整）
+39. [39] 2026.01.01 - CBAM definitive regime begins（CBAM正式征收阶段启动）
+40. [40] 2026.02 - Battery carbon footprint labelling enters into force（电池碳足迹等级标签生效）
+41. [41] 2026.03 - European Climate Law amended — 2040 target set（欧洲气候法修订——设立2040目标）
+42. [42] 2026.03 - CBAM Q1 2026 certificate price published（CBAM首季证书价格公布）
