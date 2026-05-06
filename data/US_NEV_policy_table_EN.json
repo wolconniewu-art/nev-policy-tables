@@ -1,0 +1,510 @@
+{
+  "source": "US_NEV_policy_table_EN.docx",
+  "label": "EN-美国",
+  "paragraphs": [
+    "U.S. NEV, Battery & Charging Infrastructure Policy Timeline (2010–2026.04)",
+    "Based on government public information. Items marked [needs verification] should be cross-checked with original documents.",
+    "共 61 条政策",
+    "Generated: 2026-05-04 Rev.1 | Contact: www.humanaifit.com"
+  ],
+  "tables": [
+    [
+      [
+        "No.",
+        "Date",
+        "Policy Name",
+        "Issuing Authority",
+        "Core Content",
+        "Source"
+      ],
+      [
+        "1",
+        "Feb 2009",
+        "American Recovery and Reinvestment Act (ARRA) — EV Tax Credits & Battery Manufacturing Grants",
+        "Congress / White House",
+        "Created federal plug-in EV tax credit (§30D, $2,500–$7,500); $2.4B for advanced battery and EV manufacturing grants; $500M for DOE vehicle technologies program. Signed as Public Law 111-5.",
+        "congress.gov; treasury.gov; energy.gov"
+      ],
+      [
+        "2",
+        "2010",
+        "Advanced Technology Vehicles Manufacturing (ATVM) Loan Program",
+        "DOE",
+        "Provides loans to advanced vehicle and component manufacturers to improve fuel economy; Ford, Nissan, Tesla have received loans.",
+        "energy.gov/lpo"
+      ],
+      [
+        "3",
+        "2011",
+        "The EV Project — Largest Charging Infrastructure Demonstration",
+        "DOE / ECOtality",
+        "$230M project (DOE-funded $114.8M) led by ECOtality deploying ~15,000 chargers across 18 cities; studied charging behavior.",
+        "energy.gov; avta.inl.gov"
+      ],
+      [
+        "4",
+        "Mar 2012",
+        "EV Everywhere Grand Challenge",
+        "DOE",
+        "Goal: make EVs as affordable and convenient as gasoline vehicles by 2022. Key targets: battery cost reduction (to $125/kWh), charging infrastructure, lightweight materials, power electronics.",
+        "energy.gov/eere/vehicles; DOE 2012 proposal"
+      ],
+      [
+        "5",
+        "2012",
+        "CAFE Standards for MY 2017-2025",
+        "NHTSA / EPA",
+        "Requires passenger car average fuel economy to reach ~54.5 mpg by 2025 (effectively ~50 mpg), indirectly boosting EV adoption.",
+        "nhtsa.gov; epa.gov"
+      ],
+      [
+        "6",
+        "2013",
+        "DOE Battery and Energy Storage R&D Program",
+        "DOE",
+        "Supports next-gen battery R&D (Li-ion improvement, solid-state research) through VTO and ABR.",
+        "energy.gov/eere/vehicles"
+      ],
+      [
+        "7",
+        "2014",
+        "California ZEV Action Plan",
+        "CA Governor's Office",
+        "Goal: deploy 1.5M ZEVs in California by 2025, including infrastructure build-out and consumer incentives.",
+        "business.ca.gov/zev"
+      ],
+      [
+        "8",
+        "2015",
+        "DOE EV Charging Infrastructure Programs",
+        "DOE",
+        "Grants for public charging deployment including Workplace Charging Challenge.",
+        "energy.gov/eere/vehicles"
+      ],
+      [
+        "9",
+        "2016",
+        "Federal EV Tax Credit (Section 30D, continued)",
+        "IRS / Congress (IRC §30D)",
+        "$2,500–$7,500 federal tax credit for qualified EV purchases; begins phase-out for manufacturers after 200,000 cumulative sales.",
+        "irs.gov; 26 U.S. Code §30D"
+      ],
+      [
+        "10",
+        "2016",
+        "CA Advanced Clean Cars II (ACC II) Rule Path",
+        "CARB",
+        "First long-term ZEV roadmap proposing increasing ZEV sales share. Updated in 2017.",
+        "ww2.arb.ca.gov"
+      ],
+      [
+        "11",
+        "Jun 2017",
+        "U.S. Withdrawal from Paris Agreement",
+        "White House",
+        "Announced withdrawal from Paris Climate Accord, affecting clean energy/EV policy direction.",
+        "whitehouse.gov"
+      ],
+      [
+        "12",
+        "2017–2018",
+        "SAFE Vehicles Rule (drafting)",
+        "NHTSA / EPA",
+        "Begins freezing/rolling back Obama-era CAFE standards; final 2020 rule reduces target to ~40 mpg.",
+        "nhtsa.gov; epa.gov"
+      ],
+      [
+        "13",
+        "2018",
+        "Hydrogen and Fuel Cell Infrastructure Program",
+        "DOE",
+        "H2@Scale program supports R&D for hydrogen and fuel cell vehicle infrastructure.",
+        "energy.gov"
+      ],
+      [
+        "14",
+        "2019",
+        "Federal EV Credit Phase-Out Begins",
+        "IRS",
+        "Tesla (mid-2018) and GM (end-2018) reach 200,000 vehicles; federal credit phase-out begins (50% reduction every 6 months).",
+        "irs.gov"
+      ],
+      [
+        "15",
+        "2019",
+        "Multi-State ZEV Task Force (9-state coalition)",
+        "Multiple States",
+        "California, NY, NJ and others sign MOU to collaborate on ZEV deployment targets.",
+        "zevington.com"
+      ],
+      [
+        "16",
+        "2019",
+        "DOE Accelerated EV Charging Infrastructure Deployment",
+        "DOE",
+        "R&D and demonstration of fast charging (including 350kW), supporting public fast-charging networks.",
+        "energy.gov"
+      ],
+      [
+        "17",
+        "Mar 2020",
+        "SAFE Vehicles Rule Final — One National Program",
+        "NHTSA / EPA",
+        "Finalized freezing CAFE targets at ~40 mpg equivalent; revoked California's Clean Air Act waiver for self-set standards (CA portion blocked by courts).",
+        "nhtsa.gov; federalregister.gov"
+      ],
+      [
+        "18",
+        "Dec 2020",
+        "Energy Act of 2020",
+        "Congress / DOE",
+        "Authorizes DOE clean energy R&D including energy storage, carbon capture, advanced nuclear, renewables. Provides legal framework for EV/battery R&D.",
+        "congress.gov"
+      ],
+      [
+        "19",
+        "Jan 2021",
+        "EO 14017: America's Supply Chains",
+        "White House",
+        "Directs 100-day review of critical supply chains including EV batteries, semiconductors, critical minerals. Sets foundation for supply chain policy.",
+        "whitehouse.gov"
+      ],
+      [
+        "20",
+        "Mar 2021",
+        "American Jobs Plan (proposal)",
+        "White House",
+        "Proposed $174B for EV market: charging infrastructure, consumer rebates, school bus electrification, battery manufacturing supply chain.",
+        "whitehouse.gov"
+      ],
+      [
+        "21",
+        "Aug 2021",
+        "EO 14037: Strengthening American Leadership in Clean Cars",
+        "White House",
+        "Sets 50% ZEV target for new car sales by 2030; directs EPA and DOT to revise GHG standards for 2027-2032.",
+        "whitehouse.gov"
+      ],
+      [
+        "22",
+        "Nov 2021",
+        "Bipartisan Infrastructure Law (IIJA)",
+        "Congress / White House",
+        "$7.5B for EV charging ($5B NEVI formula, $2.5B competitive grants); $65B for clean energy transmission/grid; electric bus funding. Signed as Public Law 117-58.",
+        "congress.gov; whitehouse.gov; transportation.gov"
+      ],
+      [
+        "23",
+        "Jan 2022",
+        "DOE 100-Day Supply Chain Assessment: Battery Materials",
+        "DOE",
+        "Published in response to EO 14017, identifying EV battery supply chain vulnerabilities (China dominance), recommending domestic processing capacity.",
+        "energy.gov"
+      ],
+      [
+        "24",
+        "Feb 2022",
+        "NEVI Formula Program Guidance Published",
+        "DOT / DOE / FHWA",
+        "Implements IIJA NEVI program; states can apply for funding to build EV chargers along interstate highways; interoperability standards required.",
+        "transportation.gov; fhwa.dot.gov"
+      ],
+      [
+        "25",
+        "May 2022",
+        "DOE Announces $3.16B Battery Manufacturing Funding Opportunity (BIL)",
+        "DOE",
+        "Under BIL, announced $3.16B for domestic battery materials processing and manufacturing facilities — the largest dedicated battery manufacturing grant under BIL framework.",
+        "energy.gov"
+      ],
+      [
+        "26",
+        "Aug 7, 2022",
+        "CHIPS and Science Act of 2022",
+        "Congress / White House",
+        "$52.7B for semiconductor manufacturing plus $24B in tax credits. CHIPS for America program (NIST-administered); funds battery and clean energy technology R&D. Public Law 117-167.",
+        "nist.gov/chips; congress.gov"
+      ],
+      [
+        "27",
+        "Aug 16, 2022",
+        "Inflation Reduction Act (IRA)",
+        "Congress / White House",
+        "Largest clean energy and climate investment ($~370B). Signed as Public Law 117-169 (H.R.5376).",
+        "congress.gov; whitehouse.gov"
+      ],
+      [
+        "28",
+        "— IRA §30D",
+        "New Clean Vehicle Credit (amended)",
+        "IRS / Treasury",
+        "Post-2023: Removes 200k manufacturer cap; adds income limits ($150k single/$225k HOH/$300k joint); MSRP caps ($55k car/$80k SUV/truck); N. America assembly required; battery component and critical mineral sourcing requirements. Credit: up to $7,500 (split $3,750 critical minerals + $3,750 battery components).",
+        "irs.gov; irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after"
+      ],
+      [
+        "29",
+        "— IRA §25E",
+        "Previously-Owned Clean Vehicle Credit (new)",
+        "IRS / Treasury",
+        "First-time used clean vehicle credit (up to $4,000). Price cap $25,000; income limits $75k single/$150k joint. Terminated Sep 30, 2025 (OBBB).",
+        "irs.gov"
+      ],
+      [
+        "30",
+        "— IRA §45W",
+        "Qualified Commercial Clean Vehicle Credit (new)",
+        "IRS / Treasury",
+        "Commercial clean vehicles: up to $7,500 (light) or $40,000 (heavy). No manufacturer cap; effective from 2023. Terminated Sep 30, 2025 (OBBB).",
+        "irs.gov"
+      ],
+      [
+        "31",
+        "— IRA §30C",
+        "Alternative Fuel Vehicle Refueling Property Credit (amended)",
+        "IRS / Treasury",
+        "Residential and commercial charging tax credits: up to $1,000 residential, up to $100,000 commercial. Terminated Jun 30, 2026 (OBBB).",
+        "irs.gov"
+      ],
+      [
+        "32",
+        "— IRA §45X",
+        "Advanced Manufacturing Production Credit (new)",
+        "IRS / Treasury",
+        "Production tax credit for domestically produced battery cells, components, critical minerals. Battery cells: $35/kWh, modules: $10/kWh (or $45/kWh combined). Effective 2023, phase-down begins 2032.",
+        "irs.gov"
+      ],
+      [
+        "33",
+        "— IRA §45V",
+        "Clean Hydrogen Production Credit (new)",
+        "IRS / Treasury",
+        "Low-carbon hydrogen production credit (up to $3.00/kg H2), 4 tiers by carbon intensity. Supports hydrogen fuel cell vehicle development.",
+        "irs.gov"
+      ],
+      [
+        "34",
+        "— IRA Critical Mineral & Battery Component Provisions",
+        "§30D Battery Component & Critical Mineral Sourcing Requirements",
+        "IRS / Treasury / DOE",
+        "Phase-in: Critical minerals sourcing from US/FTA countries from 40% (2023) to 80% (2027); battery components from 50% (2023) to 100% (2029) N. America. FEOC prohibition: battery components from 2024, critical minerals from 2025.",
+        "irs.gov; treasury.gov"
+      ],
+      [
+        "35",
+        "Mar 2023",
+        "IRS Issues Initial Clean Vehicle Credit Implementation Guidance",
+        "IRS / Treasury",
+        "Published initial guidance for post-2022 clean vehicles, clarifying N. America assembly, income limits, MSRP caps; published list of qualifying vehicles.",
+        "irs.gov; fueleconomy.gov"
+      ],
+      [
+        "36",
+        "Apr 18, 2023",
+        "Battery Component & Critical Mineral Requirements Take Effect",
+        "IRS / Treasury",
+        "$7,500 credit split: $3,750 (critical minerals) × $3,750 (battery components). No credit if neither requirement met. First qualifying vehicle list released.",
+        "irs.gov"
+      ],
+      [
+        "37",
+        "Jun 2023",
+        "NHTSA Proposes CAFE Standards for MY 2027-2032",
+        "NHTSA",
+        "Proposed new passenger car and light truck CAFE standards (MY 2027-2032), targeting ~8% annual fuel efficiency improvement, working in tandem with EPA emissions standards.",
+        "nhtsa.gov; federalregister.gov"
+      ],
+      [
+        "38",
+        "Dec 2023",
+        "IRA FEOC Final Rule (Non-Clean Vehicles Context)",
+        "Treasury / IRS",
+        "Published definition and implementation rules for \"Foreign Entity of Concern\" — includes entities from/controlled by China, Russia, N. Korea, Iran. Battery component FEOC ban: 2024; critical minerals FEOC ban: 2025.",
+        "treasury.gov; federalregister.gov"
+      ],
+      [
+        "39",
+        "Dec 2023",
+        "IRA §30D Critical Mineral Terms Final Rule",
+        "Treasury / IRS",
+        "Finalized critical mineral definitions, qualifying sourcing calculations, and FTA country list (including S. Korea, Australia, etc.). ~50 minerals specified.",
+        "treasury.gov"
+      ],
+      [
+        "40",
+        "Mar 20, 2024",
+        "EPA Multi-Pollutant Emissions Standards for MY 2027-2032 (Final)",
+        "EPA",
+        "Requires ~56% reduction in GHG emissions from new passenger cars by 2032 vs 2026 standards. Most stringent tailpipe standards ever. EPA projected 67% EV market share by 2032.",
+        "epa.gov (EPA-HQ-OAR-2022-0829); federalregister.gov (2024-06214)"
+      ],
+      [
+        "41",
+        "Apr 2024",
+        "EPA Heavy-Duty GHG Standards Phase 2",
+        "EPA",
+        "Stringent GHG standards for commercial heavy-duty vehicles (MY 2027+), driving electric/hydrogen truck transition.",
+        "epa.gov"
+      ],
+      [
+        "42",
+        "May 2024",
+        "Treasury/IRS FEOC Final Rule (§30D)",
+        "Treasury / IRS",
+        "Formally published FEOC rules: from 2024, vehicles w/o FEOC battery components eligible for $3,750 component portion. FEOC mineral restriction effective 2025.",
+        "federalregister.gov"
+      ],
+      [
+        "43",
+        "May-Dec 2024",
+        "DOE Funds Battery & Critical Mineral Supply Chain Projects via IRA",
+        "DOE",
+        "Grants ($3.5B+) for domestic lithium processing, cathode/anode material production, battery recycling facilities.",
+        "energy.gov"
+      ],
+      [
+        "44",
+        "Jun 2024",
+        "NHTSA Final CAFE Standards for MY 2027-2032",
+        "NHTSA",
+        "Finalized MY 2027-2032 CAFE standards requiring ~2% (cars) / ~4% (light trucks) annual fuel efficiency improvement, reaching ~58 mpg equivalent by 2032.",
+        "nhtsa.gov; federalregister.gov"
+      ],
+      [
+        "45",
+        "2024",
+        "NEVI State Charger Deployments Accelerate",
+        "DOT / DOE",
+        "Multiple states deploy NEVI-funded fast-charging stations (~every 50 miles on interstates). First sites operational in OH, NY, PA, others.",
+        "transportation.gov; fhwa.dot.gov"
+      ],
+      [
+        "46",
+        "Jan 20, 2025",
+        "EO: Termination of Biden EV Mandate",
+        "White House",
+        "Presidential EO directing all federal agencies to eliminate EV mandates and requirements. EPA directed to reconsider 2024 emissions standards.",
+        "whitehouse.gov"
+      ],
+      [
+        "47",
+        "Jan 20, 2025",
+        "EO: Unleashing American Energy",
+        "White House",
+        "Declared national energy emergency; revoked EV priority policies; rescinded multiple environmental EOs; expanded fossil fuel production.",
+        "whitehouse.gov"
+      ],
+      [
+        "48",
+        "Mar 12, 2025",
+        "EPA Reconsiders MY2027-2032 Standards & Heavy-Duty GHG Rule",
+        "EPA",
+        "Administrator Zeldin announces reconsideration of 2024 LD/MD multi-pollutant and HD GHG standards, claiming prior rules >$700B compliance costs.",
+        "epa.gov (Mar 12, 2025 news release)"
+      ],
+      [
+        "49",
+        "Mar 2025",
+        "EPA Launches Endangerment Finding Repeal Process",
+        "EPA",
+        "Initiated administrative process to repeal 2009 GHG Endangerment Finding — the legal foundation for all federal vehicle GHG regulations.",
+        "epa.gov"
+      ],
+      [
+        "50",
+        "Apr 2025",
+        "Federal EV Fleet Procurement Targets Canceled",
+        "White House",
+        "Rescinded prior 5-year federal EV fleet procurement goals and preference policies; restores traditional vehicle procurement.",
+        "whitehouse.gov"
+      ],
+      [
+        "51",
+        "May 2025",
+        "EPA Revokes CA ZEV Advanced Clean Cars Waiver",
+        "EPA",
+        "EPA revokes California's Clean Air Act waiver for voluntary ZEV push mechanism, limiting CA's ability to set stricter-than-federal standards. Finalized Nov 2025.",
+        "epa.gov"
+      ],
+      [
+        "52",
+        "May 2025",
+        "EPA CAFE Preemption Interim Final Rule",
+        "EPA",
+        "Published interim final rule prohibiting states from setting fuel economy standards independent of federal CAFE, directly targeting California's ACC and ZEV rules.",
+        "epa.gov"
+      ],
+      [
+        "53",
+        "Jul 4, 2025",
+        "One, Big, Beautiful Bill (OBBB) — Major Tax Legislation",
+        "Congress / White House",
+        "Signed as Public Law 119-21. Accelerated termination: §30D new EV credit (Sep 30, 2025), §25E used EV credit (Sep 30, 2025), §45W commercial EV credit (Sep 30, 2025), §30C charging credit (Jun 30, 2026).",
+        "irs.gov (FS-2025-05); congress.gov"
+      ],
+      [
+        "54",
+        "Aug 21, 2025",
+        "IRS Issues OBBB Accelerated Termination FAQs",
+        "IRS",
+        "Clarifies \"acquired\" definition for EV credits under accelerated termination: entering binding contract + payment = acquired.",
+        "irs.gov (IR-2025-86, FS-2025-05)"
+      ],
+      [
+        "55",
+        "Sep 30, 2025",
+        "§30D, §25E, §45W Tax Credits Terminated",
+        "IRS",
+        "New clean vehicle ($7,500), used clean vehicle ($4,000), and commercial clean vehicle ($7,500-$40,000) credits stop accepting new applications. Previously contracted vehicles still eligible at delivery.",
+        "irs.gov"
+      ],
+      [
+        "56",
+        "2025",
+        "Tariffs Significantly Increased (on Chinese goods)",
+        "USTR / White House",
+        "High tariffs imposed on Chinese imports including EV batteries & components, critical minerals. EV import tariffs raised to 100%+.",
+        "ustr.gov"
+      ],
+      [
+        "57",
+        "Mar 2026",
+        "HJ Resolution: EPA Heavy-Duty NOx Standard Disapproval",
+        "Congress",
+        "CRA joint resolution to repeal 2022 EPA Heavy-Duty NOx emission standard.",
+        "congress.gov"
+      ],
+      [
+        "58",
+        "Mar 2026",
+        "CRA Resolution: EPA 2024 Light-Duty GHG Standards Disapproval",
+        "Congress",
+        "CRA joint resolution to repeal EPA 2024 Multi-Pollutant Standards (MY 2027-2032), signed by President. EPA directed to revert to 2020 SAFE rule levels.",
+        "congress.gov"
+      ],
+      [
+        "59",
+        "Apr 2026",
+        "§45X Advanced Manufacturing Credit Amendment Proposal",
+        "Congress",
+        "[Needs verification] Proposed legislation under discussion to amend §45X production tax credit (battery components/critical minerals) terms and phase-down timeline.",
+        "congress.gov"
+      ],
+      [
+        "60",
+        "Apr 2026 (Status Tracking)",
+        "NEVI Charging Infrastructure Fund Spending Tracker",
+        "DOT / FHWA",
+        "[Status tracking, not a new policy] Status of the $7.5B NEVI federal fund disbursement and state-level charger deployment as of April 2026. Multiple states completed rounds of site awards, but overall spending slower than anticipated.",
+        "fhwa.dot.gov"
+      ],
+      [
+        "61",
+        "Jun 30, 2026 (Anticipated)",
+        "§30D/§30C Tax Credits Complete Termination",
+        "IRS",
+        "Per OBBB (Public Law 119-21), the federal charging infrastructure tax credit (§30C, up to $30,000/location) terminates Jun 30, 2026. This is the final step of OBBB clean energy tax repeal — §30D (new clean vehicle $7,500), §25E (used clean vehicle $4,000), §45W (commercial clean vehicle) had terminated Sep 30, 2025.",
+        "irs.gov (FS-2025-05); congress.gov Public Law 119-21"
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "source": "EU_NEV_policy_table_EN.docx",
+  "label": "EN-欧盟",
+  "paragraphs": [
+    "EU NEV, Battery & CBAM Policy Timeline (2010–2026.04)",
+    "Based on government public information. Items marked [needs verification] should be cross-checked with original documents.",
+    "共 42 条政策",
+    "Generated: 2026-05-04 Rev.1 | Contact: www.humanaifit.com"
+  ],
+  "tables": [
+    [
+      [
+        "No.",
+        "Date",
+        "Policy Name",
+        "Issuing Authority",
+        "Core Content",
+        "Source"
+      ],
+      [
+        "1",
+        "2009.04",
+        "Directive 2009/33/EC on the promotion of clean and energy-efficient road transport vehicles (Clean Vehicles Directive)",
+        "European Parliament & Council",
+        "Public procurement must account for lifetime energy consumption and CO₂/pollutant emissions; promotes clean vehicles in public fleets",
+        "EUR-Lex: CELEX 32009L0033"
+      ],
+      [
+        "2",
+        "2010.04",
+        "EU Green Cars Initiative",
+        "European Commission",
+        "Part of European Economic Recovery Plan (~€5bn); supports automotive R&D in low-carbon tech including batteries and electric powertrains",
+        "European Commission, 2010"
+      ],
+      [
+        "3",
+        "2011.12",
+        "Smart Grids & E-Mobility Action Plan",
+        "European Commission",
+        "Promotes EV-smart grid integration; unified charging standard framework; supports V2G technology",
+        "European Commission, Smart Grids Task Force"
+      ],
+      [
+        "4",
+        "2013.01",
+        "Clean Power for Transport Strategy",
+        "European Commission",
+        "Proposes alternative fuels infrastructure (charging, LNG, hydrogen); lays foundation for 2014 AFID",
+        "COM(2013) 17 final"
+      ],
+      [
+        "5",
+        "2014.10",
+        "Directive 2014/94/EU on the deployment of alternative fuels infrastructure (AFID)",
+        "European Parliament & Council",
+        "Member states must develop National Policy Frameworks (NPFs) for charging/hydrogen coverage; unified Type 2/CCS charging standard",
+        "EUR-Lex: CELEX 32014L0094"
+      ],
+      [
+        "6",
+        "2015.07",
+        "Energy Union Strategy",
+        "European Commission",
+        "Five dimensions: energy security, internal market, energy efficiency, decarbonisation, R&D; identifies EVs as key transport decarbonisation pathway",
+        "COM(2015) 80 final"
+      ],
+      [
+        "7",
+        "2016.11",
+        "European Strategy for Low-Emission Mobility",
+        "European Commission",
+        "Accelerates ZEV deployment, unified charging infrastructure market, alternative fuels and digital transport applications",
+        "COM(2016) 501 final"
+      ],
+      [
+        "8",
+        "2017.03",
+        "IPCEI Framework for Batteries",
+        "European Commission",
+        "Approves Important Projects of Common European Interest (IPCEI) in battery value chain; permits state aid for battery R&D and production",
+        "European Commission, DG COMP"
+      ],
+      [
+        "9",
+        "2017.10",
+        "European Battery Alliance (EBA) Launched",
+        "European Commission",
+        "VP Šefčovič launched EBA with Member States, industry and research; goal: build autonomous EU battery manufacturing. EU had ~3% of global cell capacity",
+        "European Commission, single-market-economy.ec.europa.eu"
+      ],
+      [
+        "10",
+        "2018.05",
+        "Strategic Action Plan on Batteries",
+        "European Commission",
+        "Six priority areas covering full value chain (raw materials, manufacturing, recycling, tech, skills, regulation); target: build complete EU battery industry",
+        "COM(2018) 293 final"
+      ],
+      [
+        "11",
+        "2019.04",
+        "Regulation (EU) 2019/631 — CO₂ emission performance standards for new passenger cars and light commercial vehicles",
+        "European Parliament & Council",
+        "2025 targets (cars 95g/km, vans 147g/km); 2030 reduction -37.5% (cars) / -31% (vans); ZLEV super-credit mechanism",
+        "EUR-Lex: CELEX 32019R0631"
+      ],
+      [
+        "12",
+        "2019.06",
+        "Regulation (EU) 2019/1242 — CO₂ emission performance standards for new heavy-duty vehicles",
+        "European Parliament & Council",
+        "First EU-wide HDV CO₂ standards; covers HD lorries >16t (~70% HDV CO₂); 2025 target: -15%",
+        "EUR-Lex: CELEX 32019R1242"
+      ],
+      [
+        "13",
+        "2019.12",
+        "European Green Deal",
+        "European Commission",
+        "Foundational strategy: climate neutrality by 2050; 2030 net GHG ≥ -55% (vs 1990); drives clean mobility, circular economy, energy transition; commits to revising all climate/energy legislation",
+        "European Commission, COM(2019) 640 final"
+      ],
+      [
+        "14",
+        "2020.03",
+        "New Circular Economy Action Plan",
+        "European Commission",
+        "Includes Battery Regulation proposal, sustainable product legislation, critical raw materials circularity; emphasizes battery circularity and sustainability",
+        "European Commission, environment.ec.europa.eu"
+      ],
+      [
+        "15",
+        "2020.07",
+        "Critical Raw Materials Action Plan",
+        "European Commission",
+        "Lists Li, Co, graphite, rare earths as critical; action plan to reduce single-supplier dependency",
+        "COM(2020) 474 final"
+      ],
+      [
+        "16",
+        "2020.12",
+        "Sustainable and Smart Mobility Strategy",
+        "European Commission",
+        "Transport 90% emission cut by 2050 (vs 1990); milestones: ≥30M ZEVs on road by 2030, 100 climate-neutral cities; 82 initiatives",
+        "EUR-Lex: CELEX 52020DC0789"
+      ],
+      [
+        "17",
+        "2021.02",
+        "Second Battery IPCEI Approved (\"EuBatIn\")",
+        "European Commission",
+        "12 Member States, €2.9bn public funding, full battery value chain coverage",
+        "DG COMP State Aid SA.55807"
+      ],
+      [
+        "18",
+        "2021.06",
+        "European Climate Law — Regulation (EU) 2021/1119",
+        "European Parliament & Council",
+        "2050 climate neutrality legally binding; 2030 net GHG ≥ -55% (vs 1990); mandates consecutive 2030/2040/2050 targets",
+        "EUR-Lex: CELEX 32021R1119"
+      ],
+      [
+        "19",
+        "2021.07",
+        "Fit for 55 Package",
+        "European Commission",
+        "Largest climate legislative package (15 proposals). Core: EU ETS reform, CBAM, car CO₂ standards revision (2035 zero-emission), AFIR, RED, EE Directive, Social Climate Fund",
+        "European Commission, ec.europa.eu"
+      ],
+      [
+        "20",
+        "2021.07",
+        "CBAM Proposal — Regulation establishing a carbon border adjustment mechanism",
+        "European Commission",
+        "Charges on embedded carbon in imports (cement, iron/steel, aluminium, fertilisers, electricity, hydrogen); price = EU ETS carbon price; transition from 2023, definitive from 2026; linked to EU ETS free allowance phase-out",
+        "COM(2021) 564"
+      ],
+      [
+        "21",
+        "2022.06",
+        "European Parliament votes to ban new ICE cars/vans from 2035",
+        "European Parliament",
+        "Votes: 2035 onwards newly registered cars/vans must have zero CO₂ (de facto ICE ban including sedans/SUVs/vans); Commission to review progress by 2026 considering technology neutrality",
+        "European Parliament, Press Release 20220608IPR32127"
+      ],
+      [
+        "22",
+        "2022.12",
+        "Provisional Political Agreement on CBAM",
+        "European Parliament & Council",
+        "Transitional phase 2023.10–2025.12; definitive regime from 2026.01; phased phase-out of EU ETS free allowances; sectors: cement, steel, aluminium, fertilisers, electricity, hydrogen",
+        "European Commission, Press Corner Dec 2022"
+      ],
+      [
+        "23",
+        "2022.12",
+        "Alternative Fuels Infrastructure Regulation (AFIR) Provisional Agreement",
+        "European Parliament & Council",
+        "Targets: EV fast charger every 60km on TEN-T by 2026; truck charger every 120km by 2028; hydrogen station every 200km by 2031; unified payment",
+        "European Commission, Press Corner Dec 2022"
+      ],
+      [
+        "24",
+        "2023.02",
+        "Green Deal Industrial Plan / Net-Zero Industry Act Proposal",
+        "European Commission",
+        "Response to US IRA; includes NZIA, CRMA, electricity market reform; target: EU domestic net-zero tech manufacturing ≥40% of annual deployment needs by 2030; batteries listed as strategic net-zero technology",
+        "European Commission, ec.europa.eu"
+      ],
+      [
+        "25",
+        "2023.03",
+        "Critical Raw Materials Act Proposal",
+        "European Commission",
+        "2030 benchmarks: strategic RM extraction 10%, processing 40%, recycling 25% from within EU; single-country dependency ≤65% at any processing stage; simplified permitting",
+        "COM(2023) 160 final"
+      ],
+      [
+        "26",
+        "2023.04",
+        "Regulation (EU) 2023/851 — Amending CO₂ standards for cars and vans (formally adopted)",
+        "European Parliament & Council",
+        "Formal adoption: 2030 -55% cars, -50% vans; 2035 zero CO₂ for new vehicles (de facto ICE ban); Commission to review technology neutrality (including e-fuels) by 2026",
+        "EUR-Lex: CELEX 32023R0851"
+      ],
+      [
+        "27",
+        "2023.06",
+        "Regulation (EU) 2023/1542 — Batteries Regulation adopted",
+        "European Parliament & Council",
+        "World's first full life-cycle battery regulation: carbon footprint declaration/class/threshold, recycled content, Battery Passport, supply chain due diligence, collection targets; phased from 2024; Battery Passport from 2027",
+        "EUR-Lex: CELEX 32023R1542"
+      ],
+      [
+        "28",
+        "2023.08.17",
+        "Regulation (EU) 2023/1542 enters into force",
+        "European Parliament & Council",
+        "Effective; carbon footprint label from 2025; class from 2026; threshold + Battery Passport from 2027; mandatory recycled content from 2030 (Co 16%, Pb 85%, Li 6%, Ni 6%)",
+        "European Commission, environment.ec.europa.eu"
+      ],
+      [
+        "29",
+        "2023.10.01",
+        "CBAM Transitional Phase Begins",
+        "European Commission (DG TAXUD)",
+        "Transitional phase 2023.10–2025.12; importers must report embedded emissions quarterly; no financial payment required",
+        "European Commission, taxation-customs.ec.europa.eu"
+      ],
+      [
+        "30",
+        "2023.09",
+        "Regulation (EU) 2023/1804 — Alternative Fuels Infrastructure Regulation (AFIR) formally adopted",
+        "European Parliament & Council",
+        "AFID upgraded to binding Regulation, replacing Directive 2014/94/EU",
+        "EUR-Lex: CELEX 32023R1804"
+      ],
+      [
+        "31",
+        "2024.04",
+        "Regulation (EU) 2024/1257 — Euro 7 adopted",
+        "European Parliament & Council",
+        "Unified emission rules for cars, vans, trucks, buses; first to regulate brake/tyre particle emissions and battery durability",
+        "EUR-Lex: CELEX 32024R1257"
+      ],
+      [
+        "32",
+        "2024.05",
+        "Regulation (EU) 2024/1610 — HDV CO₂ emission standards revised",
+        "European Parliament & Council",
+        "Extended scope (medium/heavy trucks, buses, coaches, trailers); new targets: 2030 -45%, 2035 -65%, 2040 -90%; new city buses 90% ZEV from 2030, 100% from 2035",
+        "EUR-Lex: CELEX 32024R1610"
+      ],
+      [
+        "33",
+        "2024.10",
+        "EU imposes additional tariffs on Chinese BEVs",
+        "European Commission (DG TRADE)",
+        "Anti-subsidy investigation results: additional tariffs on Chinese BEVs: BYD 17.0%, Geely 18.8%, SAIC 35.3% (on top of 10% base tariff)",
+        "European Commission, Official Journal Oct 2024"
+      ],
+      [
+        "34",
+        "2024.12",
+        "Critical Raw Materials Act enters into force — Regulation (EU) 2024/1252",
+        "European Parliament & Council",
+        "Effective; 17 strategic and 34 critical raw materials lists",
+        "EUR-Lex: CELEX 32024R1252"
+      ],
+      [
+        "35",
+        "2025.05",
+        "Net-Zero Industry Act enters into force — Regulation (EU) 2025/703",
+        "European Parliament & Council",
+        "Batteries listed as strategic net-zero technology; mandatory non-price criteria (sustainability, resilience) in procurement/auctions; target ≥40% EU manufacturing by 2030; Net-Zero Acceleration Valleys",
+        "European Commission, single-market-economy.ec.europa.eu"
+      ],
+      [
+        "36",
+        "2025.10",
+        "EU-China EV tariff framework agreement",
+        "European Commission & China MOFCOM",
+        "Minimum Import Price (MIP) mechanism partially replaces anti-subsidy tariffs; China withdraws WTO case [needs verification of specific terms]",
+        "European Commission Press Corner (2025.10)"
+      ],
+      [
+        "37",
+        "2025.12",
+        "Automotive Package",
+        "European Commission",
+        "Three pillars: ① Revised CO₂ standards — 90% tailpipe zero-emission from 2035, remaining 10% offsetable via low-carbon steel, e-fuels, or biofuels; ② Battery Booster (€1.8bn for battery manufacturing); ③ Automotive Omnibus (regulatory simplification, ~€706m/year savings)",
+        "European Commission, transport.ec.europa.eu; IP/25/3051"
+      ],
+      [
+        "38",
+        "2025.12",
+        "CO₂ Standards Review — 2035 ICE ban flexibility adjustments",
+        "European Commission",
+        "Maintains 2035 direction but adds compliance flexibility (e-fuels, biofuels, low-carbon material offsets) based on review obligation under Reg 2023/851 Art.15",
+        "European Commission, IP/25/3051"
+      ],
+      [
+        "39",
+        "2026.01.01",
+        "CBAM Definitive Regime Begins",
+        "European Commission (DG TAXUD)",
+        "Imports >50t/year threshold must apply for authorised CBAM declarant status; purchase CBAM certificates (priced at quarterly avg of EU ETS auction price; weekly avg from 2027); annual declaration and surrender; carbon price paid abroad deductible",
+        "European Commission, taxation-customs.ec.europa.eu"
+      ],
+      [
+        "40",
+        "2026.02",
+        "Battery carbon footprint labelling enters into effect",
+        "European Commission",
+        "Batteries Regulation Art.7 implementation — mandatory A-E carbon footprint label for all EV batteries placed on EU market",
+        "European Commission"
+      ],
+      [
+        "41",
+        "2026.03",
+        "European Climate Law amended — 2040 target set",
+        "European Parliament & Council",
+        "New legally binding 2040 target: net GHG -90% vs 1990 (domestic -85%, int'l carbon credits ≤5%)",
+        "European Commission, climate.ec.europa.eu"
+      ],
+      [
+        "42",
+        "2026.03",
+        "CBAM Q1 2026 certificate price published",
+        "European Commission (DG TAXUD)",
+        "First CBAM certificate quarterly price published based on EU ETS auction price; ~€89/tCO₂ [needs verification of exact figure]",
+        "European Commission, taxation-customs.ec.europa.eu"
+      ]
+    ]
+  ]
+}
