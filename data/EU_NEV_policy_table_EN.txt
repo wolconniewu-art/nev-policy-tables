@@ -1,47 +1,179 @@
-地区: EU
+地区: European Union
+代码: EU
+时间跨度: 2009-2026
 政策数: 42
+首条: [1] 2009.04
+末条: [42] 2026.03
 生成日期: 2026-05-06
+来源: 各国政府公开文件及官方新闻发布
 
-政策列表:
-1. [1] 2009.04 - Directive 2009/33/EC on the promotion of clean and energy-efficient road transport vehicles (Clean Vehicles Directive)
-2. [2] 2010.04 - EU Green Cars Initiative
-3. [3] 2011.12 - Smart Grids & E-Mobility Action Plan
-4. [4] 2013.01 - Clean Power for Transport Strategy
-5. [5] 2014.10 - Directive 2014/94/EU on the deployment of alternative fuels infrastructure (AFID)
-6. [6] 2015.07 - Energy Union Strategy
-7. [7] 2016.11 - European Strategy for Low-Emission Mobility
-8. [8] 2017.03 - IPCEI Framework for Batteries
-9. [9] 2017.10 - European Battery Alliance (EBA) Launched
-10. [10] 2018.05 - Strategic Action Plan on Batteries
-11. [11] 2019.04 - Regulation (EU) 2019/631 — CO₂ emission performance standards for new passenger cars and light commercial vehicles
-12. [12] 2019.06 - Regulation (EU) 2019/1242 — CO₂ emission performance standards for new heavy-duty vehicles
-13. [13] 2019.12 - European Green Deal
-14. [14] 2020.03 - New Circular Economy Action Plan
-15. [15] 2020.07 - Critical Raw Materials Action Plan
-16. [16] 2020.12 - Sustainable and Smart Mobility Strategy
-17. [17] 2021.02 - Second Battery IPCEI Approved ("EuBatIn")
-18. [18] 2021.06 - European Climate Law — Regulation (EU) 2021/1119
-19. [19] 2021.07 - Fit for 55 Package
-20. [20] 2021.07 - CBAM Proposal — Regulation establishing a carbon border adjustment mechanism
-21. [21] 2022.06 - European Parliament votes to ban new ICE cars/vans from 2035
-22. [22] 2022.12 - Provisional Political Agreement on CBAM
-23. [23] 2022.12 - Alternative Fuels Infrastructure Regulation (AFIR) Provisional Agreement
-24. [24] 2023.02 - Green Deal Industrial Plan / Net-Zero Industry Act Proposal
-25. [25] 2023.03 - Critical Raw Materials Act Proposal
-26. [26] 2023.04 - Regulation (EU) 2023/851 — Amending CO₂ standards for cars and vans (formally adopted)
-27. [27] 2023.06 - Regulation (EU) 2023/1542 — Batteries Regulation adopted
-28. [28] 2023.08.17 - Regulation (EU) 2023/1542 enters into force
-29. [29] 2023.10.01 - CBAM Transitional Phase Begins
-30. [30] 2023.09 - Regulation (EU) 2023/1804 — Alternative Fuels Infrastructure Regulation (AFIR) formally adopted
-31. [31] 2024.04 - Regulation (EU) 2024/1257 — Euro 7 adopted
-32. [32] 2024.05 - Regulation (EU) 2024/1610 — HDV CO₂ emission standards revised
-33. [33] 2024.10 - EU imposes additional tariffs on Chinese BEVs
-34. [34] 2024.12 - Critical Raw Materials Act enters into force — Regulation (EU) 2024/1252
-35. [35] 2025.05 - Net-Zero Industry Act enters into force — Regulation (EU) 2025/703
-36. [36] 2025.10 - EU-China EV tariff framework agreement
-37. [37] 2025.12 - Automotive Package
-38. [38] 2025.12 - CO₂ Standards Review — 2035 ICE ban flexibility adjustments
-39. [39] 2026.01.01 - CBAM Definitive Regime Begins
-40. [40] 2026.02 - Battery carbon footprint labelling enters into effect
-41. [41] 2026.03 - European Climate Law amended — 2040 target set
-42. [42] 2026.03 - CBAM Q1 2026 certificate price published
+=== 政策列表 ===
+
+1. [1] 2009.04
+   发布机构: Directive 2009/33/EC on the promotion of clean and energy-efficient road transport vehicles (Clean Vehicles Directive)
+   核心内容: European Parliament & Council...
+
+2. [2] 2010.04
+   发布机构: EU Green Cars Initiative
+   核心内容: European Commission...
+
+3. [3] 2011.12
+   发布机构: Smart Grids & E-Mobility Action Plan
+   核心内容: European Commission...
+
+4. [4] 2013.01
+   发布机构: Clean Power for Transport Strategy
+   核心内容: European Commission...
+
+5. [5] 2014.10
+   发布机构: Directive 2014/94/EU on the deployment of alternative fuels infrastructure (AFID)
+   核心内容: European Parliament & Council...
+
+6. [6] 2015.07
+   发布机构: Energy Union Strategy
+   核心内容: European Commission...
+
+7. [7] 2016.11
+   发布机构: European Strategy for Low-Emission Mobility
+   核心内容: European Commission...
+
+8. [8] 2017.03
+   发布机构: IPCEI Framework for Batteries
+   核心内容: European Commission...
+
+9. [9] 2017.10
+   发布机构: European Battery Alliance (EBA) Launched
+   核心内容: European Commission...
+
+10. [10] 2018.05
+   发布机构: Strategic Action Plan on Batteries
+   核心内容: European Commission...
+
+11. [11] 2019.04
+   发布机构: Regulation (EU) 2019/631 — CO₂ emission performance standards for new passenger cars and light commercial vehicles
+   核心内容: European Parliament & Council...
+
+12. [12] 2019.06
+   发布机构: Regulation (EU) 2019/1242 — CO₂ emission performance standards for new heavy-duty vehicles
+   核心内容: European Parliament & Council...
+
+13. [13] 2019.12
+   发布机构: European Green Deal
+   核心内容: European Commission...
+
+14. [14] 2020.03
+   发布机构: New Circular Economy Action Plan
+   核心内容: European Commission...
+
+15. [15] 2020.07
+   发布机构: Critical Raw Materials Action Plan
+   核心内容: European Commission...
+
+16. [16] 2020.12
+   发布机构: Sustainable and Smart Mobility Strategy
+   核心内容: European Commission...
+
+17. [17] 2021.02
+   发布机构: Second Battery IPCEI Approved ("EuBatIn")
+   核心内容: European Commission...
+
+18. [18] 2021.06
+   发布机构: European Climate Law — Regulation (EU) 2021/1119
+   核心内容: European Parliament & Council...
+
+19. [19] 2021.07
+   发布机构: Fit for 55 Package
+   核心内容: European Commission...
+
+20. [20] 2021.07
+   发布机构: CBAM Proposal — Regulation establishing a carbon border adjustment mechanism
+   核心内容: European Commission...
+
+21. [21] 2022.06
+   发布机构: European Parliament votes to ban new ICE cars/vans from 2035
+   核心内容: European Parliament...
+
+22. [22] 2022.12
+   发布机构: Provisional Political Agreement on CBAM
+   核心内容: European Parliament & Council...
+
+23. [23] 2022.12
+   发布机构: Alternative Fuels Infrastructure Regulation (AFIR) Provisional Agreement
+   核心内容: European Parliament & Council...
+
+24. [24] 2023.02
+   发布机构: Green Deal Industrial Plan / Net-Zero Industry Act Proposal
+   核心内容: European Commission...
+
+25. [25] 2023.03
+   发布机构: Critical Raw Materials Act Proposal
+   核心内容: European Commission...
+
+26. [26] 2023.04
+   发布机构: Regulation (EU) 2023/851 — Amending CO₂ standards for cars and vans (formally adopted)
+   核心内容: European Parliament & Council...
+
+27. [27] 2023.06
+   发布机构: Regulation (EU) 2023/1542 — Batteries Regulation adopted
+   核心内容: European Parliament & Council...
+
+28. [28] 2023.08.17
+   发布机构: Regulation (EU) 2023/1542 enters into force
+   核心内容: European Parliament & Council...
+
+29. [29] 2023.10.01
+   发布机构: CBAM Transitional Phase Begins
+   核心内容: European Commission (DG TAXUD)...
+
+30. [30] 2023.09
+   发布机构: Regulation (EU) 2023/1804 — Alternative Fuels Infrastructure Regulation (AFIR) formally adopted
+   核心内容: European Parliament & Council...
+
+31. [31] 2024.04
+   发布机构: Regulation (EU) 2024/1257 — Euro 7 adopted
+   核心内容: European Parliament & Council...
+
+32. [32] 2024.05
+   发布机构: Regulation (EU) 2024/1610 — HDV CO₂ emission standards revised
+   核心内容: European Parliament & Council...
+
+33. [33] 2024.10
+   发布机构: EU imposes additional tariffs on Chinese BEVs
+   核心内容: European Commission (DG TRADE)...
+
+34. [34] 2024.12
+   发布机构: Critical Raw Materials Act enters into force — Regulation (EU) 2024/1252
+   核心内容: European Parliament & Council...
+
+35. [35] 2025.05
+   发布机构: Net-Zero Industry Act enters into force — Regulation (EU) 2025/703
+   核心内容: European Parliament & Council...
+
+36. [36] 2025.10
+   发布机构: EU-China EV tariff framework agreement
+   核心内容: European Commission & China MOFCOM...
+
+37. [37] 2025.12
+   发布机构: Automotive Package
+   核心内容: European Commission...
+
+38. [38] 2025.12
+   发布机构: CO₂ Standards Review — 2035 ICE ban flexibility adjustments
+   核心内容: European Commission...
+
+39. [39] 2026.01.01
+   发布机构: CBAM Definitive Regime Begins
+   核心内容: European Commission (DG TAXUD)...
+
+40. [40] 2026.02
+   发布机构: Battery carbon footprint labelling enters into effect
+   核心内容: European Commission...
+
+41. [41] 2026.03
+   发布机构: European Climate Law amended — 2040 target set
+   核心内容: European Parliament & Council...
+
+42. [42] 2026.03
+   发布机构: CBAM Q1 2026 certificate price published
+   核心内容: European Commission (DG TAXUD)...
+

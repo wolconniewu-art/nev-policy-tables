@@ -1,66 +1,255 @@
-地区: US
+地区: United States
+代码: US
+时间跨度: 2009-2026
 政策数: 61
+首条: [1] Feb 2009
+末条: [61] Jun 30, 2026 (Anticipated)
 生成日期: 2026-05-06
+来源: 各国政府公开文件及官方新闻发布
 
-政策列表:
-1. [1] Feb 2009 - American Recovery and Reinvestment Act (ARRA) — EV Tax Credits & Battery Manufacturing Grants
-2. [2] 2010 - Advanced Technology Vehicles Manufacturing (ATVM) Loan Program
-3. [3] 2011 - The EV Project — Largest Charging Infrastructure Demonstration
-4. [4] Mar 2012 - EV Everywhere Grand Challenge
-5. [5] 2012 - CAFE Standards for MY 2017-2025
-6. [6] 2013 - DOE Battery and Energy Storage R&D Program
-7. [7] 2014 - California ZEV Action Plan
-8. [8] 2015 - DOE EV Charging Infrastructure Programs
-9. [9] 2016 - Federal EV Tax Credit (Section 30D, continued)
-10. [10] 2016 - CA Advanced Clean Cars II (ACC II) Rule Path
-11. [11] Jun 2017 - U.S. Withdrawal from Paris Agreement
-12. [12] 2017–2018 - SAFE Vehicles Rule (drafting)
-13. [13] 2018 - Hydrogen and Fuel Cell Infrastructure Program
-14. [14] 2019 - Federal EV Credit Phase-Out Begins
-15. [15] 2019 - Multi-State ZEV Task Force (9-state coalition)
-16. [16] 2019 - DOE Accelerated EV Charging Infrastructure Deployment
-17. [17] Mar 2020 - SAFE Vehicles Rule Final — One National Program
-18. [18] Dec 2020 - Energy Act of 2020
-19. [19] Jan 2021 - EO 14017: America's Supply Chains
-20. [20] Mar 2021 - American Jobs Plan (proposal)
-21. [21] Aug 2021 - EO 14037: Strengthening American Leadership in Clean Cars
-22. [22] Nov 2021 - Bipartisan Infrastructure Law (IIJA)
-23. [23] Jan 2022 - DOE 100-Day Supply Chain Assessment: Battery Materials
-24. [24] Feb 2022 - NEVI Formula Program Guidance Published
-25. [25] May 2022 - DOE Announces $3.16B Battery Manufacturing Funding Opportunity (BIL)
-26. [26] Aug 7, 2022 - CHIPS and Science Act of 2022
-27. [27] Aug 16, 2022 - Inflation Reduction Act (IRA)
-28. [28] — IRA §30D - New Clean Vehicle Credit (amended)
-29. [29] — IRA §25E - Previously-Owned Clean Vehicle Credit (new)
-30. [30] — IRA §45W - Qualified Commercial Clean Vehicle Credit (new)
-31. [31] — IRA §30C - Alternative Fuel Vehicle Refueling Property Credit (amended)
-32. [32] — IRA §45X - Advanced Manufacturing Production Credit (new)
-33. [33] — IRA §45V - Clean Hydrogen Production Credit (new)
-34. [34] — IRA Critical Mineral & Battery Component Provisions - §30D Battery Component & Critical Mineral Sourcing Requirements
-35. [35] Mar 2023 - IRS Issues Initial Clean Vehicle Credit Implementation Guidance
-36. [36] Apr 18, 2023 - Battery Component & Critical Mineral Requirements Take Effect
-37. [37] Jun 2023 - NHTSA Proposes CAFE Standards for MY 2027-2032
-38. [38] Dec 2023 - IRA FEOC Final Rule (Non-Clean Vehicles Context)
-39. [39] Dec 2023 - IRA §30D Critical Mineral Terms Final Rule
-40. [40] Mar 20, 2024 - EPA Multi-Pollutant Emissions Standards for MY 2027-2032 (Final)
-41. [41] Apr 2024 - EPA Heavy-Duty GHG Standards Phase 2
-42. [42] May 2024 - Treasury/IRS FEOC Final Rule (§30D)
-43. [43] May-Dec 2024 - DOE Funds Battery & Critical Mineral Supply Chain Projects via IRA
-44. [44] Jun 2024 - NHTSA Final CAFE Standards for MY 2027-2032
-45. [45] 2024 - NEVI State Charger Deployments Accelerate
-46. [46] Jan 20, 2025 - EO: Termination of Biden EV Mandate
-47. [47] Jan 20, 2025 - EO: Unleashing American Energy
-48. [48] Mar 12, 2025 - EPA Reconsiders MY2027-2032 Standards & Heavy-Duty GHG Rule
-49. [49] Mar 2025 - EPA Launches Endangerment Finding Repeal Process
-50. [50] Apr 2025 - Federal EV Fleet Procurement Targets Canceled
-51. [51] May 2025 - EPA Revokes CA ZEV Advanced Clean Cars Waiver
-52. [52] May 2025 - EPA CAFE Preemption Interim Final Rule
-53. [53] Jul 4, 2025 - One, Big, Beautiful Bill (OBBB) — Major Tax Legislation
-54. [54] Aug 21, 2025 - IRS Issues OBBB Accelerated Termination FAQs
-55. [55] Sep 30, 2025 - §30D, §25E, §45W Tax Credits Terminated
-56. [56] 2025 - Tariffs Significantly Increased (on Chinese goods)
-57. [57] Mar 2026 - HJ Resolution: EPA Heavy-Duty NOx Standard Disapproval
-58. [58] Mar 2026 - CRA Resolution: EPA 2024 Light-Duty GHG Standards Disapproval
-59. [59] Apr 2026 - §45X Advanced Manufacturing Credit Amendment Proposal
-60. [60] Apr 2026 (Status Tracking) - NEVI Charging Infrastructure Fund Spending Tracker
-61. [61] Jun 30, 2026 (Anticipated) - §30D/§30C Tax Credits Complete Termination
+=== 政策列表 ===
+
+1. [1] Feb 2009
+   发布机构: American Recovery and Reinvestment Act (ARRA) — EV Tax Credits & Battery Manufacturing Grants
+   核心内容: Congress / White House...
+
+2. [2] 2010
+   发布机构: Advanced Technology Vehicles Manufacturing (ATVM) Loan Program
+   核心内容: DOE...
+
+3. [3] 2011
+   发布机构: The EV Project — Largest Charging Infrastructure Demonstration
+   核心内容: DOE / ECOtality...
+
+4. [4] Mar 2012
+   发布机构: EV Everywhere Grand Challenge
+   核心内容: DOE...
+
+5. [5] 2012
+   发布机构: CAFE Standards for MY 2017-2025
+   核心内容: NHTSA / EPA...
+
+6. [6] 2013
+   发布机构: DOE Battery and Energy Storage R&D Program
+   核心内容: DOE...
+
+7. [7] 2014
+   发布机构: California ZEV Action Plan
+   核心内容: CA Governor's Office...
+
+8. [8] 2015
+   发布机构: DOE EV Charging Infrastructure Programs
+   核心内容: DOE...
+
+9. [9] 2016
+   发布机构: Federal EV Tax Credit (Section 30D, continued)
+   核心内容: IRS / Congress (IRC §30D)...
+
+10. [10] 2016
+   发布机构: CA Advanced Clean Cars II (ACC II) Rule Path
+   核心内容: CARB...
+
+11. [11] Jun 2017
+   发布机构: U.S. Withdrawal from Paris Agreement
+   核心内容: White House...
+
+12. [12] 2017–2018
+   发布机构: SAFE Vehicles Rule (drafting)
+   核心内容: NHTSA / EPA...
+
+13. [13] 2018
+   发布机构: Hydrogen and Fuel Cell Infrastructure Program
+   核心内容: DOE...
+
+14. [14] 2019
+   发布机构: Federal EV Credit Phase-Out Begins
+   核心内容: IRS...
+
+15. [15] 2019
+   发布机构: Multi-State ZEV Task Force (9-state coalition)
+   核心内容: Multiple States...
+
+16. [16] 2019
+   发布机构: DOE Accelerated EV Charging Infrastructure Deployment
+   核心内容: DOE...
+
+17. [17] Mar 2020
+   发布机构: SAFE Vehicles Rule Final — One National Program
+   核心内容: NHTSA / EPA...
+
+18. [18] Dec 2020
+   发布机构: Energy Act of 2020
+   核心内容: Congress / DOE...
+
+19. [19] Jan 2021
+   发布机构: EO 14017: America's Supply Chains
+   核心内容: White House...
+
+20. [20] Mar 2021
+   发布机构: American Jobs Plan (proposal)
+   核心内容: White House...
+
+21. [21] Aug 2021
+   发布机构: EO 14037: Strengthening American Leadership in Clean Cars
+   核心内容: White House...
+
+22. [22] Nov 2021
+   发布机构: Bipartisan Infrastructure Law (IIJA)
+   核心内容: Congress / White House...
+
+23. [23] Jan 2022
+   发布机构: DOE 100-Day Supply Chain Assessment: Battery Materials
+   核心内容: DOE...
+
+24. [24] Feb 2022
+   发布机构: NEVI Formula Program Guidance Published
+   核心内容: DOT / DOE / FHWA...
+
+25. [25] May 2022
+   发布机构: DOE Announces $3.16B Battery Manufacturing Funding Opportunity (BIL)
+   核心内容: DOE...
+
+26. [26] Aug 7, 2022
+   发布机构: CHIPS and Science Act of 2022
+   核心内容: Congress / White House...
+
+27. [27] Aug 16, 2022
+   发布机构: Inflation Reduction Act (IRA)
+   核心内容: Congress / White House...
+
+28. [28] — IRA §30D
+   发布机构: New Clean Vehicle Credit (amended)
+   核心内容: IRS / Treasury...
+
+29. [29] — IRA §25E
+   发布机构: Previously-Owned Clean Vehicle Credit (new)
+   核心内容: IRS / Treasury...
+
+30. [30] — IRA §45W
+   发布机构: Qualified Commercial Clean Vehicle Credit (new)
+   核心内容: IRS / Treasury...
+
+31. [31] — IRA §30C
+   发布机构: Alternative Fuel Vehicle Refueling Property Credit (amended)
+   核心内容: IRS / Treasury...
+
+32. [32] — IRA §45X
+   发布机构: Advanced Manufacturing Production Credit (new)
+   核心内容: IRS / Treasury...
+
+33. [33] — IRA §45V
+   发布机构: Clean Hydrogen Production Credit (new)
+   核心内容: IRS / Treasury...
+
+34. [34] — IRA Critical Mineral & Battery Component Provisions
+   发布机构: §30D Battery Component & Critical Mineral Sourcing Requirements
+   核心内容: IRS / Treasury / DOE...
+
+35. [35] Mar 2023
+   发布机构: IRS Issues Initial Clean Vehicle Credit Implementation Guidance
+   核心内容: IRS / Treasury...
+
+36. [36] Apr 18, 2023
+   发布机构: Battery Component & Critical Mineral Requirements Take Effect
+   核心内容: IRS / Treasury...
+
+37. [37] Jun 2023
+   发布机构: NHTSA Proposes CAFE Standards for MY 2027-2032
+   核心内容: NHTSA...
+
+38. [38] Dec 2023
+   发布机构: IRA FEOC Final Rule (Non-Clean Vehicles Context)
+   核心内容: Treasury / IRS...
+
+39. [39] Dec 2023
+   发布机构: IRA §30D Critical Mineral Terms Final Rule
+   核心内容: Treasury / IRS...
+
+40. [40] Mar 20, 2024
+   发布机构: EPA Multi-Pollutant Emissions Standards for MY 2027-2032 (Final)
+   核心内容: EPA...
+
+41. [41] Apr 2024
+   发布机构: EPA Heavy-Duty GHG Standards Phase 2
+   核心内容: EPA...
+
+42. [42] May 2024
+   发布机构: Treasury/IRS FEOC Final Rule (§30D)
+   核心内容: Treasury / IRS...
+
+43. [43] May-Dec 2024
+   发布机构: DOE Funds Battery & Critical Mineral Supply Chain Projects via IRA
+   核心内容: DOE...
+
+44. [44] Jun 2024
+   发布机构: NHTSA Final CAFE Standards for MY 2027-2032
+   核心内容: NHTSA...
+
+45. [45] 2024
+   发布机构: NEVI State Charger Deployments Accelerate
+   核心内容: DOT / DOE...
+
+46. [46] Jan 20, 2025
+   发布机构: EO: Termination of Biden EV Mandate
+   核心内容: White House...
+
+47. [47] Jan 20, 2025
+   发布机构: EO: Unleashing American Energy
+   核心内容: White House...
+
+48. [48] Mar 12, 2025
+   发布机构: EPA Reconsiders MY2027-2032 Standards & Heavy-Duty GHG Rule
+   核心内容: EPA...
+
+49. [49] Mar 2025
+   发布机构: EPA Launches Endangerment Finding Repeal Process
+   核心内容: EPA...
+
+50. [50] Apr 2025
+   发布机构: Federal EV Fleet Procurement Targets Canceled
+   核心内容: White House...
+
+51. [51] May 2025
+   发布机构: EPA Revokes CA ZEV Advanced Clean Cars Waiver
+   核心内容: EPA...
+
+52. [52] May 2025
+   发布机构: EPA CAFE Preemption Interim Final Rule
+   核心内容: EPA...
+
+53. [53] Jul 4, 2025
+   发布机构: One, Big, Beautiful Bill (OBBB) — Major Tax Legislation
+   核心内容: Congress / White House...
+
+54. [54] Aug 21, 2025
+   发布机构: IRS Issues OBBB Accelerated Termination FAQs
+   核心内容: IRS...
+
+55. [55] Sep 30, 2025
+   发布机构: §30D, §25E, §45W Tax Credits Terminated
+   核心内容: IRS...
+
+56. [56] 2025
+   发布机构: Tariffs Significantly Increased (on Chinese goods)
+   核心内容: USTR / White House...
+
+57. [57] Mar 2026
+   发布机构: HJ Resolution: EPA Heavy-Duty NOx Standard Disapproval
+   核心内容: Congress...
+
+58. [58] Mar 2026
+   发布机构: CRA Resolution: EPA 2024 Light-Duty GHG Standards Disapproval
+   核心内容: Congress...
+
+59. [59] Apr 2026
+   发布机构: §45X Advanced Manufacturing Credit Amendment Proposal
+   核心内容: Congress...
+
+60. [60] Apr 2026 (Status Tracking)
+   发布机构: NEVI Charging Infrastructure Fund Spending Tracker
+   核心内容: DOT / FHWA...
+
+61. [61] Jun 30, 2026 (Anticipated)
+   发布机构: §30D/§30C Tax Credits Complete Termination
+   核心内容: IRS...
+
