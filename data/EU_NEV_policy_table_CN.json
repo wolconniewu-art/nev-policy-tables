@@ -1,358 +1,303 @@
-{
-  "source": "EU_NEV_policy_table_CN.docx",
-  "label": "CN-欧盟",
-  "paragraphs": [
-    "欧盟新能源汽车·电池·CBAM政策年表（2010–2026.04）",
-    "基于政府公开信息整理。标注[需进一步验证]的细节建议以官方原文为准。",
-    "共 42 条政策",
-    "Generated: 2026-05-04 Rev.1 | Contact: www.humanaifit.com"
-  ],
-  "tables": [
-    [
-      [
-        "序号",
-        "发布时间",
-        "政策名称",
-        "发布机构",
-        "核心内容",
-        "数据来源"
-      ],
-      [
-        "1",
-        "2009.04",
-        "Directive 2009/33/EC on the promotion of clean and energy-efficient road transport vehicles（清洁车辆指令）",
-        "欧洲议会 & 欧盟理事会",
-        "要求公共采购将车辆全寿命能耗和CO₂/污染物排放纳入考量，推动清洁车辆进入公共车队",
-        "EUR-Lex: CELEX 32009L0033"
-      ],
-      [
-        "2",
-        "2010.04",
-        "EU Green Cars Initiative（欧盟绿色汽车倡议）",
-        "欧洲委员会",
-        "作为欧洲经济复苏计划（€50亿）一部分，支持汽车R&D与低碳技术，涵盖电池及电动动力总成研发",
-        "European Commission, 2010"
-      ],
-      [
-        "3",
-        "2011.12",
-        "Smart Grids & E-Mobility Action Plan（智能电网与电动汽车行动计划）",
-        "欧洲委员会",
-        "推动EV与智能电网协同发展，统一充电标准框架，支持V2G技术研发",
-        "European Commission, Smart Grids Task Force"
-      ],
-      [
-        "4",
-        "2013.01",
-        "Clean Power for Transport Strategy（清洁燃料战略）",
-        "欧洲委员会",
-        "提出建设替代燃料基础设施（充电、LNG、氢能），为替代燃料基础设施指令（AFID）奠定基础",
-        "COM(2013) 17 final"
-      ],
-      [
-        "5",
-        "2014.10",
-        "Directive 2014/94/EU on the deployment of alternative fuels infrastructure (AFID)（替代燃料基础设施指令）",
-        "欧洲议会 & 欧盟理事会",
-        "成员国制定国家政策框架（NPF）确保充电/加氢站合理覆盖；统一充电接口Type 2/CCS标准",
-        "EUR-Lex: CELEX 32014L0094"
-      ],
-      [
-        "6",
-        "2015.07",
-        "Energy Union Strategy（能源联盟战略）",
-        "欧洲委员会",
-        "设定能源安全、内部市场、能效、脱碳、R&D五大维度，将EV列为交通脱碳关键路径",
-        "COM(2015) 80 final"
-      ],
-      [
-        "7",
-        "2016.11",
-        "European Strategy for Low-Emission Mobility（欧洲低排放交通战略）",
-        "欧洲委员会",
-        "提出加速零排放车辆部署、建设充电基础设施统一市场、推动替代燃料和数字化交通应用",
-        "COM(2016) 501 final"
-      ],
-      [
-        "8",
-        "2017.03",
-        "IPCEI Framework for Batteries（电池领域欧洲共同利益重大项目框架）",
-        "欧洲委员会",
-        "批准成员国在电池价值链设立IPCEI，允许以国家援助形式支持电池研发和生产",
-        "European Commission, DG COMP"
-      ],
-      [
-        "9",
-        "2017.10",
-        "European Battery Alliance (EBA) Launched（欧洲电池联盟成立）",
-        "欧洲委员会",
-        "副主席Šefčovič联合EU各国、工业界和科研机构发起，目标建立欧盟自主电池制造产业链。当时EU仅占全球电池产能约3%",
-        "European Commission, single-market-economy.ec.europa.eu"
-      ],
-      [
-        "10",
-        "2018.05",
-        "Strategic Action Plan on Batteries（电池战略行动计划）",
-        "欧洲委员会",
-        "涵盖原材料、制造、回收全价值链六大优先领域；目标在欧洲建立完整电池产业竞争力",
-        "COM(2018) 293 final"
-      ],
-      [
-        "11",
-        "2019.04",
-        "Regulation (EU) 2019/631 — CO₂ emission performance standards for new passenger cars and new light commercial vehicles（乘用车/轻型商用车CO₂排放标准）",
-        "欧洲议会 & 欧盟理事会",
-        "设定2025目标（乘用车95g/km，货车147g/km）；2030减排-37.5%（乘用车）/-31%（货车）；引入ZLEV超级积分机制",
-        "EUR-Lex: CELEX 32019R0631"
-      ],
-      [
-        "12",
-        "2019.06",
-        "Regulation (EU) 2019/1242 — CO₂ emission performance standards for new heavy-duty vehicles（重型车CO₂排放标准）",
-        "欧洲议会 & 欧盟理事会",
-        "首次EU层面重型车CO₂标准；覆盖16吨以上重型卡车（~70% HDV CO₂）；2025减排15%",
-        "EUR-Lex: CELEX 32019R1242"
-      ],
-      [
-        "13",
-        "2019.12",
-        "European Green Deal（欧洲绿色协议）",
-        "欧洲委员会",
-        "最核心纲领——2050气候中和；2030净GHG减排≥55%（vs 1990）；推动清洁交通、循环经济、能源转型；宣布修订所有气候与能源立法",
-        "European Commission, COM(2019) 640 final"
-      ],
-      [
-        "14",
-        "2020.03",
-        "New Circular Economy Action Plan（新循环经济行动计划）",
-        "欧洲委员会",
-        "含电池法规提案、可持续产品立法、关键原材料循环等，强调电池循环性和可持续性",
-        "European Commission, environment.ec.europa.eu"
-      ],
-      [
-        "15",
-        "2020.07",
-        "Critical Raw Materials Action Plan（关键原材料行动计划）",
-        "欧洲委员会",
-        "将锂、钴、石墨、稀土等列入关键原材料清单；制定行动计划减少对单一供应国依赖",
-        "COM(2020) 474 final"
-      ],
-      [
-        "16",
-        "2020.12",
-        "Sustainable and Smart Mobility Strategy（可持续和智能交通战略）",
-        "欧洲委员会",
-        "设定交通领域2050减排90%（vs 1990）；里程碑：2030年≥3000万辆零排放汽车上路，100个气候中和城市；含82项行动倡议",
-        "EUR-Lex: CELEX 52020DC0789"
-      ],
-      [
-        "17",
-        "2021.02",
-        "Second Battery IPCEI Approved（第二电池IPCEI获批准）",
-        "欧洲委员会",
-        "批准第二个电池IPCEI（\"EuBatIn\"），12个成员国，€29亿公共资金，覆盖电池全价值链",
-        "DG COMP State Aid SA.55807"
-      ],
-      [
-        "18",
-        "2021.06",
-        "European Climate Law — Regulation (EU) 2021/1119（欧洲气候法）",
-        "欧洲议会 & 欧盟理事会",
-        "2050气候中和写为法律义务；2030净GHG减排≥55%（vs 1990）；要求连续设定2030/2040/2050目标",
-        "EUR-Lex: CELEX 32021R1119"
-      ],
-      [
-        "19",
-        "2021.07",
-        "Fit for 55 Package（\"减碳55\"一揽子立法提案）",
-        "欧洲委员会",
-        "史上最大规模气候立法包（15项提案）；核心：EU ETS改革、CBAM、乘用车CO₂标准修订（2035零排放）、AFIR、RED修订、EE修订、社会气候基金等",
-        "European Commission, ec.europa.eu"
-      ],
-      [
-        "20",
-        "2021.07",
-        "CBAM Proposal — Regulation establishing a carbon border adjustment mechanism（碳边境调节机制提案）",
-        "欧洲委员会",
-        "对进口商品（水泥、钢铁、铝、化肥、电力、氢）内含碳排放收费；价格等价EU ETS碳价；过渡期2023起，正式征收2026起；与EU ETS免费配额退出挂钩",
-        "COM(2021) 564"
-      ],
-      [
-        "21",
-        "2022.06",
-        "European Parliament votes 2035 ICE ban（欧洲议会投票通过2035禁燃）",
-        "欧洲议会",
-        "正式投票：2035年起新注册乘用车/货车CO₂降至0（实质禁售内燃机新车含轿车/SUV/货车）；要求2027年委员会审查进展，考虑技术中性",
-        "European Parliament, Press Release 20220608IPR32127"
-      ],
-      [
-        "22",
-        "2022.12",
-        "Provisional agreement on CBAM（CBAM临时协议达成）",
-        "欧洲议会 & 欧盟理事会",
-        "过渡期2023.10–2025.12；正式征收2026.01起；与EU ETS免费配额同步退出；覆盖水泥、钢铁、铝、化肥、电力、氢",
-        "European Commission, Press Corner Dec 2022"
-      ],
-      [
-        "23",
-        "2022.12",
-        "Alternative Fuels Infrastructure Regulation (AFIR) provisional agreement（替代燃料基础设施法规临时协议）",
-        "欧洲议会 & 欧盟理事会",
-        "设定强制目标：2026年TEN-T每60km一个EV快充站；2028年每120km一个卡车充电站；2031年每200km一个加氢站；统一支付系统",
-        "European Commission, Press Corner Dec 2022"
-      ],
-      [
-        "24",
-        "2023.02",
-        "Green Deal Industrial Plan / Net-Zero Industry Act proposal（绿色协议产业计划/净零工业法案提案）",
-        "欧洲委员会",
-        "回应美国IRA法案；含NZIA、CRMA、电力市场改革；目标2030年EU本土净零技术制造达年部署需求40%；电池为战略净零技术",
-        "European Commission, ec.europa.eu"
-      ],
-      [
-        "25",
-        "2023.03",
-        "Critical Raw Materials Act proposal（关键原材料法案提案）",
-        "欧洲委员会",
-        "2030基准：战略原材料采矿10%、加工40%、回收25%来自EU内部；任何加工阶段单国来源≤65%；简化许可审批",
-        "COM(2023) 160 final"
-      ],
-      [
-        "26",
-        "2023.04",
-        "Regulation (EU) 2023/851 — Amending CO₂ standards for cars and vans（乘用车/货车CO₂标准修订正式通过）",
-        "欧洲议会 & 欧盟理事会",
-        "正式立法：2030乘用车-55%、货车-50%；2035年新车CO₂零排放（实质禁燃）；2026年委员会审查技术中性[注1]",
-        "EUR-Lex: CELEX 32023R0851"
-      ],
-      [
-        "27",
-        "2023.06",
-        "Regulation (EU) 2023/1542 — Batteries Regulation adopted（新电池法规通过）",
-        "欧洲议会 & 欧盟理事会",
-        "全球首个全生命周期电池法规；碳足迹声明/等级/阈值、再生材料比例、电池护照（Battery Passport）、供应链尽职调查、回收目标；2024起分阶段实施；2027年引入电池护照",
-        "EUR-Lex: CELEX 32023R1542"
-      ],
-      [
-        "28",
-        "2023.08.17",
-        "Regulation (EU) 2023/1542 enters into force（新电池法规生效）",
-        "欧洲议会 & 欧盟理事会",
-        "正式生效；2025起碳足迹标签；2026起碳足迹等级；2027起碳足迹阈值、电池护照；2030起再生材料强制比例（Co 16%、Pb 85%、Li 6%、Ni 6%）",
-        "European Commission, environment.ec.europa.eu"
-      ],
-      [
-        "29",
-        "2023.10.01",
-        "CBAM transitional period begins（CBAM过渡期启动）",
-        "欧洲委员会（DG TAXUD）",
-        "过渡期2023.10–2025.12；进口商每季度报告内含碳排放，暂不支付费用",
-        "European Commission, taxation-customs.ec.europa.eu"
-      ],
-      [
-        "30",
-        "2023.09",
-        "Regulation (EU) 2023/1804 — Alternative Fuels Infrastructure Regulation (AFIR) formally adopted（替代燃料基础设施法规正式通过）",
-        "欧洲议会 & 欧盟理事会",
-        "AFID升级为具有法律约束力的法规；取代2014/94/EU指令",
-        "EUR-Lex: CELEX 32023R1804"
-      ],
-      [
-        "31",
-        "2024.04",
-        "Regulation (EU) 2024/1257 — Euro 7 adopted（欧7排放标准通过）",
-        "欧洲议会 & 欧盟理事会",
-        "统一乘用车、货车、卡车、公交排放规则；首纳制动/轮胎颗粒物排放限制和电池耐久性要求",
-        "EUR-Lex: CELEX 32024R1257"
-      ],
-      [
-        "32",
-        "2024.05",
-        "Regulation (EU) 2024/1610 — HDV CO₂ emission standards revised（重型车CO₂排放标准修订）",
-        "欧洲议会 & 欧盟理事会",
-        "扩大适用范围；新目标：2030 -45%、2035 -65%、2040 -90%；2030起90%新城市公交零排放，2035 100%",
-        "EUR-Lex: CELEX 32024R1610"
-      ],
-      [
-        "33",
-        "2024.10",
-        "EU imposes additional tariffs on Chinese BEVs（欧盟对中国产纯电动汽车加征关税）",
-        "欧洲委员会（DG TRADE）",
-        "反补贴调查后对中国产BEV加征额外关税：比亚迪17.0%、吉利18.8%、上汽35.3%（叠加10%基础关税）",
-        "European Commission, Official Journal Oct 2024"
-      ],
-      [
-        "34",
-        "2024.12",
-        "Critical Raw Materials Act enters into force — Regulation (EU) 2024/1252（关键原材料法案生效）",
-        "欧洲议会 & 欧盟理事会",
-        "正式生效；17种战略原材料、34种关键原材料清单",
-        "EUR-Lex: CELEX 32024R1252"
-      ],
-      [
-        "35",
-        "2025.05",
-        "Net-Zero Industry Act enters into force — Regulation (EU) 2025/703（净零工业法案生效）",
-        "欧洲议会 & 欧盟理事会",
-        "电池列为战略净零技术；采购/拍卖引入可持续性和韧性非价格标准；2030年EU净零技术制造≥年部署需求40%；设立净零加速谷",
-        "European Commission, single-market-economy.ec.europa.eu"
-      ],
-      [
-        "36",
-        "2025.10",
-        "EU-China EV tariff framework agreement（EU-中国EV关税争端框架协议）",
-        "欧洲委员会 & 中国商务部",
-        "最低进口价格（MIP）机制替代部分反补贴关税；中方撤WTO诉讼 [需进一步验证细节]",
-        "European Commission Press Corner (2025.10)"
-      ],
-      [
-        "37",
-        "2025.12",
-        "Automotive Package（汽车一揽子方案）",
-        "欧洲委员会",
-        "三项核心：①CO₂标准修订增加灵活性——2035起90%尾气零排放，剩余10%可通过低碳钢、e-fuels、生物燃料补偿；②Battery Booster（€18亿电池制造支持）；③Automotive Omnibus（行政简化，年省~€7.06亿）",
-        "European Commission, transport.ec.europa.eu; IP/25/3051"
-      ],
-      [
-        "38",
-        "2025.12",
-        "CO₂ Standards Review — 2035 ICE ban flexibility adjustments（CO₂标准审查/2035灵活性调整）",
-        "欧洲委员会",
-        "在2023/851基础上调整：维持2035零排放方向，但增加合规灵活性选项（e-fuels、生物燃料、低碳材料抵消）",
-        "European Commission, IP/25/3051"
-      ],
-      [
-        "39",
-        "2026.01.01",
-        "CBAM definitive regime begins（CBAM正式征收阶段启动）",
-        "欧洲委员会（DG TAXUD）",
-        "超50吨/年阈值进口商须申请授权CBAM申报人；购买CBAM证书（基于EU ETS配额拍卖价季度均价；2027起改为周均价）；年度申报并注销证书；可扣除已支付出口国碳价",
-        "European Commission, taxation-customs.ec.europa.eu"
-      ],
-      [
-        "40",
-        "2026.02",
-        "Battery carbon footprint labelling enters into force（电池碳足迹等级标签生效）",
-        "欧洲委员会",
-        "EU电池法规第7条实施——EV电池碳足迹等级A-E五级标签强制要求；所有在EU市场销售EV电池须标注",
-        "European Commission"
-      ],
-      [
-        "41",
-        "2026.03",
-        "European Climate Law amended — 2040 target set（欧洲气候法修订——设立2040目标）",
-        "欧洲议会 & 欧盟理事会",
-        "新增2040年法定目标：净GHG排放较1990年降低90%（境内85%、国际碳信用≤5%）",
-        "European Commission, climate.ec.europa.eu"
-      ],
-      [
-        "42",
-        "2026.03",
-        "CBAM Q1 2026 certificate price published（CBAM首季证书价格公布）",
-        "欧洲委员会（DG TAXUD）",
-        "CBAM证书价格基于EU ETS配额拍卖价季度均价公布，价格约€89/吨CO₂ [需进一步验证精确数字]",
-        "European Commission, taxation-customs.ec.europa.eu"
-      ]
-    ]
-  ]
-}
+[
+  {
+    "date": "序号",
+    "policy_name": "发布时间",
+    "issuing_body": "政策名称",
+    "content": "发布机构",
+    "source": "核心内容"
+  },
+  {
+    "date": "1",
+    "policy_name": "2009.04",
+    "issuing_body": "Directive 2009/33/EC on the promotion of clean and energy-efficient road transport vehicles（清洁车辆指令）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "要求公共采购将车辆全寿命能耗和CO₂/污染物排放纳入考量，推动清洁车辆进入公共车队"
+  },
+  {
+    "date": "2",
+    "policy_name": "2010.04",
+    "issuing_body": "EU Green Cars Initiative（欧盟绿色汽车倡议）",
+    "content": "欧洲委员会",
+    "source": "作为欧洲经济复苏计划（€50亿）一部分，支持汽车R&D与低碳技术，涵盖电池及电动动力总成研发"
+  },
+  {
+    "date": "3",
+    "policy_name": "2011.12",
+    "issuing_body": "Smart Grids & E-Mobility Action Plan（智能电网与电动汽车行动计划）",
+    "content": "欧洲委员会",
+    "source": "推动EV与智能电网协同发展，统一充电标准框架，支持V2G技术研发"
+  },
+  {
+    "date": "4",
+    "policy_name": "2013.01",
+    "issuing_body": "Clean Power for Transport Strategy（清洁燃料战略）",
+    "content": "欧洲委员会",
+    "source": "提出建设替代燃料基础设施（充电、LNG、氢能），为替代燃料基础设施指令（AFID）奠定基础"
+  },
+  {
+    "date": "5",
+    "policy_name": "2014.10",
+    "issuing_body": "Directive 2014/94/EU on the deployment of alternative fuels infrastructure (AFID)（替代燃料基础设施指令）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "成员国制定国家政策框架（NPF）确保充电/加氢站合理覆盖；统一充电接口Type 2/CCS标准"
+  },
+  {
+    "date": "6",
+    "policy_name": "2015.07",
+    "issuing_body": "Energy Union Strategy（能源联盟战略）",
+    "content": "欧洲委员会",
+    "source": "设定能源安全、内部市场、能效、脱碳、R&D五大维度，将EV列为交通脱碳关键路径"
+  },
+  {
+    "date": "7",
+    "policy_name": "2016.11",
+    "issuing_body": "European Strategy for Low-Emission Mobility（欧洲低排放交通战略）",
+    "content": "欧洲委员会",
+    "source": "提出加速零排放车辆部署、建设充电基础设施统一市场、推动替代燃料和数字化交通应用"
+  },
+  {
+    "date": "8",
+    "policy_name": "2017.03",
+    "issuing_body": "IPCEI Framework for Batteries（电池领域欧洲共同利益重大项目框架）",
+    "content": "欧洲委员会",
+    "source": "批准成员国在电池价值链设立IPCEI，允许以国家援助形式支持电池研发和生产"
+  },
+  {
+    "date": "9",
+    "policy_name": "2017.10",
+    "issuing_body": "European Battery Alliance (EBA) Launched（欧洲电池联盟成立）",
+    "content": "欧洲委员会",
+    "source": "副主席Šefčovič联合EU各国、工业界和科研机构发起，目标建立欧盟自主电池制造产业链。当时EU仅占全球电池产能约3%"
+  },
+  {
+    "date": "10",
+    "policy_name": "2018.05",
+    "issuing_body": "Strategic Action Plan on Batteries（电池战略行动计划）",
+    "content": "欧洲委员会",
+    "source": "涵盖原材料、制造、回收全价值链六大优先领域；目标在欧洲建立完整电池产业竞争力"
+  },
+  {
+    "date": "11",
+    "policy_name": "2019.04",
+    "issuing_body": "Regulation (EU) 2019/631 — CO₂ emission performance standards for new passenger cars and new light commercial vehicles（乘用车/轻型商用车CO₂排放标准）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "设定2025目标（乘用车95g/km，货车147g/km）；2030减排-37.5%（乘用车）/-31%（货车）；引入ZLEV超级积分机制"
+  },
+  {
+    "date": "12",
+    "policy_name": "2019.06",
+    "issuing_body": "Regulation (EU) 2019/1242 — CO₂ emission performance standards for new heavy-duty vehicles（重型车CO₂排放标准）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "首次EU层面重型车CO₂标准；覆盖16吨以上重型卡车（~70% HDV CO₂）；2025减排15%"
+  },
+  {
+    "date": "13",
+    "policy_name": "2019.12",
+    "issuing_body": "European Green Deal（欧洲绿色协议）",
+    "content": "欧洲委员会",
+    "source": "最核心纲领——2050气候中和；2030净GHG减排≥55%（vs 1990）；推动清洁交通、循环经济、能源转型；宣布修订所有气候与能源立法"
+  },
+  {
+    "date": "14",
+    "policy_name": "2020.03",
+    "issuing_body": "New Circular Economy Action Plan（新循环经济行动计划）",
+    "content": "欧洲委员会",
+    "source": "含电池法规提案、可持续产品立法、关键原材料循环等，强调电池循环性和可持续性"
+  },
+  {
+    "date": "15",
+    "policy_name": "2020.07",
+    "issuing_body": "Critical Raw Materials Action Plan（关键原材料行动计划）",
+    "content": "欧洲委员会",
+    "source": "将锂、钴、石墨、稀土等列入关键原材料清单；制定行动计划减少对单一供应国依赖"
+  },
+  {
+    "date": "16",
+    "policy_name": "2020.12",
+    "issuing_body": "Sustainable and Smart Mobility Strategy（可持续和智能交通战略）",
+    "content": "欧洲委员会",
+    "source": "设定交通领域2050减排90%（vs 1990）；里程碑：2030年≥3000万辆零排放汽车上路，100个气候中和城市；含82项行动倡议"
+  },
+  {
+    "date": "17",
+    "policy_name": "2021.02",
+    "issuing_body": "Second Battery IPCEI Approved（第二电池IPCEI获批准）",
+    "content": "欧洲委员会",
+    "source": "批准第二个电池IPCEI（\"EuBatIn\"），12个成员国，€29亿公共资金，覆盖电池全价值链"
+  },
+  {
+    "date": "18",
+    "policy_name": "2021.06",
+    "issuing_body": "European Climate Law — Regulation (EU) 2021/1119（欧洲气候法）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "2050气候中和写为法律义务；2030净GHG减排≥55%（vs 1990）；要求连续设定2030/2040/2050目标"
+  },
+  {
+    "date": "19",
+    "policy_name": "2021.07",
+    "issuing_body": "Fit for 55 Package（\"减碳55\"一揽子立法提案）",
+    "content": "欧洲委员会",
+    "source": "史上最大规模气候立法包（15项提案）；核心：EU ETS改革、CBAM、乘用车CO₂标准修订（2035零排放）、AFIR、RED修订、EE修订、社会气候基金等"
+  },
+  {
+    "date": "20",
+    "policy_name": "2021.07",
+    "issuing_body": "CBAM Proposal — Regulation establishing a carbon border adjustment mechanism（碳边境调节机制提案）",
+    "content": "欧洲委员会",
+    "source": "对进口商品（水泥、钢铁、铝、化肥、电力、氢）内含碳排放收费；价格等价EU ETS碳价；过渡期2023起，正式征收2026起；与EU ETS免费配额退出挂钩"
+  },
+  {
+    "date": "21",
+    "policy_name": "2022.06",
+    "issuing_body": "European Parliament votes 2035 ICE ban（欧洲议会投票通过2035禁燃）",
+    "content": "欧洲议会",
+    "source": "正式投票：2035年起新注册乘用车/货车CO₂降至0（实质禁售内燃机新车含轿车/SUV/货车）；要求2027年委员会审查进展，考虑技术中性"
+  },
+  {
+    "date": "22",
+    "policy_name": "2022.12",
+    "issuing_body": "Provisional agreement on CBAM（CBAM临时协议达成）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "过渡期2023.10–2025.12；正式征收2026.01起；与EU ETS免费配额同步退出；覆盖水泥、钢铁、铝、化肥、电力、氢"
+  },
+  {
+    "date": "23",
+    "policy_name": "2022.12",
+    "issuing_body": "Alternative Fuels Infrastructure Regulation (AFIR) provisional agreement（替代燃料基础设施法规临时协议）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "设定强制目标：2026年TEN-T每60km一个EV快充站；2028年每120km一个卡车充电站；2031年每200km一个加氢站；统一支付系统"
+  },
+  {
+    "date": "24",
+    "policy_name": "2023.02",
+    "issuing_body": "Green Deal Industrial Plan / Net-Zero Industry Act proposal（绿色协议产业计划/净零工业法案提案）",
+    "content": "欧洲委员会",
+    "source": "回应美国IRA法案；含NZIA、CRMA、电力市场改革；目标2030年EU本土净零技术制造达年部署需求40%；电池为战略净零技术"
+  },
+  {
+    "date": "25",
+    "policy_name": "2023.03",
+    "issuing_body": "Critical Raw Materials Act proposal（关键原材料法案提案）",
+    "content": "欧洲委员会",
+    "source": "2030基准：战略原材料采矿10%、加工40%、回收25%来自EU内部；任何加工阶段单国来源≤65%；简化许可审批"
+  },
+  {
+    "date": "26",
+    "policy_name": "2023.04",
+    "issuing_body": "Regulation (EU) 2023/851 — Amending CO₂ standards for cars and vans（乘用车/货车CO₂标准修订正式通过）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "正式立法：2030乘用车-55%、货车-50%；2035年新车CO₂零排放（实质禁燃）；2026年委员会审查技术中性[注1]"
+  },
+  {
+    "date": "27",
+    "policy_name": "2023.06",
+    "issuing_body": "Regulation (EU) 2023/1542 — Batteries Regulation adopted（新电池法规通过）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "全球首个全生命周期电池法规；碳足迹声明/等级/阈值、再生材料比例、电池护照（Battery Passport）、供应链尽职调查、回收目标；2024起分阶段实施；2027年引入电池护照"
+  },
+  {
+    "date": "28",
+    "policy_name": "2023.08.17",
+    "issuing_body": "Regulation (EU) 2023/1542 enters into force（新电池法规生效）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "正式生效；2025起碳足迹标签；2026起碳足迹等级；2027起碳足迹阈值、电池护照；2030起再生材料强制比例（Co 16%、Pb 85%、Li 6%、Ni 6%）"
+  },
+  {
+    "date": "29",
+    "policy_name": "2023.10.01",
+    "issuing_body": "CBAM transitional period begins（CBAM过渡期启动）",
+    "content": "欧洲委员会（DG TAXUD）",
+    "source": "过渡期2023.10–2025.12；进口商每季度报告内含碳排放，暂不支付费用"
+  },
+  {
+    "date": "30",
+    "policy_name": "2023.09",
+    "issuing_body": "Regulation (EU) 2023/1804 — Alternative Fuels Infrastructure Regulation (AFIR) formally adopted（替代燃料基础设施法规正式通过）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "AFID升级为具有法律约束力的法规；取代2014/94/EU指令"
+  },
+  {
+    "date": "31",
+    "policy_name": "2024.04",
+    "issuing_body": "Regulation (EU) 2024/1257 — Euro 7 adopted（欧7排放标准通过）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "统一乘用车、货车、卡车、公交排放规则；首纳制动/轮胎颗粒物排放限制和电池耐久性要求"
+  },
+  {
+    "date": "32",
+    "policy_name": "2024.05",
+    "issuing_body": "Regulation (EU) 2024/1610 — HDV CO₂ emission standards revised（重型车CO₂排放标准修订）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "扩大适用范围；新目标：2030 -45%、2035 -65%、2040 -90%；2030起90%新城市公交零排放，2035 100%"
+  },
+  {
+    "date": "33",
+    "policy_name": "2024.10",
+    "issuing_body": "EU imposes additional tariffs on Chinese BEVs（欧盟对中国产纯电动汽车加征关税）",
+    "content": "欧洲委员会（DG TRADE）",
+    "source": "反补贴调查后对中国产BEV加征额外关税：比亚迪17.0%、吉利18.8%、上汽35.3%（叠加10%基础关税）"
+  },
+  {
+    "date": "34",
+    "policy_name": "2024.12",
+    "issuing_body": "Critical Raw Materials Act enters into force — Regulation (EU) 2024/1252（关键原材料法案生效）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "正式生效；17种战略原材料、34种关键原材料清单"
+  },
+  {
+    "date": "35",
+    "policy_name": "2025.05",
+    "issuing_body": "Net-Zero Industry Act enters into force — Regulation (EU) 2025/703（净零工业法案生效）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "电池列为战略净零技术；采购/拍卖引入可持续性和韧性非价格标准；2030年EU净零技术制造≥年部署需求40%；设立净零加速谷"
+  },
+  {
+    "date": "36",
+    "policy_name": "2025.10",
+    "issuing_body": "EU-China EV tariff framework agreement（EU-中国EV关税争端框架协议）",
+    "content": "欧洲委员会 & 中国商务部",
+    "source": "最低进口价格（MIP）机制替代部分反补贴关税；中方撤WTO诉讼 [需进一步验证细节]"
+  },
+  {
+    "date": "37",
+    "policy_name": "2025.12",
+    "issuing_body": "Automotive Package（汽车一揽子方案）",
+    "content": "欧洲委员会",
+    "source": "三项核心：①CO₂标准修订增加灵活性——2035起90%尾气零排放，剩余10%可通过低碳钢、e-fuels、生物燃料补偿；②Battery Booster（€18亿电池制造支持）；③Automotive Omnibus（行政简化，年省~€7.06亿）"
+  },
+  {
+    "date": "38",
+    "policy_name": "2025.12",
+    "issuing_body": "CO₂ Standards Review — 2035 ICE ban flexibility adjustments（CO₂标准审查/2035灵活性调整）",
+    "content": "欧洲委员会",
+    "source": "在2023/851基础上调整：维持2035零排放方向，但增加合规灵活性选项（e-fuels、生物燃料、低碳材料抵消）"
+  },
+  {
+    "date": "39",
+    "policy_name": "2026.01.01",
+    "issuing_body": "CBAM definitive regime begins（CBAM正式征收阶段启动）",
+    "content": "欧洲委员会（DG TAXUD）",
+    "source": "超50吨/年阈值进口商须申请授权CBAM申报人；购买CBAM证书（基于EU ETS配额拍卖价季度均价；2027起改为周均价）；年度申报并注销证书；可扣除已支付出口国碳价"
+  },
+  {
+    "date": "40",
+    "policy_name": "2026.02",
+    "issuing_body": "Battery carbon footprint labelling enters into force（电池碳足迹等级标签生效）",
+    "content": "欧洲委员会",
+    "source": "EU电池法规第7条实施——EV电池碳足迹等级A-E五级标签强制要求；所有在EU市场销售EV电池须标注"
+  },
+  {
+    "date": "41",
+    "policy_name": "2026.03",
+    "issuing_body": "European Climate Law amended — 2040 target set（欧洲气候法修订——设立2040目标）",
+    "content": "欧洲议会 & 欧盟理事会",
+    "source": "新增2040年法定目标：净GHG排放较1990年降低90%（境内85%、国际碳信用≤5%）"
+  },
+  {
+    "date": "42",
+    "policy_name": "2026.03",
+    "issuing_body": "CBAM Q1 2026 certificate price published（CBAM首季证书价格公布）",
+    "content": "欧洲委员会（DG TAXUD）",
+    "source": "CBAM证书价格基于EU ETS配额拍卖价季度均价公布，价格约€89/吨CO₂ [需进一步验证精确数字]"
+  }
+]

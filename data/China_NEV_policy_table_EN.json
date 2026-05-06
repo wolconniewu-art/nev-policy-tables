@@ -1,590 +1,499 @@
-{
-  "source": "China_NEV_policy_table_EN.docx",
-  "label": "EN-中国",
-  "paragraphs": [
-    "China NEV & ICV Policy Timeline (1986–2026.04)",
-    "Based on government public information. Items marked [needs verification] should be cross-checked with original documents.",
-    "共 71 条政策",
-    "Generated: 2026-05-04 Rev.1 | Contact: www.humanaifit.com"
-  ],
-  "tables": [
-    [
-      [
-        "No.",
-        "Date",
-        "Policy Name",
-        "Issuing Authority",
-        "Core Content",
-        "Source"
-      ],
-      [
-        "---",
-        "",
-        "---",
-        "---",
-        "---",
-        "---"
-      ],
-      [
-        "1",
-        "March 1986",
-        "National High-Tech R&D Program (863 Program)",
-        "CPC Central Committee & State Council (approved); State Science and Technology Commission (implemented)",
-        "Included \"electric vehicles\" in the national high-tech R&D program, marking the official start of China's NEV technology R&D. The 863 Program selected 7 fields including biotechnology, aerospace, IT, laser, automation, energy, and new materials. The automation field included intelligent robots and electric vehicles. [further verification needed on specific project codes]",
-        "MOST official website; \"863 Program Management Measures\""
-      ],
-      [
-        "2",
-        "1991",
-        "\"Eighth Five-Year\" Science & Technology Key Project — Electric Vehicle Key Technologies",
-        "State Planning Commission, State Science and Technology Commission",
-        "Listed electric vehicle key technologies as a national S&T key project during the \"Eighth Five-Year Plan\" period, focusing on basic technologies such as EV complete vehicle technology and drive motor systems.",
-        "\"History of China's Electric Vehicle Development\"; MOST public records"
-      ],
-      [
-        "3",
-        "September 2001",
-        "\"Tenth Five-Year\" National S&T Key Project — \"Electric Vehicle Major Special Project\"",
-        "Ministry of Science and Technology (MOST)",
-        "Formally established the \"Electric Vehicle Major Special Project\" with ≈8.8 billion yuan investment (≈24 billion yuan including local and enterprise matching funds). Established the \"Three Verticals, Three Horizontals\" R&D framework (3 verticals: BEV, HEV, FCV; 3 horizontals: motor, battery, electronic control).",
-        "MOST \"10th Five-Year EV Special Project Acceptance Report\"; \"National Medium- and Long-Term S&T Development Plan (2006-2020)\""
-      ],
-      [
-        "4",
-        "May 2004",
-        "Automotive Industry Development Policy",
-        "National Development and Reform Commission (NDRC, Order No. 8)",
-        "For the first time in national auto industry policy, encouraged development of energy-efficient and environmentally friendly vehicles and NEVs. Explicitly supported R&D and industrialization of EVs, HEVs, and other new powertrains.",
-        "NDRC Order No. 8 (2004)"
-      ],
-      [
-        "5",
-        "February 2006",
-        "National Medium- and Long-Term S&T Development Plan (2006-2020)",
-        "State Council (Guo Fa [2006] No. 6)",
-        "Listed \"low-energy and new energy vehicles\" and \"hydrogen and fuel cell technology\" as priority themes and frontier technologies. Designated NEVs as a key field of national strategic demand.",
-        "State Council Guo Fa [2006] No. 6"
-      ],
-      [
-        "6",
-        "November 2007",
-        "NEV Production Access Management Rules",
-        "National Development and Reform Commission (Announcement 2007 No. 72)",
-        "First established China's NEV production enterprise and product access management system. Defined the scope of NEVs (BEV, HEV, FCV, etc.). Standardized enterprise production qualification and product access conditions.",
-        "NDRC Announcement 2007 No. 72"
-      ],
-      [
-        "7",
-        "January 2009",
-        "Notice on Launching Energy-Efficient and NEV Demonstration & Promotion Pilot (EV1000 / \"Ten Cities, Thousand Vehicles\" Program)",
-        "Ministry of Finance, MOST (Cai Jian [2009] No. 6)",
-        "Launched energy-efficient and NEV demonstration promotion pilots in 13 cities including Beijing, Shanghai, Chongqing. Planned to promote 1,000+ NEVs in public service areas within 3 years. Central finance provided one-time purchase subsidies. First batch of 13 cities began in February 2009.",
-        "Cai Jian [2009] No. 6; MOF official website"
-      ],
-      [
-        "8",
-        "June 2009",
-        "\"Ten Cities, Thousand Vehicles\" Program Supplemental Notice",
-        "Ministry of Finance, MOST",
-        "Expanded pilot cities from 13 to 20. Increased NEV promotion intensity in public transport, taxi, government, and sanitation sectors.",
-        "MOF, MOST public documents"
-      ],
-      [
-        "9",
-        "May 2010",
-        "Notice on Launching Private Purchase of NEV Subsidy Pilot",
-        "MOF, MOST, MIIT, NDRC (Cai Jian [2010] No. 230)",
-        "Launched private purchase NEV subsidy pilots in Shanghai, Changchun, Shenzhen, Hangzhou, Hefei. Provided one-time subsidies for BEVs and PHEVs (max 60,000 yuan/vehicle).",
-        "Cai Jian [2010] No. 230"
-      ],
-      [
-        "10",
-        "October 2011",
-        "Notice on Further Improving Energy-Saving and NEV Demonstration & Promotion Pilot Work",
-        "MOF, MOST, MIIT, NDRC",
-        "Expanded pilot cities to 25. Specified charging infrastructure support policies and NEV promotion targets. Required each pilot city to develop demonstration promotion plans.",
-        "Four-ministry joint public document"
-      ],
-      [
-        "11",
-        "April 2012",
-        "Energy-Saving and New Energy Vehicle Industry Development Plan (2012-2020)",
-        "State Council (Guo Fa [2012] No. 22)",
-        "First national-level NEV industry development plan: target of 500,000 cumulative BEV+PHEV production & sales by 2015; 2 million annual capacity and 5+ million cumulative by 2020. Established \"pure electric drive\" as the primary strategic direction for China's automotive industry transformation.",
-        "State Council Guo Fa [2012] No. 22; gov.cn"
-      ],
-      [
-        "12",
-        "July 2014",
-        "Announcement on Exempting NEVs from Vehicle Purchase Tax",
-        "MOF, SAT, MIIT (Announcement 2014 No. 53)",
-        "From Sept 1, 2014 to Dec 31, 2017, NEV purchases exempted from vehicle purchase tax. First batch of \"NEV Models Exempt from Vehicle Purchase Tax\" catalog published simultaneously. Policy was subsequently extended multiple times.",
-        "MOF, SAT, MIIT Announcement 2014 No. 53"
-      ],
-      [
-        "13",
-        "July 2014",
-        "Guiding Opinions on Accelerating NEV Promotion and Application",
-        "State Council General Office (Guo Ban Fa [2014] No. 35)",
-        "Required local governments to eliminate protectionism, implement charging facility construction responsibilities, and improve comprehensive policy system for NEV promotion. Specified 25 measures across 6 areas.",
-        "Guo Ban Fa [2014] No. 35"
-      ],
-      [
-        "14",
-        "November 2014",
-        "Notice on Rewards for NEV Charging Facility Construction",
-        "MOF, MOST, MIIT, NDRC (Cai Jian [2014] No. 692)",
-        "Provided central finance rewards to cities with significant NEV promotion and outstanding charging facility construction. Rewards tiered by promotion volume.",
-        "Cai Jian [2014] No. 692"
-      ],
-      [
-        "15",
-        "May 2015",
-        "\"Made in China 2025\"",
-        "State Council (Guo Fa [2015] No. 28)",
-        "Listed \"energy-saving and new energy vehicles\" as one of 10 key sectors. Targeted NEV complete vehicle and core component technology reaching international advanced levels by 2025. Domestic brand NEV market share target of 80%+ by 2025. \"Intelligent connected vehicles\" (ICVs) mentioned for first time in national strategy.",
-        "State Council Guo Fa [2015] No. 28; gov.cn"
-      ],
-      [
-        "16",
-        "April 2015",
-        "2016-2020 NEV Promotion and Application Financial Support Policy",
-        "MOF, MOST, MIIT, NDRC (Cai Jian [2015] No. 134)",
-        "Specified 2016-2020 NEV subsidy standards and phase-down mechanism: subsidies reduced 20% in 2017-2018 and 40% in 2019-2020 vs 2016 baseline. Differentiated subsidies for BEV, PHEV, and FCV.",
-        "Cai Jian [2015] No. 134"
-      ],
-      [
-        "17",
-        "December 2016",
-        "Notice on Adjusting NEV Promotion and Application Financial Subsidy Policies",
-        "MOF, MOST, MIIT, NDRC (Cai Jian [2016] No. 958)",
-        "Following subsidy fraud investigation (\"fraud compensation\"), substantially revised policies: raised subsidy thresholds (e.g., BEV range ≥100km), reduced amounts, established national + local subsidy cap (≤50% of national subsidy), and introduced non-personal user mileage requirement (30,000 km).",
-        "Cai Jian [2016] No. 958"
-      ],
-      [
-        "18",
-        "June 2017",
-        "Parallel Management Measures for Corporate Average Fuel Consumption and New Energy Vehicle Credits (Dual-Credit Policy)",
-        "MIIT, MOF, MOFCOM, GAC, AQSIQ (Order No. 44)",
-        "First established dual-credit parallel management mechanism (CAFC + NEV credits). Required passenger vehicle enterprises to meet NEV credit ratios from 2019 (10% in 2019, 12% in 2020). Non-compliant enterprises must purchase credits or face penalties. Viewed as long-term mechanism after subsidy phase-down.",
-        "MIIT Order No. 44"
-      ],
-      [
-        "19",
-        "December 2017",
-        "Announcement on Extending NEV Vehicle Purchase Tax Exemption",
-        "MOF, SAT, MIIT, MOST (2017 No. 172 Announcement)",
-        "Extended NEV vehicle purchase tax exemption to Dec 31, 2020. [further verification needed on exact announcement number]",
-        "MOF Announcement 2017 No. 172"
-      ],
-      [
-        "20",
-        "February 2018",
-        "Notice on Adjusting and Improving NEV Promotion Financial Subsidy Policies",
-        "MOF, MIIT, MOST, NDRC (Cai Jian [2018] No. 18)",
-        "Further raised subsidy thresholds: BEV minimum range requirement increased to 150 km, battery energy density requirement ≥120 Wh/kg. General subsidy reduction with differentiated \"supporting the strong\" approach.",
-        "Cai Jian [2018] No. 18"
-      ],
-      [
-        "21",
-        "March 2018",
-        "Management Specification for Intelligent Connected Vehicle Road Testing (Trial)",
-        "MIIT, Ministry of Public Security, Ministry of Transport",
-        "First national-level regulation for ICV (autonomous driving) public road testing. Specified testing entities, vehicles, driver conditions, and application procedures. Provided unified legal framework for autonomous driving road tests nationwide.",
-        "MIIT official website; MIIT Lian Zhuang [2018] No. 66"
-      ],
-      [
-        "22",
-        "March 2019",
-        "Notice on Further Improving NEV Promotion Financial Subsidy Policies",
-        "MOF, MIIT, MOST, NDRC (Cai Jian [2019] No. 138)",
-        "Major phase-down: BEV subsidy amounts reduced by ≈50-60% vs 2018. Range threshold raised to 250 km (from 150 km). Local subsidies (local purchase subsidies) eliminated. Vehicles under 250 km range no longer eligible after transition period. \"Weaning period\" began.",
-        "Cai Jian [2019] No. 138"
-      ],
-      [
-        "23",
-        "May 2019",
-        "Pilot Plan for Supporting NEV Power Battery Recycling",
-        "Ministry of Industry and Information Technology",
-        "Launched NEV power battery recycling pilots in 17 regions nationwide. Established battery coding traceability management platform. Promoted echelon utilization and recycling industry system development.",
-        "MIIT official website; MIIT Jie Han [2018] No. 68 [further verification needed on document number]"
-      ],
-      [
-        "24",
-        "April 2020",
-        "Notice on Improving NEV Promotion Financial Subsidy Policies",
-        "MOF, MIIT, MOST, NDRC (Cai Jian [2020] No. 86)",
-        "Extended NEV subsidy policy to end of 2022 (originally scheduled to end in 2020). Established dedicated \"battery swap\" subsidy model. Subsidy standards phased down 10%, 20%, 30% annually in 2020-2022. Continued to raise vehicle energy consumption and battery energy density requirements.",
-        "Cai Jian [2020] No. 86"
-      ],
-      [
-        "25",
-        "October 2020",
-        "New Energy Vehicle Industry Development Plan (2021-2035)",
-        "State Council General Office (Guo Ban Fa [2020] No. 39)",
-        "Target: NEV sales reach ~20% of total new vehicle sales by 2025; BEVs become mainstream by 2035. Deepened \"Three Verticals, Three Horizontals\" R&D framework. Promoted electrification, connectivity, and intelligentization integration. Targeted commercialization of highly autonomous vehicles in limited areas and specific scenarios by 2025. Specified full electrification goals for public sector vehicles.",
-        "Guo Ban Fa [2020] No. 39; gov.cn"
-      ],
-      [
-        "26",
-        "November 2020",
-        "New Energy Vehicle Industry Development Plan (2021-2035) (Formal Issuance)",
-        "State Council General Office",
-        "Clarified five key tasks: enhancing technological innovation capability, building a new industrial ecosystem, promoting integrated industrial development, improving the infrastructure system, and deepening opening-up and cooperation. Encouraged power battery recycling and hydrogen fuel cell vehicle development.",
-        "Guo Ban Fa [2020] No. 39"
-      ],
-      [
-        "27",
-        "February 2021",
-        "National Comprehensive Three-Dimensional Transport Network Planning Outline",
-        "CPC Central Committee, State Council",
-        "Proposed coordinated layout of transportation and information infrastructure. Promoted vehicle-road coordination and autonomous driving technology development. Emphasized smart transportation and NEV coordinated development.",
-        "CPC Central Committee, State Council public document"
-      ],
-      [
-        "28",
-        "March 2021",
-        "14th Five-Year Plan for National Economic and Social Development and 2035 Vision Targets",
-        "National People's Congress",
-        "Defined strategic emerging industries focusing on NEVs. Promoted autonomous driving and connected vehicle key technology research. Cultivated and expanded intelligent connected vehicles as new growth drivers.",
-        "NPC resolution; gov.cn"
-      ],
-      [
-        "29",
-        "April 2021",
-        "ICV Production Enterprise and Product Access Management Guidelines (Trial)",
-        "Ministry of Industry and Information Technology",
-        "Specified ICV production enterprise and product access conditions. Required enterprises to have functional safety, SOTIF, cybersecurity, and data security assurance capabilities. Regulated L3/L4 autonomous driving product access application procedures. [further verification needed on document number]",
-        "MIIT Equipment Industry Division I public document"
-      ],
-      [
-        "30",
-        "April 2021",
-        "Notice on Organizing NEV Battery Swap Mode Application Pilot",
-        "MIIT, National Energy Administration",
-        "Launched NEV battery swap mode application pilot. Formally designated 8 comprehensive application cities (Beijing, Nanjing, Wuhan, Sanya, Chongqing, Changchun, Hefei, Jinan) and 3 heavy-truck featured cities (Yibin, Tangshan, Baotou) in October 2021.",
-        "MIIT General Office public document (October 2021)"
-      ],
-      [
-        "31",
-        "May 2021",
-        "Guiding Opinions on Further Strengthening NEV Safety System Construction (Draft for Comments)",
-        "Ministry of Industry and Information Technology",
-        "Strengthened requirements for NEV complete vehicle and power battery product safety design, production consistency management, operational monitoring, and accident emergency response. [further verification needed on final release document number and date]",
-        "MIIT public consultation document"
-      ],
-      [
-        "32",
-        "July 2021",
-        "Management Specification for ICV Road Testing and Demonstration Application (Trial)",
-        "MIIT, MPS, MOT",
-        "Revised from 2018 \"ICV Road Testing Management Specification.\" Expanded scope to include passenger and freight demonstration applications and highway testing. Further refined testing and demonstration management requirements.",
-        "MIIT official website; MIIT Lian Zhuang [2021] No. 97"
-      ],
-      [
-        "33",
-        "August 2021",
-        "Opinions on Strengthening ICV Production Enterprise and Product Access Management",
-        "Ministry of Industry and Information Technology",
-        "Required ICV production enterprises to establish cybersecurity, data security, and functional safety assurance capabilities. Regulated OTA (over-the-air) update management. Strengthened autonomous driving function product safety management, specifying L3+ autonomous driving system access requirements.",
-        "MIIT official website; MIIT Zhuang [2021] No. 11 [further verification needed]"
-      ],
-      [
-        "34",
-        "October 2021",
-        "Opinions on Fully, Accurately, and Comprehensively Implementing the New Development Philosophy for Carbon Peak and Carbon Neutrality",
-        "CPC Central Committee, State Council",
-        "Clarified accelerating low-carbon transportation system construction. Actively expanding new/clean energy applications in transportation. Promoting NEVs and gradually reducing traditional fuel vehicle share in new vehicle production, sales, and fleet.",
-        "CPC Central Committee, State Council public document"
-      ],
-      [
-        "35",
-        "October 2021",
-        "Action Plan for Carbon Peaking by 2030",
-        "State Council (Guo Fa [2021] No. 23)",
-        "Targeted ~40% of new vehicles to be new/clean energy by 2030. Vigorously promoted NEVs with gradual reduction of traditional fuel vehicle share in new vehicle production/sales. Orderly promoted charging infrastructure construction.",
-        "Guo Fa [2021] No. 23"
-      ],
-      [
-        "36",
-        "December 2021",
-        "NEV Commercial Insurance Exclusive Clauses (Trial)",
-        "China Insurance行业协会 (Insurance Association of China)",
-        "Released exclusive insurance product clauses for NEVs addressing \"three-electric\" system (battery, motor, electronic control) specific risks, separating from traditional fuel vehicle insurance products. NEV insurance trading platform launched on December 27, 2021.",
-        "Insurance Association of China; Shanghai Insurance Exchange"
-      ],
-      [
-        "37",
-        "December 2021",
-        "Guiding Opinions on Strengthening EV Charging Facility Construction (2021 Edition)",
-        "NDRC, NEA, MIIT, et al. (multiple ministries)",
-        "Proposed building moderately advanced, balanced, and smart charging infrastructure system by end of \"14th Five-Year\" period, meeting 20+ million EV charging demand. Promoted residential community and urban-rural charging network coverage.",
-        "NDRC, NEA public document"
-      ],
-      [
-        "38",
-        "January 2022",
-        "Notice on 2022 NEV Promotion Financial Subsidy Policy",
-        "MOF, MIIT, MOST, NDRC (Cai Jian [2021] No. 465)",
-        "2022 NEV subsidy standards phased down 30% from 2021. Clarified that NEVs registered after Dec 31, 2022 would no longer receive central financial subsidies (national subsidy termination).",
-        "Cai Jian [2021] No. 465"
-      ],
-      [
-        "39",
-        "March 2022",
-        "\"14th Five-Year Plan\" for Modern Energy System",
-        "NDRC, NEA",
-        "Promoted NEV-grid interactive energy management (V2G). Advanced EV charging facility network construction. Promoted hydrogen technology development and FCV demonstration applications.",
-        "NDRC, NEA public document (Fa Gai Neng Yuan [2022] No. 210)"
-      ],
-      [
-        "40",
-        "April 2022",
-        "Guiding Opinions on Further Strengthening NEV Enterprise Safety System Construction",
-        "MIIT, MPS, MOT, MEM, SAMR",
-        "Five-ministry joint document. Comprehensively improved NEV safety levels covering safety management mechanisms, product quality (including power batteries), operational monitoring platform effectiveness, safety incident response, etc.",
-        "MIIT official website (April 8, 2022)"
-      ],
-      [
-        "41",
-        "June 2022",
-        "Notice on 2022 NEV \"Go to the Countryside\" Campaign",
-        "MIIT, MARA, MOFCOM, NEA",
-        "Continued organizing NEV \"go to the countryside\" campaign. Encouraged local governments to introduce supporting policies for rural areas. Guided rural residents toward green mobility.",
-        "MIIT Equipment Industry Division I public document"
-      ],
-      [
-        "42",
-        "July 2022",
-        "Several Measures on Further Expanding Auto Consumption",
-        "MOFCOM and 16 other ministries",
-        "Proposed supporting NEV consumption. Researching extension of NEV vehicle purchase tax exemption policy beyond expiration. Deepening NEV \"go to the countryside\" and trade-in programs. Accelerating charging infrastructure construction.",
-        "MOFCOM public document"
-      ],
-      [
-        "43",
-        "September 2022",
-        "Announcement on Extending NEV Vehicle Purchase Tax Exemption Policy",
-        "MOF, SAT, MIIT (2022 No. 21 Announcement)",
-        "Extended NEV vehicle purchase tax exemption to Dec 31, 2023. NEVs purchased between Jan 1, 2023 and Dec 31, 2023 exempted from vehicle purchase tax. [further verification needed on announcement number]",
-        "MOF, SAT, MIIT Announcement"
-      ],
-      [
-        "44",
-        "November 2022",
-        "Notice on Launching Public Sector Vehicle Full Electrification Pilot Zones",
-        "MIIT, MOT, NDRC, et al.",
-        "Launched public sector full electrification pilots in eligible cities covering buses, taxis, logistics, sanitation, postal services. Quantitative target: NEV ratio ≥80% in pilot zone public sector vehicles. [further verification needed on exact issuance date]",
-        "MIIT public document"
-      ],
-      [
-        "45",
-        "November 2022",
-        "ICV Access and Road Operation Pilot Work Guidelines (Draft for Comments)",
-        "Ministry of Industry and Information Technology",
-        "Explored establishment of product access and road operation pilot management systems for L3/L4 ICVs. Provided policy framework for autonomous driving commercial application. [further verification needed on final version]",
-        "MIIT Equipment Industry Division I public consultation"
-      ],
-      [
-        "46",
-        "January 2023",
-        "Notice on Several Measures to Further Vitalize Auto Circulation and Expand Auto Consumption",
-        "MOFCOM and 16 other ministries",
-        "Continued to support NEV purchases and use. Promoted cross-regional free circulation of NEVs. Encouraged scrapping and upgrading of old vehicles and NEV replacement programs.",
-        "MOFCOM public document"
-      ],
-      [
-        "47",
-        "June 2023",
-        "Announcement on Extending and Optimizing NEV Vehicle Purchase Tax Reduction/Exemption Policy",
-        "MOF, SAT, MIIT (2023 No. 10 Announcement)",
-        "New policy: NEVs purchased Jan 1, 2024 - Dec 31, 2025 exempt from vehicle purchase tax (cap of 30,000 yuan/vehicle); Jan 1, 2026 - Dec 31, 2027 half-rated purchase tax (cap of 15,000 yuan/vehicle).",
-        "MOF, SAT, MIIT Announcement 2023 No. 10"
-      ],
-      [
-        "48",
-        "June 2023",
-        "Guiding Opinions on Further Building a High-Quality Charging Infrastructure System",
-        "State Council General Office (Guo Ban Fa [2023] No. 19)",
-        "By 2030, basically build a widespread, appropriately sized, well-structured, and fully functional high-quality charging infrastructure system. Proposed convenient and efficient intercity and urban charging networks, plus effective rural area coverage.",
-        "Guo Ban Fa [2023] No. 19"
-      ],
-      [
-        "49",
-        "September 2023",
-        "Announcement on Adjusting Technical Requirements for NEV Products Eligible for Vehicle Purchase Tax Reduction/Exemption",
-        "MIIT, MOF, SAT (2023 No. 32 Announcement)",
-        "Adjusted and refined technical conditions for NEVs eligible for vehicle purchase tax reduction/exemption. Raised requirements for vehicle energy consumption, driving range, power battery system energy density, etc.",
-        "MIIT, MOF, SAT Announcement 2023 No. 32"
-      ],
-      [
-        "50",
-        "November 2023",
-        "Notice on Launching ICV Access and Road Operation Pilot Work",
-        "MIIT, MPS, MOHURD, MOT (MIIT Lian Tong Zhuang [2023] No. 217)",
-        "Formally launched L3/L4 ICV access and road operation pilot. Specified pilot application procedures, access conditions, user entities, road operation management details. First time allowing L3/L4 autonomous passenger cars and trucks on public roads.",
-        "MIIT Lian Tong Zhuang [2023] No. 217"
-      ],
-      [
-        "51",
-        "December 2023",
-        "Announcement on Adjusting Technical Requirements for NEV Products Eligible for Vehicle Purchase Tax Reduction/Exemption",
-        "MIIT, MOF, SAT (2023 No. 32 Announcement)",
-        "Effective Jan 1, 2024, models applying for inclusion in \"NEV Vehicle Purchase Tax Reduction/Exemption Catalog\" must meet adjusted technical requirements including driving range and battery energy density indicators.",
-        "MIIT, MOF, SAT Announcement 2023 No. 32"
-      ],
-      [
-        "52",
-        "January 2024",
-        "Notice on Organizing 2024 NEV \"Go to the Countryside\" Campaign",
-        "MIIT, NDRC, MARA, MOFCOM, NEA",
-        "Continued 2024 NEV \"go to the countryside\" campaign. Selected models suitable for rural markets. Increased promotional efforts. Improved rural charging facility construction.",
-        "MIIT public document"
-      ],
-      [
-        "53",
-        "March 2024",
-        "Guiding Opinions on Accelerating Green Development of the Manufacturing Industry",
-        "MIIT and 6 other ministries",
-        "Promoted green development of the NEV industry chain, including power battery recycling system construction and vehicle manufacturing carbon footprint management.",
-        "MIIT public document"
-      ],
-      [
-        "54",
-        "May 2024",
-        "Notice on Launching ICV \"Vehicle-Road-Cloud Integration\" Application Pilot",
-        "MIIT, MPS, MNR, MOHURD, MOT",
-        "Selected cities nationwide for \"Vehicle-Road-Cloud Integration\" application pilot. Promoted C-V2X technology large-scale application. Built city-level vehicle-road-cloud integrated infrastructure.",
-        "MIIT et al. (5 ministries) public document (May 2024)"
-      ],
-      [
-        "55",
-        "July 2024",
-        "Notice on Further Improving NEV Power Battery Recycling",
-        "MIIT, et al.",
-        "Strengthened power battery recycling industry standardization. Advanced power battery full lifecycle traceability management system. Standardized recycling service network construction.",
-        "MIIT Energy Conservation and Comprehensive Utilization Division public document"
-      ],
-      [
-        "56",
-        "September 2024",
-        "Opinions on Improving Urban Charging and Battery Swap Facility Construction",
-        "NEA, MOHURD, MOT, et al.",
-        "Accelerated charging/battery swap facility construction in residential communities, office buildings, and commercial areas. Promoted charging pile integration into urban infrastructure planning.",
-        "NEA public document"
-      ],
-      [
-        "57",
-        "November 2024",
-        "Several Policy Measures on Further Consolidating and Enhancing NEV Industry Advantages",
-        "MIIT, et al.",
-        "Introduced a series of measures in areas including technological innovation, standards system building, industry chain coordination, and brand development to consolidate China's leading position in the NEV industry. [further verification needed on formal document number]",
-        "MIIT public document"
-      ],
-      [
-        "58",
-        "December 2024",
-        "Notice on 2025 NEV Promotion Policy",
-        "MOF, MIIT, MOST, NDRC",
-        "Clarified 2025 NEV subsidy policy adjustments. From January 2024, subsidies substantially reduced; post-2025 primarily non-direct subsidy methods: tax exemption/reduction, traffic right prioritization, charging discounts, etc. [further verification needed on specific document content and number]",
-        "Relevant ministry public documents; industry reports"
-      ],
-      [
-        "59",
-        "January 2025",
-        "2025 Action Plan for Promoting High-Quality NEV Industry Development",
-        "Ministry of Industry and Information Technology",
-        "Proposed 2025 NEV sales share targets and core technology breakthrough directions. Promoted key areas such as vehicle-grade chips and operating systems.",
-        "MIIT press conference information (January 2025)"
-      ],
-      [
-        "60",
-        "February 2025",
-        "Power Battery Recycling Management Measures (Revised Edition)",
-        "Ministry of Industry and Information Technology",
-        "Strengthened the extended producer responsibility system for power batteries. Established a unified and standardized battery recycling network and traceability management system. [further verification needed on final document number]",
-        "MIIT public document"
-      ],
-      [
-        "61",
-        "April 2025",
-        "ICV Standard System (2025 Edition)",
-        "Ministry of Industry and Information Technology",
-        "Updated ICV standard system roadmap covering functional safety, SOTIF, cybersecurity, data security, human-machine interaction, and autonomous driving test and evaluation standards. [further verification needed on release version]",
-        "MIIT Equipment Industry Division I public document"
-      ],
-      [
-        "62",
-        "August 2025",
-        "Opinions on Measures to Expand NEV Exports",
-        "MOFCOM, MIIT, GAC, et al.",
-        "Promoted facilitation of NEV and power battery exports. Supported enterprises in establishing overseas production and after-sales service networks. Addressed international trade barriers.",
-        "MOFCOM public document"
-      ],
-      [
-        "63",
-        "September 2025",
-        "Announcement on Adjusting Technical Requirements for Energy-Saving and NEV Products Eligible for Vehicle/Vessel Tax Reduction",
-        "MIIT, MOF, SAT (2025 No. 25 Announcement)",
-        "Adjusted technical requirements for energy-saving and NEV products eligible for vehicle/vessel tax reduction. Effective January 1, 2026.",
-        "MIIT, MOF, SAT Announcement 2025 No. 25"
-      ],
-      [
-        "64",
-        "October 2025",
-        "NEV Operation Safety Inspection Standards",
-        "SAMR, MIIT, MOT",
-        "Developed specialized periodic inspection standards and procedures targeting the unique safety characteristics of NEVs, particularly the \"three-electric\" system (battery, motor, electronic control). [further verification needed on final release]",
-        "SAMR, MIIT public document"
-      ],
-      [
-        "65",
-        "December 2025",
-        "ICV Testing and Demonstration Management Measures (Revised)",
-        "MIIT, MPS, MOT",
-        "Revised and improved ICV testing and demonstration management regulations based on recent \"Vehicle-Road-Cloud Integration\" pilot experience. Expanded testing and demonstration area scope.",
-        "MIIT, MPS, MOT public document"
-      ],
-      [
-        "66",
-        "January 2026",
-        "Implementation Measures for 2026-2027 NEV Vehicle Purchase Tax Half-Rate Policy",
-        "MOF, SAT, MIIT",
-        "Based on 2023 No. 10 Announcement: Jan 1, 2026 - Dec 31, 2027, NEVs subject to half-rate vehicle purchase tax (tax reduction cap of 15,000 yuan/vehicle). Specified implementation details.",
-        "MOF, SAT, MIIT Announcement"
-      ],
-      [
-        "67",
-        "January 2026",
-        "Interim Measures for NEV Waste Power Battery Recycling and Comprehensive Utilization",
-        "MIIT and 5 other ministries",
-        "Following \"full-channel, full-chain, full-lifecycle\" management approach. Effective April 1, 2026. Established full-process regulatory system for waste battery collection, transportation, storage, dismantling, and recycling.",
-        "MIIT et al. (6 ministries) public document (January 16, 2026)"
-      ],
-      [
-        "68",
-        "February 2026",
-        "Vehicle-Road-Cloud Integration Standard System Construction Guide",
-        "MIIT, Standardization Administration of China",
-        "Established vehicle-road-cloud integration standard system covering perception, communication, computing, control, and security domains. Guided subsequent technical standard development.",
-        "MIIT, SAC public document"
-      ],
-      [
-        "69",
-        "March 2026",
-        "Notice on Expanding Hydrogen FCV Demonstration Application",
-        "MIIT, NDRC, NEA",
-        "Expanded FCV demonstration city cluster scope and application areas beyond initial 5 clusters (Beijing-Tianjin-Hebei, Shanghai, Guangdong, Hebei, Henan).",
-        "MIIT et al. public document"
-      ],
-      [
-        "70",
-        "April 2026",
-        "NEV Waste Power Battery Recycling and Comprehensive Utilization Management Interim Measures Take Effect",
-        "MIIT and 5 other ministries",
-        "Formally effective from April 1, 2026. Full lifecycle traceability management for waste power batteries covering recycling network construction, echelon utilization, recycling, and environmental supervision.",
-        "MIIT et al. (6 ministries) public document"
-      ]
-    ]
-  ]
-}
+[
+  {
+    "date": "No.",
+    "policy_name": "Date",
+    "issuing_body": "Policy Name",
+    "content": "Issuing Authority",
+    "source": "Core Content"
+  },
+  {
+    "date": "1",
+    "policy_name": "March 1986",
+    "issuing_body": "National High-Tech R&D Program (863 Program)",
+    "content": "CPC Central Committee & State Council (approved); State Science and Technology Commission (implemented)",
+    "source": "Included \"electric vehicles\" in the national high-tech R&D program, marking the official start of China's NEV technology R&D. The 863 Program selected 7 fields including biotechnology, aerospace, IT, laser, automation, energy, and new materials. The automation field included intelligent robots and electric vehicles. [further verification needed on specific project codes]"
+  },
+  {
+    "date": "2",
+    "policy_name": "1991",
+    "issuing_body": "\"Eighth Five-Year\" Science & Technology Key Project — Electric Vehicle Key Technologies",
+    "content": "State Planning Commission, State Science and Technology Commission",
+    "source": "Listed electric vehicle key technologies as a national S&T key project during the \"Eighth Five-Year Plan\" period, focusing on basic technologies such as EV complete vehicle technology and drive motor systems."
+  },
+  {
+    "date": "3",
+    "policy_name": "September 2001",
+    "issuing_body": "\"Tenth Five-Year\" National S&T Key Project — \"Electric Vehicle Major Special Project\"",
+    "content": "Ministry of Science and Technology (MOST)",
+    "source": "Formally established the \"Electric Vehicle Major Special Project\" with ≈8.8 billion yuan investment (≈24 billion yuan including local and enterprise matching funds). Established the \"Three Verticals, Three Horizontals\" R&D framework (3 verticals: BEV, HEV, FCV; 3 horizontals: motor, battery, electronic control)."
+  },
+  {
+    "date": "4",
+    "policy_name": "May 2004",
+    "issuing_body": "Automotive Industry Development Policy",
+    "content": "National Development and Reform Commission (NDRC, Order No. 8)",
+    "source": "For the first time in national auto industry policy, encouraged development of energy-efficient and environmentally friendly vehicles and NEVs. Explicitly supported R&D and industrialization of EVs, HEVs, and other new powertrains."
+  },
+  {
+    "date": "5",
+    "policy_name": "February 2006",
+    "issuing_body": "National Medium- and Long-Term S&T Development Plan (2006-2020)",
+    "content": "State Council (Guo Fa [2006] No. 6)",
+    "source": "Listed \"low-energy and new energy vehicles\" and \"hydrogen and fuel cell technology\" as priority themes and frontier technologies. Designated NEVs as a key field of national strategic demand."
+  },
+  {
+    "date": "6",
+    "policy_name": "November 2007",
+    "issuing_body": "NEV Production Access Management Rules",
+    "content": "National Development and Reform Commission (Announcement 2007 No. 72)",
+    "source": "First established China's NEV production enterprise and product access management system. Defined the scope of NEVs (BEV, HEV, FCV, etc.). Standardized enterprise production qualification and product access conditions."
+  },
+  {
+    "date": "7",
+    "policy_name": "January 2009",
+    "issuing_body": "Notice on Launching Energy-Efficient and NEV Demonstration & Promotion Pilot (EV1000 / \"Ten Cities, Thousand Vehicles\" Program)",
+    "content": "Ministry of Finance, MOST (Cai Jian [2009] No. 6)",
+    "source": "Launched energy-efficient and NEV demonstration promotion pilots in 13 cities including Beijing, Shanghai, Chongqing. Planned to promote 1,000+ NEVs in public service areas within 3 years. Central finance provided one-time purchase subsidies. First batch of 13 cities began in February 2009."
+  },
+  {
+    "date": "8",
+    "policy_name": "June 2009",
+    "issuing_body": "\"Ten Cities, Thousand Vehicles\" Program Supplemental Notice",
+    "content": "Ministry of Finance, MOST",
+    "source": "Expanded pilot cities from 13 to 20. Increased NEV promotion intensity in public transport, taxi, government, and sanitation sectors."
+  },
+  {
+    "date": "9",
+    "policy_name": "May 2010",
+    "issuing_body": "Notice on Launching Private Purchase of NEV Subsidy Pilot",
+    "content": "MOF, MOST, MIIT, NDRC (Cai Jian [2010] No. 230)",
+    "source": "Launched private purchase NEV subsidy pilots in Shanghai, Changchun, Shenzhen, Hangzhou, Hefei. Provided one-time subsidies for BEVs and PHEVs (max 60,000 yuan/vehicle)."
+  },
+  {
+    "date": "10",
+    "policy_name": "October 2011",
+    "issuing_body": "Notice on Further Improving Energy-Saving and NEV Demonstration & Promotion Pilot Work",
+    "content": "MOF, MOST, MIIT, NDRC",
+    "source": "Expanded pilot cities to 25. Specified charging infrastructure support policies and NEV promotion targets. Required each pilot city to develop demonstration promotion plans."
+  },
+  {
+    "date": "11",
+    "policy_name": "April 2012",
+    "issuing_body": "Energy-Saving and New Energy Vehicle Industry Development Plan (2012-2020)",
+    "content": "State Council (Guo Fa [2012] No. 22)",
+    "source": "First national-level NEV industry development plan: target of 500,000 cumulative BEV+PHEV production & sales by 2015; 2 million annual capacity and 5+ million cumulative by 2020. Established \"pure electric drive\" as the primary strategic direction for China's automotive industry transformation."
+  },
+  {
+    "date": "12",
+    "policy_name": "July 2014",
+    "issuing_body": "Announcement on Exempting NEVs from Vehicle Purchase Tax",
+    "content": "MOF, SAT, MIIT (Announcement 2014 No. 53)",
+    "source": "From Sept 1, 2014 to Dec 31, 2017, NEV purchases exempted from vehicle purchase tax. First batch of \"NEV Models Exempt from Vehicle Purchase Tax\" catalog published simultaneously. Policy was subsequently extended multiple times."
+  },
+  {
+    "date": "13",
+    "policy_name": "July 2014",
+    "issuing_body": "Guiding Opinions on Accelerating NEV Promotion and Application",
+    "content": "State Council General Office (Guo Ban Fa [2014] No. 35)",
+    "source": "Required local governments to eliminate protectionism, implement charging facility construction responsibilities, and improve comprehensive policy system for NEV promotion. Specified 25 measures across 6 areas."
+  },
+  {
+    "date": "14",
+    "policy_name": "November 2014",
+    "issuing_body": "Notice on Rewards for NEV Charging Facility Construction",
+    "content": "MOF, MOST, MIIT, NDRC (Cai Jian [2014] No. 692)",
+    "source": "Provided central finance rewards to cities with significant NEV promotion and outstanding charging facility construction. Rewards tiered by promotion volume."
+  },
+  {
+    "date": "15",
+    "policy_name": "May 2015",
+    "issuing_body": "\"Made in China 2025\"",
+    "content": "State Council (Guo Fa [2015] No. 28)",
+    "source": "Listed \"energy-saving and new energy vehicles\" as one of 10 key sectors. Targeted NEV complete vehicle and core component technology reaching international advanced levels by 2025. Domestic brand NEV market share target of 80%+ by 2025. \"Intelligent connected vehicles\" (ICVs) mentioned for first time in national strategy."
+  },
+  {
+    "date": "16",
+    "policy_name": "April 2015",
+    "issuing_body": "2016-2020 NEV Promotion and Application Financial Support Policy",
+    "content": "MOF, MOST, MIIT, NDRC (Cai Jian [2015] No. 134)",
+    "source": "Specified 2016-2020 NEV subsidy standards and phase-down mechanism: subsidies reduced 20% in 2017-2018 and 40% in 2019-2020 vs 2016 baseline. Differentiated subsidies for BEV, PHEV, and FCV."
+  },
+  {
+    "date": "17",
+    "policy_name": "December 2016",
+    "issuing_body": "Notice on Adjusting NEV Promotion and Application Financial Subsidy Policies",
+    "content": "MOF, MOST, MIIT, NDRC (Cai Jian [2016] No. 958)",
+    "source": "Following subsidy fraud investigation (\"fraud compensation\"), substantially revised policies: raised subsidy thresholds (e.g., BEV range ≥100km), reduced amounts, established national + local subsidy cap (≤50% of national subsidy), and introduced non-personal user mileage requirement (30,000 km)."
+  },
+  {
+    "date": "18",
+    "policy_name": "June 2017",
+    "issuing_body": "Parallel Management Measures for Corporate Average Fuel Consumption and New Energy Vehicle Credits (Dual-Credit Policy)",
+    "content": "MIIT, MOF, MOFCOM, GAC, AQSIQ (Order No. 44)",
+    "source": "First established dual-credit parallel management mechanism (CAFC + NEV credits). Required passenger vehicle enterprises to meet NEV credit ratios from 2019 (10% in 2019, 12% in 2020). Non-compliant enterprises must purchase credits or face penalties. Viewed as long-term mechanism after subsidy phase-down."
+  },
+  {
+    "date": "19",
+    "policy_name": "December 2017",
+    "issuing_body": "Announcement on Extending NEV Vehicle Purchase Tax Exemption",
+    "content": "MOF, SAT, MIIT, MOST (2017 No. 172 Announcement)",
+    "source": "Extended NEV vehicle purchase tax exemption to Dec 31, 2020. [further verification needed on exact announcement number]"
+  },
+  {
+    "date": "20",
+    "policy_name": "February 2018",
+    "issuing_body": "Notice on Adjusting and Improving NEV Promotion Financial Subsidy Policies",
+    "content": "MOF, MIIT, MOST, NDRC (Cai Jian [2018] No. 18)",
+    "source": "Further raised subsidy thresholds: BEV minimum range requirement increased to 150 km, battery energy density requirement ≥120 Wh/kg. General subsidy reduction with differentiated \"supporting the strong\" approach."
+  },
+  {
+    "date": "21",
+    "policy_name": "March 2018",
+    "issuing_body": "Management Specification for Intelligent Connected Vehicle Road Testing (Trial)",
+    "content": "MIIT, Ministry of Public Security, Ministry of Transport",
+    "source": "First national-level regulation for ICV (autonomous driving) public road testing. Specified testing entities, vehicles, driver conditions, and application procedures. Provided unified legal framework for autonomous driving road tests nationwide."
+  },
+  {
+    "date": "22",
+    "policy_name": "March 2019",
+    "issuing_body": "Notice on Further Improving NEV Promotion Financial Subsidy Policies",
+    "content": "MOF, MIIT, MOST, NDRC (Cai Jian [2019] No. 138)",
+    "source": "Major phase-down: BEV subsidy amounts reduced by ≈50-60% vs 2018. Range threshold raised to 250 km (from 150 km). Local subsidies (local purchase subsidies) eliminated. Vehicles under 250 km range no longer eligible after transition period. \"Weaning period\" began."
+  },
+  {
+    "date": "23",
+    "policy_name": "May 2019",
+    "issuing_body": "Pilot Plan for Supporting NEV Power Battery Recycling",
+    "content": "Ministry of Industry and Information Technology",
+    "source": "Launched NEV power battery recycling pilots in 17 regions nationwide. Established battery coding traceability management platform. Promoted echelon utilization and recycling industry system development."
+  },
+  {
+    "date": "24",
+    "policy_name": "April 2020",
+    "issuing_body": "Notice on Improving NEV Promotion Financial Subsidy Policies",
+    "content": "MOF, MIIT, MOST, NDRC (Cai Jian [2020] No. 86)",
+    "source": "Extended NEV subsidy policy to end of 2022 (originally scheduled to end in 2020). Established dedicated \"battery swap\" subsidy model. Subsidy standards phased down 10%, 20%, 30% annually in 2020-2022. Continued to raise vehicle energy consumption and battery energy density requirements."
+  },
+  {
+    "date": "25",
+    "policy_name": "October 2020",
+    "issuing_body": "New Energy Vehicle Industry Development Plan (2021-2035)",
+    "content": "State Council General Office (Guo Ban Fa [2020] No. 39)",
+    "source": "Target: NEV sales reach ~20% of total new vehicle sales by 2025; BEVs become mainstream by 2035. Deepened \"Three Verticals, Three Horizontals\" R&D framework. Promoted electrification, connectivity, and intelligentization integration. Targeted commercialization of highly autonomous vehicles in limited areas and specific scenarios by 2025. Specified full electrification goals for public sector vehicles."
+  },
+  {
+    "date": "26",
+    "policy_name": "November 2020",
+    "issuing_body": "New Energy Vehicle Industry Development Plan (2021-2035) (Formal Issuance)",
+    "content": "State Council General Office",
+    "source": "Clarified five key tasks: enhancing technological innovation capability, building a new industrial ecosystem, promoting integrated industrial development, improving the infrastructure system, and deepening opening-up and cooperation. Encouraged power battery recycling and hydrogen fuel cell vehicle development."
+  },
+  {
+    "date": "27",
+    "policy_name": "February 2021",
+    "issuing_body": "National Comprehensive Three-Dimensional Transport Network Planning Outline",
+    "content": "CPC Central Committee, State Council",
+    "source": "Proposed coordinated layout of transportation and information infrastructure. Promoted vehicle-road coordination and autonomous driving technology development. Emphasized smart transportation and NEV coordinated development."
+  },
+  {
+    "date": "28",
+    "policy_name": "March 2021",
+    "issuing_body": "14th Five-Year Plan for National Economic and Social Development and 2035 Vision Targets",
+    "content": "National People's Congress",
+    "source": "Defined strategic emerging industries focusing on NEVs. Promoted autonomous driving and connected vehicle key technology research. Cultivated and expanded intelligent connected vehicles as new growth drivers."
+  },
+  {
+    "date": "29",
+    "policy_name": "April 2021",
+    "issuing_body": "ICV Production Enterprise and Product Access Management Guidelines (Trial)",
+    "content": "Ministry of Industry and Information Technology",
+    "source": "Specified ICV production enterprise and product access conditions. Required enterprises to have functional safety, SOTIF, cybersecurity, and data security assurance capabilities. Regulated L3/L4 autonomous driving product access application procedures. [further verification needed on document number]"
+  },
+  {
+    "date": "30",
+    "policy_name": "April 2021",
+    "issuing_body": "Notice on Organizing NEV Battery Swap Mode Application Pilot",
+    "content": "MIIT, National Energy Administration",
+    "source": "Launched NEV battery swap mode application pilot. Formally designated 8 comprehensive application cities (Beijing, Nanjing, Wuhan, Sanya, Chongqing, Changchun, Hefei, Jinan) and 3 heavy-truck featured cities (Yibin, Tangshan, Baotou) in October 2021."
+  },
+  {
+    "date": "31",
+    "policy_name": "May 2021",
+    "issuing_body": "Guiding Opinions on Further Strengthening NEV Safety System Construction (Draft for Comments)",
+    "content": "Ministry of Industry and Information Technology",
+    "source": "Strengthened requirements for NEV complete vehicle and power battery product safety design, production consistency management, operational monitoring, and accident emergency response. [further verification needed on final release document number and date]"
+  },
+  {
+    "date": "32",
+    "policy_name": "July 2021",
+    "issuing_body": "Management Specification for ICV Road Testing and Demonstration Application (Trial)",
+    "content": "MIIT, MPS, MOT",
+    "source": "Revised from 2018 \"ICV Road Testing Management Specification.\" Expanded scope to include passenger and freight demonstration applications and highway testing. Further refined testing and demonstration management requirements."
+  },
+  {
+    "date": "33",
+    "policy_name": "August 2021",
+    "issuing_body": "Opinions on Strengthening ICV Production Enterprise and Product Access Management",
+    "content": "Ministry of Industry and Information Technology",
+    "source": "Required ICV production enterprises to establish cybersecurity, data security, and functional safety assurance capabilities. Regulated OTA (over-the-air) update management. Strengthened autonomous driving function product safety management, specifying L3+ autonomous driving system access requirements."
+  },
+  {
+    "date": "34",
+    "policy_name": "October 2021",
+    "issuing_body": "Opinions on Fully, Accurately, and Comprehensively Implementing the New Development Philosophy for Carbon Peak and Carbon Neutrality",
+    "content": "CPC Central Committee, State Council",
+    "source": "Clarified accelerating low-carbon transportation system construction. Actively expanding new/clean energy applications in transportation. Promoting NEVs and gradually reducing traditional fuel vehicle share in new vehicle production, sales, and fleet."
+  },
+  {
+    "date": "35",
+    "policy_name": "October 2021",
+    "issuing_body": "Action Plan for Carbon Peaking by 2030",
+    "content": "State Council (Guo Fa [2021] No. 23)",
+    "source": "Targeted ~40% of new vehicles to be new/clean energy by 2030. Vigorously promoted NEVs with gradual reduction of traditional fuel vehicle share in new vehicle production/sales. Orderly promoted charging infrastructure construction."
+  },
+  {
+    "date": "36",
+    "policy_name": "December 2021",
+    "issuing_body": "NEV Commercial Insurance Exclusive Clauses (Trial)",
+    "content": "China Insurance行业协会 (Insurance Association of China)",
+    "source": "Released exclusive insurance product clauses for NEVs addressing \"three-electric\" system (battery, motor, electronic control) specific risks, separating from traditional fuel vehicle insurance products. NEV insurance trading platform launched on December 27, 2021."
+  },
+  {
+    "date": "37",
+    "policy_name": "December 2021",
+    "issuing_body": "Guiding Opinions on Strengthening EV Charging Facility Construction (2021 Edition)",
+    "content": "NDRC, NEA, MIIT, et al. (multiple ministries)",
+    "source": "Proposed building moderately advanced, balanced, and smart charging infrastructure system by end of \"14th Five-Year\" period, meeting 20+ million EV charging demand. Promoted residential community and urban-rural charging network coverage."
+  },
+  {
+    "date": "38",
+    "policy_name": "January 2022",
+    "issuing_body": "Notice on 2022 NEV Promotion Financial Subsidy Policy",
+    "content": "MOF, MIIT, MOST, NDRC (Cai Jian [2021] No. 465)",
+    "source": "2022 NEV subsidy standards phased down 30% from 2021. Clarified that NEVs registered after Dec 31, 2022 would no longer receive central financial subsidies (national subsidy termination)."
+  },
+  {
+    "date": "39",
+    "policy_name": "March 2022",
+    "issuing_body": "\"14th Five-Year Plan\" for Modern Energy System",
+    "content": "NDRC, NEA",
+    "source": "Promoted NEV-grid interactive energy management (V2G). Advanced EV charging facility network construction. Promoted hydrogen technology development and FCV demonstration applications."
+  },
+  {
+    "date": "40",
+    "policy_name": "April 2022",
+    "issuing_body": "Guiding Opinions on Further Strengthening NEV Enterprise Safety System Construction",
+    "content": "MIIT, MPS, MOT, MEM, SAMR",
+    "source": "Five-ministry joint document. Comprehensively improved NEV safety levels covering safety management mechanisms, product quality (including power batteries), operational monitoring platform effectiveness, safety incident response, etc."
+  },
+  {
+    "date": "41",
+    "policy_name": "June 2022",
+    "issuing_body": "Notice on 2022 NEV \"Go to the Countryside\" Campaign",
+    "content": "MIIT, MARA, MOFCOM, NEA",
+    "source": "Continued organizing NEV \"go to the countryside\" campaign. Encouraged local governments to introduce supporting policies for rural areas. Guided rural residents toward green mobility."
+  },
+  {
+    "date": "42",
+    "policy_name": "July 2022",
+    "issuing_body": "Several Measures on Further Expanding Auto Consumption",
+    "content": "MOFCOM and 16 other ministries",
+    "source": "Proposed supporting NEV consumption. Researching extension of NEV vehicle purchase tax exemption policy beyond expiration. Deepening NEV \"go to the countryside\" and trade-in programs. Accelerating charging infrastructure construction."
+  },
+  {
+    "date": "43",
+    "policy_name": "September 2022",
+    "issuing_body": "Announcement on Extending NEV Vehicle Purchase Tax Exemption Policy",
+    "content": "MOF, SAT, MIIT (2022 No. 21 Announcement)",
+    "source": "Extended NEV vehicle purchase tax exemption to Dec 31, 2023. NEVs purchased between Jan 1, 2023 and Dec 31, 2023 exempted from vehicle purchase tax. [further verification needed on announcement number]"
+  },
+  {
+    "date": "44",
+    "policy_name": "November 2022",
+    "issuing_body": "Notice on Launching Public Sector Vehicle Full Electrification Pilot Zones",
+    "content": "MIIT, MOT, NDRC, et al.",
+    "source": "Launched public sector full electrification pilots in eligible cities covering buses, taxis, logistics, sanitation, postal services. Quantitative target: NEV ratio ≥80% in pilot zone public sector vehicles. [further verification needed on exact issuance date]"
+  },
+  {
+    "date": "45",
+    "policy_name": "November 2022",
+    "issuing_body": "ICV Access and Road Operation Pilot Work Guidelines (Draft for Comments)",
+    "content": "Ministry of Industry and Information Technology",
+    "source": "Explored establishment of product access and road operation pilot management systems for L3/L4 ICVs. Provided policy framework for autonomous driving commercial application. [further verification needed on final version]"
+  },
+  {
+    "date": "46",
+    "policy_name": "January 2023",
+    "issuing_body": "Notice on Several Measures to Further Vitalize Auto Circulation and Expand Auto Consumption",
+    "content": "MOFCOM and 16 other ministries",
+    "source": "Continued to support NEV purchases and use. Promoted cross-regional free circulation of NEVs. Encouraged scrapping and upgrading of old vehicles and NEV replacement programs."
+  },
+  {
+    "date": "47",
+    "policy_name": "June 2023",
+    "issuing_body": "Announcement on Extending and Optimizing NEV Vehicle Purchase Tax Reduction/Exemption Policy",
+    "content": "MOF, SAT, MIIT (2023 No. 10 Announcement)",
+    "source": "New policy: NEVs purchased Jan 1, 2024 - Dec 31, 2025 exempt from vehicle purchase tax (cap of 30,000 yuan/vehicle); Jan 1, 2026 - Dec 31, 2027 half-rated purchase tax (cap of 15,000 yuan/vehicle)."
+  },
+  {
+    "date": "48",
+    "policy_name": "June 2023",
+    "issuing_body": "Guiding Opinions on Further Building a High-Quality Charging Infrastructure System",
+    "content": "State Council General Office (Guo Ban Fa [2023] No. 19)",
+    "source": "By 2030, basically build a widespread, appropriately sized, well-structured, and fully functional high-quality charging infrastructure system. Proposed convenient and efficient intercity and urban charging networks, plus effective rural area coverage."
+  },
+  {
+    "date": "49",
+    "policy_name": "September 2023",
+    "issuing_body": "Announcement on Adjusting Technical Requirements for NEV Products Eligible for Vehicle Purchase Tax Reduction/Exemption",
+    "content": "MIIT, MOF, SAT (2023 No. 32 Announcement)",
+    "source": "Adjusted and refined technical conditions for NEVs eligible for vehicle purchase tax reduction/exemption. Raised requirements for vehicle energy consumption, driving range, power battery system energy density, etc."
+  },
+  {
+    "date": "50",
+    "policy_name": "November 2023",
+    "issuing_body": "Notice on Launching ICV Access and Road Operation Pilot Work",
+    "content": "MIIT, MPS, MOHURD, MOT (MIIT Lian Tong Zhuang [2023] No. 217)",
+    "source": "Formally launched L3/L4 ICV access and road operation pilot. Specified pilot application procedures, access conditions, user entities, road operation management details. First time allowing L3/L4 autonomous passenger cars and trucks on public roads."
+  },
+  {
+    "date": "51",
+    "policy_name": "December 2023",
+    "issuing_body": "Announcement on Adjusting Technical Requirements for NEV Products Eligible for Vehicle Purchase Tax Reduction/Exemption",
+    "content": "MIIT, MOF, SAT (2023 No. 32 Announcement)",
+    "source": "Effective Jan 1, 2024, models applying for inclusion in \"NEV Vehicle Purchase Tax Reduction/Exemption Catalog\" must meet adjusted technical requirements including driving range and battery energy density indicators."
+  },
+  {
+    "date": "52",
+    "policy_name": "January 2024",
+    "issuing_body": "Notice on Organizing 2024 NEV \"Go to the Countryside\" Campaign",
+    "content": "MIIT, NDRC, MARA, MOFCOM, NEA",
+    "source": "Continued 2024 NEV \"go to the countryside\" campaign. Selected models suitable for rural markets. Increased promotional efforts. Improved rural charging facility construction."
+  },
+  {
+    "date": "53",
+    "policy_name": "March 2024",
+    "issuing_body": "Guiding Opinions on Accelerating Green Development of the Manufacturing Industry",
+    "content": "MIIT and 6 other ministries",
+    "source": "Promoted green development of the NEV industry chain, including power battery recycling system construction and vehicle manufacturing carbon footprint management."
+  },
+  {
+    "date": "54",
+    "policy_name": "May 2024",
+    "issuing_body": "Notice on Launching ICV \"Vehicle-Road-Cloud Integration\" Application Pilot",
+    "content": "MIIT, MPS, MNR, MOHURD, MOT",
+    "source": "Selected cities nationwide for \"Vehicle-Road-Cloud Integration\" application pilot. Promoted C-V2X technology large-scale application. Built city-level vehicle-road-cloud integrated infrastructure."
+  },
+  {
+    "date": "55",
+    "policy_name": "July 2024",
+    "issuing_body": "Notice on Further Improving NEV Power Battery Recycling",
+    "content": "MIIT, et al.",
+    "source": "Strengthened power battery recycling industry standardization. Advanced power battery full lifecycle traceability management system. Standardized recycling service network construction."
+  },
+  {
+    "date": "56",
+    "policy_name": "September 2024",
+    "issuing_body": "Opinions on Improving Urban Charging and Battery Swap Facility Construction",
+    "content": "NEA, MOHURD, MOT, et al.",
+    "source": "Accelerated charging/battery swap facility construction in residential communities, office buildings, and commercial areas. Promoted charging pile integration into urban infrastructure planning."
+  },
+  {
+    "date": "57",
+    "policy_name": "November 2024",
+    "issuing_body": "Several Policy Measures on Further Consolidating and Enhancing NEV Industry Advantages",
+    "content": "MIIT, et al.",
+    "source": "Introduced a series of measures in areas including technological innovation, standards system building, industry chain coordination, and brand development to consolidate China's leading position in the NEV industry. [further verification needed on formal document number]"
+  },
+  {
+    "date": "58",
+    "policy_name": "December 2024",
+    "issuing_body": "Notice on 2025 NEV Promotion Policy",
+    "content": "MOF, MIIT, MOST, NDRC",
+    "source": "Clarified 2025 NEV subsidy policy adjustments. From January 2024, subsidies substantially reduced; post-2025 primarily non-direct subsidy methods: tax exemption/reduction, traffic right prioritization, charging discounts, etc. [further verification needed on specific document content and number]"
+  },
+  {
+    "date": "59",
+    "policy_name": "January 2025",
+    "issuing_body": "2025 Action Plan for Promoting High-Quality NEV Industry Development",
+    "content": "Ministry of Industry and Information Technology",
+    "source": "Proposed 2025 NEV sales share targets and core technology breakthrough directions. Promoted key areas such as vehicle-grade chips and operating systems."
+  },
+  {
+    "date": "60",
+    "policy_name": "February 2025",
+    "issuing_body": "Power Battery Recycling Management Measures (Revised Edition)",
+    "content": "Ministry of Industry and Information Technology",
+    "source": "Strengthened the extended producer responsibility system for power batteries. Established a unified and standardized battery recycling network and traceability management system. [further verification needed on final document number]"
+  },
+  {
+    "date": "61",
+    "policy_name": "April 2025",
+    "issuing_body": "ICV Standard System (2025 Edition)",
+    "content": "Ministry of Industry and Information Technology",
+    "source": "Updated ICV standard system roadmap covering functional safety, SOTIF, cybersecurity, data security, human-machine interaction, and autonomous driving test and evaluation standards. [further verification needed on release version]"
+  },
+  {
+    "date": "62",
+    "policy_name": "August 2025",
+    "issuing_body": "Opinions on Measures to Expand NEV Exports",
+    "content": "MOFCOM, MIIT, GAC, et al.",
+    "source": "Promoted facilitation of NEV and power battery exports. Supported enterprises in establishing overseas production and after-sales service networks. Addressed international trade barriers."
+  },
+  {
+    "date": "63",
+    "policy_name": "September 2025",
+    "issuing_body": "Announcement on Adjusting Technical Requirements for Energy-Saving and NEV Products Eligible for Vehicle/Vessel Tax Reduction",
+    "content": "MIIT, MOF, SAT (2025 No. 25 Announcement)",
+    "source": "Adjusted technical requirements for energy-saving and NEV products eligible for vehicle/vessel tax reduction. Effective January 1, 2026."
+  },
+  {
+    "date": "64",
+    "policy_name": "October 2025",
+    "issuing_body": "NEV Operation Safety Inspection Standards",
+    "content": "SAMR, MIIT, MOT",
+    "source": "Developed specialized periodic inspection standards and procedures targeting the unique safety characteristics of NEVs, particularly the \"three-electric\" system (battery, motor, electronic control). [further verification needed on final release]"
+  },
+  {
+    "date": "65",
+    "policy_name": "December 2025",
+    "issuing_body": "ICV Testing and Demonstration Management Measures (Revised)",
+    "content": "MIIT, MPS, MOT",
+    "source": "Revised and improved ICV testing and demonstration management regulations based on recent \"Vehicle-Road-Cloud Integration\" pilot experience. Expanded testing and demonstration area scope."
+  },
+  {
+    "date": "66",
+    "policy_name": "January 2026",
+    "issuing_body": "Implementation Measures for 2026-2027 NEV Vehicle Purchase Tax Half-Rate Policy",
+    "content": "MOF, SAT, MIIT",
+    "source": "Based on 2023 No. 10 Announcement: Jan 1, 2026 - Dec 31, 2027, NEVs subject to half-rate vehicle purchase tax (tax reduction cap of 15,000 yuan/vehicle). Specified implementation details."
+  },
+  {
+    "date": "67",
+    "policy_name": "January 2026",
+    "issuing_body": "Interim Measures for NEV Waste Power Battery Recycling and Comprehensive Utilization",
+    "content": "MIIT and 5 other ministries",
+    "source": "Following \"full-channel, full-chain, full-lifecycle\" management approach. Effective April 1, 2026. Established full-process regulatory system for waste battery collection, transportation, storage, dismantling, and recycling."
+  },
+  {
+    "date": "68",
+    "policy_name": "February 2026",
+    "issuing_body": "Vehicle-Road-Cloud Integration Standard System Construction Guide",
+    "content": "MIIT, Standardization Administration of China",
+    "source": "Established vehicle-road-cloud integration standard system covering perception, communication, computing, control, and security domains. Guided subsequent technical standard development."
+  },
+  {
+    "date": "69",
+    "policy_name": "March 2026",
+    "issuing_body": "Notice on Expanding Hydrogen FCV Demonstration Application",
+    "content": "MIIT, NDRC, NEA",
+    "source": "Expanded FCV demonstration city cluster scope and application areas beyond initial 5 clusters (Beijing-Tianjin-Hebei, Shanghai, Guangdong, Hebei, Henan)."
+  },
+  {
+    "date": "70",
+    "policy_name": "April 2026",
+    "issuing_body": "NEV Waste Power Battery Recycling and Comprehensive Utilization Management Interim Measures Take Effect",
+    "content": "MIIT and 5 other ministries",
+    "source": "Formally effective from April 1, 2026. Full lifecycle traceability management for waste power batteries covering recycling network construction, echelon utilization, recycling, and environmental supervision."
+  }
+]

@@ -1,510 +1,436 @@
-{
-  "source": "US_NEV_policy_table_CN.docx",
-  "label": "CN-美国",
-  "paragraphs": [
-    "美国新能源汽车·电池·充电设施政策表（2010–2026.04）",
-    "基于政府公开信息整理。标注[需进一步验证]的细节建议以官方原文为准。",
-    "共 61 条政策",
-    "Generated: 2026-05-04 Rev.1 | Contact: www.humanaifit.com"
-  ],
-  "tables": [
-    [
-      [
-        "序号",
-        "发布时间",
-        "政策名称",
-        "发布机构",
-        "核心内容",
-        "数据来源"
-      ],
-      [
-        "1",
-        "2009年2月",
-        "美国复苏与再投资法案(ARRA) — 电动车税收抵免与电池制造资助",
-        "国会 / White House",
-        "创建联邦插电式电动车税收抵免(§30D, $2,500-$7,500)；拨款$2.4B用于先进电池和电动汽车制造资助；$500M用于DOE车辆技术项目。签署为法律：Public Law 111-5。",
-        "congress.gov; treasury.gov; energy.gov"
-      ],
-      [
-        "2",
-        "2010年",
-        "先进技术车辆制造(ATVM)贷款计划",
-        "DOE",
-        "为先进汽车和组件制造商提供贷款，支持燃油经济性提升。已向福特、日产、特斯拉等提供贷款。",
-        "energy.gov/lpo"
-      ],
-      [
-        "3",
-        "2011年",
-        "电动车项目(The EV Project) — 最大规模充电基础设施示范",
-        "DOE / ECOtality",
-        "ECOtality主导的$230M项目（DOE资助$114.8M），在18个城市部署约15,000个充电桩，研究用户充电行为。",
-        "energy.gov; avta.inl.gov"
-      ],
-      [
-        "4",
-        "2012年3月",
-        "EV Everywhere Grand Challenge (电动汽车普及大挑战)",
-        "DOE",
-        "目标：到2022年使电动车在成本和便利性上与汽油车竞争。主要方向：电池成本降低（至$125/kWh）、充电基础设施、轻量化材料、电力电子。",
-        "energy.gov/eere/vehicles; DOE 2012 proposal"
-      ],
-      [
-        "5",
-        "2012年",
-        "Corporate Average Fuel Economy (CAFE) 2017-2025标准",
-        "NHTSA / EPA",
-        "要求乘用车平均燃油经济性到2025年达到54.5 mpg（实际约50 mpg等效），间接推动电动车发展。",
-        "nhtsa.gov; epa.gov"
-      ],
-      [
-        "6",
-        "2013年",
-        "DOE 电池与储能研发计划",
-        "DOE",
-        "通过VTO和ABR支持下一代电池技术的研发，包括锂离子电池改进和固态电池研究。",
-        "energy.gov/eere/vehicles"
-      ],
-      [
-        "7",
-        "2014年",
-        "加州ZEV Action Plan (零排放车辆行动计划)",
-        "加州州长办公室",
-        "目标：到2025年在加州部署150万辆ZEV，包括基础设施建设和消费者激励。",
-        "business.ca.gov/zev"
-      ],
-      [
-        "8",
-        "2015年",
-        "DOE 电动汽车充电基础设施项目",
-        "DOE",
-        "拨款资助公用充电桩部署，包括Workplace Charging Challenge（工作场所充电挑战计划），目标鼓励企业为员工提供充电设施。",
-        "energy.gov/eere/vehicles"
-      ],
-      [
-        "9",
-        "2016年",
-        "联邦电动汽车税收抵免（修订延续）",
-        "IRS / 国会（Internal Revenue Code §30D）",
-        "购买符合条件的电动车的消费者享受$2,500-$7,500联邦税收抵免。每个制造商累计销售20万辆后开始退坡。",
-        "irs.gov; 26 U.S. Code §30D"
-      ],
-      [
-        "10",
-        "2016年",
-        "加州 Advanced Clean Cars II (ACC II) 规则路径发布",
-        "加州空气资源委员会(CARB)",
-        "首次提出长期ZEV路线，计划逐步增加ZEV销售比例。后续2017年更新。",
-        "ww2.arb.ca.gov"
-      ],
-      [
-        "11",
-        "2017年6月",
-        "特朗普退出《巴黎协定》",
-        "White House",
-        "宣布退出《巴黎气候协定》，影响清洁能源和EV政策发展方向。",
-        "whitehouse.gov"
-      ],
-      [
-        "12",
-        "2017-2018年",
-        "SAFE Vehicles Rule (安全汽车规则) 起草",
-        "NHTSA / EPA",
-        "开始联邦层面冻结和回滚奥巴马时期的CAFE标准。2020年最终版将燃油效率目标降至约40 mpg。",
-        "nhtsa.gov; epa.gov"
-      ],
-      [
-        "13",
-        "2018年",
-        "燃料电池和氢能基础设施计划",
-        "DOE",
-        "通过H2@Scale计划支持氢能研发和燃料电池汽车基础设施。",
-        "energy.gov"
-      ],
-      [
-        "14",
-        "2019年",
-        "联邦EV税收抵免退坡开始",
-        "IRS",
-        "Tesla(2018年中达20万辆)和通用汽车(2018年底达20万辆)的联邦税收抵免开始退坡，每半年减少50%直至取消。",
-        "irs.gov"
-      ],
-      [
-        "15",
-        "2019年",
-        "九州联盟（Multi-State ZEV Task Force）",
-        "多州政府",
-        "加州、纽约、新泽西等9个州签署谅解备忘录，共同推动ZEV部署目标。",
-        "zevington.com"
-      ],
-      [
-        "16",
-        "2019年",
-        "DOE EV充电基础设施部署加速计划",
-        "DOE",
-        "研发和示范快充技术（包括350kW快充），支持公共快速充电网络。",
-        "energy.gov"
-      ],
-      [
-        "17",
-        "2020年3月",
-        "SAFE Vehicles Rule 最终规则 — One National Program",
-        "NHTSA / EPA",
-        "最终确定冻结CAFE标准在约40 mpg等效水平；撤销加州自行设定排放标准的Clean Air Act豁免（加州部分被法院阻拦）。",
-        "nhtsa.gov; federalregister.gov"
-      ],
-      [
-        "18",
-        "2020年12月",
-        "Energy Act of 2020 (能源法案2020)",
-        "国会 / DOE",
-        "授权能源部在多个清洁能源领域开展研究，包括储能、碳捕获、先进核能、可再生能源。为电动车和电池研发提供法律框架。",
-        "congress.gov"
-      ],
-      [
-        "19",
-        "2021年1月",
-        "行政令：强化美国制造业（Executive Order 14017）",
-        "White House",
-        "指示对关键供应链进行100天审查，包括电动汽车电池、半导体、关键矿物。为后续供应链政策奠定基础。",
-        "whitehouse.gov"
-      ],
-      [
-        "20",
-        "2021年3月",
-        "美国就业计划（American Jobs Plan）提案",
-        "White House",
-        "提议1740亿美元支持电动汽车市场，包括充电基础设施拨款、消费者退税、学校巴士电动化、电池制造供应链投资。",
-        "whitehouse.gov"
-      ],
-      [
-        "21",
-        "2021年8月",
-        "行政令：强化美国在清洁汽车方面的领导地位（EO 14037）",
-        "White House",
-        "设定2030年零排放汽车占新车销售50%的目标；指示EPA和DOT修订2027-2032年温室气体排放标准。",
-        "whitehouse.gov"
-      ],
-      [
-        "22",
-        "2021年11月",
-        "跨党派基础设施法案（Infrastructure Investment and Jobs Act, IIJA）",
-        "国会 / White House",
-        "750亿美元用于电动汽车充电基础设施（包括50亿美元用于NEVI国家电动汽车基础设施公式计划、25亿美元用于竞争性充电补助）；650亿美元用于清洁能源传输和电网；资助电动巴士。签署为法律：Public Law 117-58。",
-        "congress.gov; whitehouse.gov; transportation.gov"
-      ],
-      [
-        "23",
-        "2022年1月",
-        "DOE关于电池材料的百天供应链评估报告",
-        "DOE",
-        "应EO 14017要求发布，识别电动汽车电池供应链脆弱性（中国占主导地位），提出提升国内加工能力的建议。",
-        "energy.gov"
-      ],
-      [
-        "24",
-        "2022年2月",
-        "NEVI（国家电动汽车基础设施）公式计划指南发布",
-        "DOT / DOE / FHWA",
-        "启动跨党派基础设施法中的NEVI项目，各州可申请资金建设沿州际公路系统的EV充电桩。要求充电桩符合互操作性标准。",
-        "transportation.gov; fhwa.dot.gov"
-      ],
-      [
-        "25",
-        "2022年5月",
-        "DOE发布$3.16B电池制造资助机会(BIL资助)",
-        "DOE",
-        "根据两党基础设施法，宣布$3.16B用于国内电池材料加工和制造设施建设。这是BIL框架下最大的电池制造专项资助。",
-        "energy.gov"
-      ],
-      [
-        "26",
-        "2022年8月7日",
-        "CHIPS and Science Act (芯片与科学法案)",
-        "国会 / White House",
-        "为半导体制造提供527亿美元资助和240亿美元税收抵免。设立CHIPS for America计划（NIST管理）；资助电池和清洁能源技术研发。签署为法律：Public Law 117-167。",
-        "nist.gov/chips; congress.gov"
-      ],
-      [
-        "27",
-        "2022年8月16日",
-        "Inflation Reduction Act (IRA) — 《通胀削减法案》",
-        "国会 / White House",
-        "最大规模的清洁能源和气候投资法案（约3700亿美元）。签署为法律：Public Law 117-169。",
-        "congress.gov (H.R.5376); whitehouse.gov"
-      ],
-      [
-        "28",
-        "— 《IRA》30D条款",
-        "新清洁车辆税收抵免（Section 30D修订）",
-        "IRS / Treasury",
-        "2023年起：取消制造商20万辆退坡限制；新增消费者收入限制（单人$15万/户主$22.5万/联合$30万）；新增MSRP价格上限（轿车$55,000/SUV$80,000）；要求北美组装；新增电池组件和关键矿物本地化采购条件。抵免额：$7,500（其中$3,750满足关键矿物要求，$3,750满足电池组件要求）。",
-        "irs.gov; irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after"
-      ],
-      [
-        "29",
-        "— 《IRA》25E条款",
-        "二手清洁车辆税收抵免（Section 25E新增）",
-        "IRS / Treasury",
-        "首次引入已使用清洁车辆税收抵免（最高$4,000）。价格上限$25,000；收入限制$75,000(单人)/$150,000(联合)。要求满足一定技术条件。2025年9月30日终止（OBBB法案）。",
-        "irs.gov"
-      ],
-      [
-        "30",
-        "— 《IRA》45W条款",
-        "合格商业清洁车辆税收抵免（Section 45W新增）",
-        "IRS / Treasury",
-        "商业用途清洁车辆最高$7,500（轻型）或$40,000（重型）。不限制制造商数量，2023年起实施。2025年9月30日终止（OBBB法案）。",
-        "irs.gov"
-      ],
-      [
-        "31",
-        "— 《IRA》30C条款",
-        "替代燃料车辆加油/充电设施税收抵免（修订Section 30C）",
-        "IRS / Treasury",
-        "住宅和商业充电桩税收抵免最高$1,000（住宅）/重置，最高$100,000（商业）。2026年6月30日终止（OBBB法案）。",
-        "irs.gov"
-      ],
-      [
-        "32",
-        "— 《IRA》45X条款",
-        "先进制造生产税收抵免（Section 45X新增）",
-        "IRS / Treasury",
-        "国内生产的电池单元、电池组件、关键矿物的生产税收抵免。电池单元$35/kWh，电池模组$10/kWh（或$45/kWh组合）。2023年起实施，2032年开始分阶段退坡。",
-        "irs.gov"
-      ],
-      [
-        "33",
-        "— 《IRA》45V条款",
-        "清洁氢能生产税收抵免（Section 45V新增）",
-        "IRS / Treasury",
-        "低碳氢能生产税收抵免（最高$3.00/kg H2），按碳排放分4级。支持氢燃料电池汽车发展。",
-        "irs.gov"
-      ],
-      [
-        "34",
-        "— 《IRA》关键矿物和电池组件条款",
-        "IRA §30D 电池组件与关键矿物采购要求",
-        "IRS / Treasury / DOE",
-        "2023年起逐步生效：电池关键矿物要求从2023年40%在美或FTA国家提取/加工增至2027年80%；电池组件要求从2023年50%在北美制造增至2029年100%。禁止含有\"Foreign Entity of Concern\"(FEOC)的电池组件（2024年起电池组件，2025年起关键矿物）。",
-        "irs.gov; treasury.gov"
-      ],
-      [
-        "35",
-        "2023年3月",
-        "IRS发布新清洁车辆税收抵免初始实施指引",
-        "IRS / Treasury",
-        "发布\"2023年后新清洁车辆\"初始指南，明确北美组装要求、消费者收入限制、MSRP上限，发布符合条件车辆清单。",
-        "irs.gov; fueleconomy.gov"
-      ],
-      [
-        "36",
-        "2023年4月18日",
-        "电池组件和关键矿物要求生效",
-        "IRS / Treasury",
-        "$7,500抵免拆分为两部分：$3,750（关键矿物）× $3,750（电池组件）。不符合任何一项即无抵免。发布首批符合条件车辆。",
-        "irs.gov"
-      ],
-      [
-        "37",
-        "2023年6月",
-        "NHTSA提议2027-2032年CAFE标准",
-        "NHTSA",
-        "提议新的乘用车和企业平均燃油经济性标准（MY 2027-2032），预计每年提升燃油效率约8%，与EPA排放标准协同推动电动化。",
-        "nhtsa.gov; federalregister.gov"
-      ],
-      [
-        "38",
-        "2023年12月",
-        "IRA FEOC非清洁能源车辆规则 —— 最终规则",
-        "Treasury / IRS",
-        "发布FEOC明确定义和实施细则。\"外国关注实体\"涵盖中国、俄罗斯、朝鲜、伊朗等国的政府、企业及受其影响的主体。2024年起禁止FEOC电池组件，2025年起禁止FEOC关键矿物。",
-        "treasury.gov; federalregister.gov"
-      ],
-      [
-        "39",
-        "2023年12月",
-        "IRA §30D 税收抵免关键技术矿物条款最终规则",
-        "Treasury / IRS",
-        "最终确定关键矿物定义、合格采购计算方法和FTA国家列表（包括韩国、澳大利亚等）。明确了\"关键矿物\"范围（锂、镍、钴、石墨等约50种矿物）。",
-        "treasury.gov"
-      ],
-      [
-        "40",
-        "2024年3月20日",
-        "EPA Multi-Pollutant Emissions Standards for MY 2027-2032 (2027-2032年多污染物排放标准，最终版)",
-        "EPA",
-        "到2032年要求新乘用车温室气体排放降低约56%（较2026标准），是历史上最严格的排放标准。预计将大幅推动EV普及（EPA预测2032年EV占67%新车市场）。",
-        "epa.gov (Docket EPA-HQ-OAR-2022-0829); federalregister.gov (2024-06214)"
-      ],
-      [
-        "41",
-        "2024年4月",
-        "EPA重型车辆温室气体排放标准第二阶段（GHG Phase 2 HD）",
-        "EPA",
-        "针对2027年及以后的商用重型车辆设定严格温室气体排放标准，推动电动/氢燃料电池卡车转型。",
-        "epa.gov"
-      ],
-      [
-        "42",
-        "2024年5月",
-        "财政部/IRS发布FEOC最终规则（Section 30D）",
-        "Treasury / IRS",
-        "完成FEOC规则的正式发布，从2024年起将不含FEOC电池组件的车辆才可获$3,750电池组件部分抵免。2025年起FEOC限制扩展至关键矿物。",
-        "federalregister.gov"
-      ],
-      [
-        "43",
-        "2024年5-12月",
-        "DOE通过IRA资助电池和关键矿物供应链项目",
-        "DOE",
-        "通过IRA拨款（约$3.5B以上）资助国内锂矿加工、电池正极/负极材料生产、电池回收设施建设。",
-        "energy.gov"
-      ],
-      [
-        "44",
-        "2024年6月",
-        "NHTSA发布2027-2032年CAFE标准最终规则",
-        "NHTSA",
-        "最终确定MY 2027-2032 CAFE标准，要求乘用车燃油效率每年提升约2%（轿车）/4%（轻型卡车），至2032年达到约58 mpg等效。",
-        "nhtsa.gov; federalregister.gov"
-      ],
-      [
-        "45",
-        "2024年",
-        "NEVI项目各州充电桩部署实质性推进",
-        "DOT / DOE",
-        "2024年多个州开始部署NEVI资金支持的快充站（沿州际公路每50英里一个站点）。部分州（如俄亥俄、纽约、宾州）首批站点投入运营。",
-        "transportation.gov; fhwa.dot.gov"
-      ],
-      [
-        "46",
-        "2025年1月20日",
-        "EO：终止拜登政府EV强制令",
-        "White House",
-        "总统行政令指示所有联邦机构取消对电动汽车的强制性要求，终止\"EV强制令\"。EPA被指示重新考虑2024年排放标准。",
-        "whitehouse.gov"
-      ],
-      [
-        "47",
-        "2025年1月20日",
-        "EO：释放美国能源（Unleashing American Energy）",
-        "White House",
-        "宣布国家能源紧急状态，取消电动车优先政策，撤销多项环境行政令，扩大化石能源生产。",
-        "whitehouse.gov"
-      ],
-      [
-        "48",
-        "2025年3月12日",
-        "EPA宣布重新审议MY2027-2032排放标准和重型车GHG标准",
-        "EPA",
-        "EPA局长Zeldin宣布重新考虑2024年LD/MD车辆多污染物排放标准和重型车GHG标准。声称前规则造成超过$700B合规成本。",
-        "epa.gov (2025-03-12 news release)"
-      ],
-      [
-        "49",
-        "2025年3月",
-        "EPA发起温室气体危害发现（Endangerment Finding）废除程序",
-        "EPA",
-        "EPA启动废除2009年温室气体危害发现的行政程序，该危害发现是联邦层面所有汽车温室气体法规的法律基础。",
-        "epa.gov"
-      ],
-      [
-        "50",
-        "2025年4月",
-        "取消联邦政府电动车采购目标",
-        "White House",
-        "撤销此前5年EV政府车队采购目标和优先政策，恢复传统车辆采购。",
-        "whitehouse.gov"
-      ],
-      [
-        "51",
-        "2025年5月",
-        "EPA撤销加州ZEV先进清洁车豁免",
-        "EPA",
-        "EPA撤销加州依据清洁空气法案所获得的自愿ZEV推动机制豁免权，限制加州设定比联邦更严格的排放标准。2025年11月最终通过。",
-        "epa.gov"
-      ],
-      [
-        "52",
-        "2025年5月",
-        "EPA发布CAFE优先权临时最终规则（CAFE Preemption Interim Final Rule）",
-        "EPA",
-        "发布临时最终规则，禁止各州设定独立于联邦CAFE标准的燃油经济性标准，直接针对加州的ACC和ZEV规则。",
-        "epa.gov"
-      ],
-      [
-        "53",
-        "2025年7月4日",
-        "One, Big, Beautiful Bill (OBBB) — 大规模税收法案",
-        "国会 / White House",
-        "签署为 Public Law 119-21。加速终止多项清洁能源/车辆税收优惠：30D新清洁车辆抵免（2025.9.30终止），25E二手清洁车辆抵免（2025.9.30终止），45W商业清洁车辆抵免（2025.9.30终止），30C充电设施抵免（2026.6.30终止）。",
-        "irs.gov (FS-2025-05); congress.gov"
-      ],
-      [
-        "54",
-        "2025年8月21日",
-        "IRS发布OBBB下加速终止条款的FAQ",
-        "IRS",
-        "明确车辆税收抵免加速终止的具体条款，包括\"acquired\"（取得）定义：签订书面合同并付款即视为取得。",
-        "irs.gov (IR-2025-86, FS-2025-05)"
-      ],
-      [
-        "55",
-        "2025年9月30日",
-        "30D、25E、45W税收抵免终止",
-        "IRS",
-        "新清洁车辆抵免($7,500)、二手清洁车辆抵免($4,000)、商业清洁车辆抵免($7,500-$40,000)停止接受新的申请。之前已签订合同并付款的仍可在交车时申报。",
-        "irs.gov"
-      ],
-      [
-        "56",
-        "2025年",
-        "关税大幅上调（对中国商品）",
-        "USTR / White House",
-        "对中国进口商品加征较高关税（包括电动汽车电池及组件、关键矿物等）。部分品类关税大幅上调（EV进口整车关税提升至100%以上）。",
-        "ustr.gov"
-      ],
-      [
-        "57",
-        "2026年3月",
-        "2025/2026联合决议：废除EPA重型NOx排放标准",
-        "国会",
-        "通过国会审查法案(CRA)决议，废除2022年EPA重型车辆NOx排放标准。",
-        "congress.gov"
-      ],
-      [
-        "58",
-        "2026年3月",
-        "国会审查法案(CRA)决议：废除EPA 2024年轻型车温室气体标准",
-        "国会",
-        "通过CRA联合决议废除EPA 2024年多污染物排放标准（MY 2027-2032），由总统签署生效。EPA被指示回归2020年SAFE规则水平。",
-        "congress.gov"
-      ],
-      [
-        "59",
-        "2026年4月",
-        "45X先进制造生产税收抵免调整提案",
-        "国会",
-        "[需进一步验证] 正在立法讨论中的提案，可能调整先进制造生产税收抵免（电池组件/关键矿物相关）的条款和退坡时间表。",
-        "congress.gov"
-      ],
-      [
-        "60",
-        "2026年4月（状态追踪）",
-        "NEVI充电设施资金支出追踪",
-        "DOT / FHWA",
-        "【状态追踪，非政策发布】截至2026年4月，NEVI（国家电动汽车基础设施计划）$75亿联邦资金支出状态和各州充电桩部署进度。部分州已完成多批站点建设，但整体资金支出慢于预期。该条目为追踪执行进度而设，非新政策发布。",
-        "fhwa.dot.gov"
-      ],
-      [
-        "61",
-        "2026年6月30日（预计）",
-        "30D/30C充电设施及新清洁车辆税收抵免完全终止",
-        "IRS",
-        "根据OBBB法案（Public Law 119-21）条款，联邦充电设施税收抵免（30C，原最高$30,000/站点）将于2026年6月30日终止。这是OBBB大规模废除清洁能源税收优惠的最后一环——此前30D（新清洁车辆$7,500）、25E（二手清洁车辆$4,000）、45W（商业清洁车辆）已于2025年9月30日先行终止。",
-        "irs.gov (FS-2025-05); congress.gov Public Law 119-21"
-      ]
-    ]
-  ]
-}
+[
+  {
+    "date": "序号",
+    "policy_name": "发布时间",
+    "issuing_body": "政策名称",
+    "content": "发布机构",
+    "source": "核心内容"
+  },
+  {
+    "date": "1",
+    "policy_name": "2009年2月",
+    "issuing_body": "美国复苏与再投资法案(ARRA) — 电动车税收抵免与电池制造资助",
+    "content": "国会 / White House",
+    "source": "创建联邦插电式电动车税收抵免(§30D, $2,500-$7,500)；拨款$2.4B用于先进电池和电动汽车制造资助；$500M用于DOE车辆技术项目。签署为法律：Public Law 111-5。"
+  },
+  {
+    "date": "2",
+    "policy_name": "2010年",
+    "issuing_body": "先进技术车辆制造(ATVM)贷款计划",
+    "content": "DOE",
+    "source": "为先进汽车和组件制造商提供贷款，支持燃油经济性提升。已向福特、日产、特斯拉等提供贷款。"
+  },
+  {
+    "date": "3",
+    "policy_name": "2011年",
+    "issuing_body": "电动车项目(The EV Project) — 最大规模充电基础设施示范",
+    "content": "DOE / ECOtality",
+    "source": "ECOtality主导的$230M项目（DOE资助$114.8M），在18个城市部署约15,000个充电桩，研究用户充电行为。"
+  },
+  {
+    "date": "4",
+    "policy_name": "2012年3月",
+    "issuing_body": "EV Everywhere Grand Challenge (电动汽车普及大挑战)",
+    "content": "DOE",
+    "source": "目标：到2022年使电动车在成本和便利性上与汽油车竞争。主要方向：电池成本降低（至$125/kWh）、充电基础设施、轻量化材料、电力电子。"
+  },
+  {
+    "date": "5",
+    "policy_name": "2012年",
+    "issuing_body": "Corporate Average Fuel Economy (CAFE) 2017-2025标准",
+    "content": "NHTSA / EPA",
+    "source": "要求乘用车平均燃油经济性到2025年达到54.5 mpg（实际约50 mpg等效），间接推动电动车发展。"
+  },
+  {
+    "date": "6",
+    "policy_name": "2013年",
+    "issuing_body": "DOE 电池与储能研发计划",
+    "content": "DOE",
+    "source": "通过VTO和ABR支持下一代电池技术的研发，包括锂离子电池改进和固态电池研究。"
+  },
+  {
+    "date": "7",
+    "policy_name": "2014年",
+    "issuing_body": "加州ZEV Action Plan (零排放车辆行动计划)",
+    "content": "加州州长办公室",
+    "source": "目标：到2025年在加州部署150万辆ZEV，包括基础设施建设和消费者激励。"
+  },
+  {
+    "date": "8",
+    "policy_name": "2015年",
+    "issuing_body": "DOE 电动汽车充电基础设施项目",
+    "content": "DOE",
+    "source": "拨款资助公用充电桩部署，包括Workplace Charging Challenge（工作场所充电挑战计划），目标鼓励企业为员工提供充电设施。"
+  },
+  {
+    "date": "9",
+    "policy_name": "2016年",
+    "issuing_body": "联邦电动汽车税收抵免（修订延续）",
+    "content": "IRS / 国会（Internal Revenue Code §30D）",
+    "source": "购买符合条件的电动车的消费者享受$2,500-$7,500联邦税收抵免。每个制造商累计销售20万辆后开始退坡。"
+  },
+  {
+    "date": "10",
+    "policy_name": "2016年",
+    "issuing_body": "加州 Advanced Clean Cars II (ACC II) 规则路径发布",
+    "content": "加州空气资源委员会(CARB)",
+    "source": "首次提出长期ZEV路线，计划逐步增加ZEV销售比例。后续2017年更新。"
+  },
+  {
+    "date": "11",
+    "policy_name": "2017年6月",
+    "issuing_body": "特朗普退出《巴黎协定》",
+    "content": "White House",
+    "source": "宣布退出《巴黎气候协定》，影响清洁能源和EV政策发展方向。"
+  },
+  {
+    "date": "12",
+    "policy_name": "2017-2018年",
+    "issuing_body": "SAFE Vehicles Rule (安全汽车规则) 起草",
+    "content": "NHTSA / EPA",
+    "source": "开始联邦层面冻结和回滚奥巴马时期的CAFE标准。2020年最终版将燃油效率目标降至约40 mpg。"
+  },
+  {
+    "date": "13",
+    "policy_name": "2018年",
+    "issuing_body": "燃料电池和氢能基础设施计划",
+    "content": "DOE",
+    "source": "通过H2@Scale计划支持氢能研发和燃料电池汽车基础设施。"
+  },
+  {
+    "date": "14",
+    "policy_name": "2019年",
+    "issuing_body": "联邦EV税收抵免退坡开始",
+    "content": "IRS",
+    "source": "Tesla(2018年中达20万辆)和通用汽车(2018年底达20万辆)的联邦税收抵免开始退坡，每半年减少50%直至取消。"
+  },
+  {
+    "date": "15",
+    "policy_name": "2019年",
+    "issuing_body": "九州联盟（Multi-State ZEV Task Force）",
+    "content": "多州政府",
+    "source": "加州、纽约、新泽西等9个州签署谅解备忘录，共同推动ZEV部署目标。"
+  },
+  {
+    "date": "16",
+    "policy_name": "2019年",
+    "issuing_body": "DOE EV充电基础设施部署加速计划",
+    "content": "DOE",
+    "source": "研发和示范快充技术（包括350kW快充），支持公共快速充电网络。"
+  },
+  {
+    "date": "17",
+    "policy_name": "2020年3月",
+    "issuing_body": "SAFE Vehicles Rule 最终规则 — One National Program",
+    "content": "NHTSA / EPA",
+    "source": "最终确定冻结CAFE标准在约40 mpg等效水平；撤销加州自行设定排放标准的Clean Air Act豁免（加州部分被法院阻拦）。"
+  },
+  {
+    "date": "18",
+    "policy_name": "2020年12月",
+    "issuing_body": "Energy Act of 2020 (能源法案2020)",
+    "content": "国会 / DOE",
+    "source": "授权能源部在多个清洁能源领域开展研究，包括储能、碳捕获、先进核能、可再生能源。为电动车和电池研发提供法律框架。"
+  },
+  {
+    "date": "19",
+    "policy_name": "2021年1月",
+    "issuing_body": "行政令：强化美国制造业（Executive Order 14017）",
+    "content": "White House",
+    "source": "指示对关键供应链进行100天审查，包括电动汽车电池、半导体、关键矿物。为后续供应链政策奠定基础。"
+  },
+  {
+    "date": "20",
+    "policy_name": "2021年3月",
+    "issuing_body": "美国就业计划（American Jobs Plan）提案",
+    "content": "White House",
+    "source": "提议1740亿美元支持电动汽车市场，包括充电基础设施拨款、消费者退税、学校巴士电动化、电池制造供应链投资。"
+  },
+  {
+    "date": "21",
+    "policy_name": "2021年8月",
+    "issuing_body": "行政令：强化美国在清洁汽车方面的领导地位（EO 14037）",
+    "content": "White House",
+    "source": "设定2030年零排放汽车占新车销售50%的目标；指示EPA和DOT修订2027-2032年温室气体排放标准。"
+  },
+  {
+    "date": "22",
+    "policy_name": "2021年11月",
+    "issuing_body": "跨党派基础设施法案（Infrastructure Investment and Jobs Act, IIJA）",
+    "content": "国会 / White House",
+    "source": "750亿美元用于电动汽车充电基础设施（包括50亿美元用于NEVI国家电动汽车基础设施公式计划、25亿美元用于竞争性充电补助）；650亿美元用于清洁能源传输和电网；资助电动巴士。签署为法律：Public Law 117-58。"
+  },
+  {
+    "date": "23",
+    "policy_name": "2022年1月",
+    "issuing_body": "DOE关于电池材料的百天供应链评估报告",
+    "content": "DOE",
+    "source": "应EO 14017要求发布，识别电动汽车电池供应链脆弱性（中国占主导地位），提出提升国内加工能力的建议。"
+  },
+  {
+    "date": "24",
+    "policy_name": "2022年2月",
+    "issuing_body": "NEVI（国家电动汽车基础设施）公式计划指南发布",
+    "content": "DOT / DOE / FHWA",
+    "source": "启动跨党派基础设施法中的NEVI项目，各州可申请资金建设沿州际公路系统的EV充电桩。要求充电桩符合互操作性标准。"
+  },
+  {
+    "date": "25",
+    "policy_name": "2022年5月",
+    "issuing_body": "DOE发布$3.16B电池制造资助机会(BIL资助)",
+    "content": "DOE",
+    "source": "根据两党基础设施法，宣布$3.16B用于国内电池材料加工和制造设施建设。这是BIL框架下最大的电池制造专项资助。"
+  },
+  {
+    "date": "26",
+    "policy_name": "2022年8月7日",
+    "issuing_body": "CHIPS and Science Act (芯片与科学法案)",
+    "content": "国会 / White House",
+    "source": "为半导体制造提供527亿美元资助和240亿美元税收抵免。设立CHIPS for America计划（NIST管理）；资助电池和清洁能源技术研发。签署为法律：Public Law 117-167。"
+  },
+  {
+    "date": "27",
+    "policy_name": "2022年8月16日",
+    "issuing_body": "Inflation Reduction Act (IRA) — 《通胀削减法案》",
+    "content": "国会 / White House",
+    "source": "最大规模的清洁能源和气候投资法案（约3700亿美元）。签署为法律：Public Law 117-169。"
+  },
+  {
+    "date": "28",
+    "policy_name": "— 《IRA》30D条款",
+    "issuing_body": "新清洁车辆税收抵免（Section 30D修订）",
+    "content": "IRS / Treasury",
+    "source": "2023年起：取消制造商20万辆退坡限制；新增消费者收入限制（单人$15万/户主$22.5万/联合$30万）；新增MSRP价格上限（轿车$55,000/SUV$80,000）；要求北美组装；新增电池组件和关键矿物本地化采购条件。抵免额：$7,500（其中$3,750满足关键矿物要求，$3,750满足电池组件要求）。"
+  },
+  {
+    "date": "29",
+    "policy_name": "— 《IRA》25E条款",
+    "issuing_body": "二手清洁车辆税收抵免（Section 25E新增）",
+    "content": "IRS / Treasury",
+    "source": "首次引入已使用清洁车辆税收抵免（最高$4,000）。价格上限$25,000；收入限制$75,000(单人)/$150,000(联合)。要求满足一定技术条件。2025年9月30日终止（OBBB法案）。"
+  },
+  {
+    "date": "30",
+    "policy_name": "— 《IRA》45W条款",
+    "issuing_body": "合格商业清洁车辆税收抵免（Section 45W新增）",
+    "content": "IRS / Treasury",
+    "source": "商业用途清洁车辆最高$7,500（轻型）或$40,000（重型）。不限制制造商数量，2023年起实施。2025年9月30日终止（OBBB法案）。"
+  },
+  {
+    "date": "31",
+    "policy_name": "— 《IRA》30C条款",
+    "issuing_body": "替代燃料车辆加油/充电设施税收抵免（修订Section 30C）",
+    "content": "IRS / Treasury",
+    "source": "住宅和商业充电桩税收抵免最高$1,000（住宅）/重置，最高$100,000（商业）。2026年6月30日终止（OBBB法案）。"
+  },
+  {
+    "date": "32",
+    "policy_name": "— 《IRA》45X条款",
+    "issuing_body": "先进制造生产税收抵免（Section 45X新增）",
+    "content": "IRS / Treasury",
+    "source": "国内生产的电池单元、电池组件、关键矿物的生产税收抵免。电池单元$35/kWh，电池模组$10/kWh（或$45/kWh组合）。2023年起实施，2032年开始分阶段退坡。"
+  },
+  {
+    "date": "33",
+    "policy_name": "— 《IRA》45V条款",
+    "issuing_body": "清洁氢能生产税收抵免（Section 45V新增）",
+    "content": "IRS / Treasury",
+    "source": "低碳氢能生产税收抵免（最高$3.00/kg H2），按碳排放分4级。支持氢燃料电池汽车发展。"
+  },
+  {
+    "date": "34",
+    "policy_name": "— 《IRA》关键矿物和电池组件条款",
+    "issuing_body": "IRA §30D 电池组件与关键矿物采购要求",
+    "content": "IRS / Treasury / DOE",
+    "source": "2023年起逐步生效：电池关键矿物要求从2023年40%在美或FTA国家提取/加工增至2027年80%；电池组件要求从2023年50%在北美制造增至2029年100%。禁止含有\"Foreign Entity of Concern\"(FEOC)的电池组件（2024年起电池组件，2025年起关键矿物）。"
+  },
+  {
+    "date": "35",
+    "policy_name": "2023年3月",
+    "issuing_body": "IRS发布新清洁车辆税收抵免初始实施指引",
+    "content": "IRS / Treasury",
+    "source": "发布\"2023年后新清洁车辆\"初始指南，明确北美组装要求、消费者收入限制、MSRP上限，发布符合条件车辆清单。"
+  },
+  {
+    "date": "36",
+    "policy_name": "2023年4月18日",
+    "issuing_body": "电池组件和关键矿物要求生效",
+    "content": "IRS / Treasury",
+    "source": "$7,500抵免拆分为两部分：$3,750（关键矿物）× $3,750（电池组件）。不符合任何一项即无抵免。发布首批符合条件车辆。"
+  },
+  {
+    "date": "37",
+    "policy_name": "2023年6月",
+    "issuing_body": "NHTSA提议2027-2032年CAFE标准",
+    "content": "NHTSA",
+    "source": "提议新的乘用车和企业平均燃油经济性标准（MY 2027-2032），预计每年提升燃油效率约8%，与EPA排放标准协同推动电动化。"
+  },
+  {
+    "date": "38",
+    "policy_name": "2023年12月",
+    "issuing_body": "IRA FEOC非清洁能源车辆规则 —— 最终规则",
+    "content": "Treasury / IRS",
+    "source": "发布FEOC明确定义和实施细则。\"外国关注实体\"涵盖中国、俄罗斯、朝鲜、伊朗等国的政府、企业及受其影响的主体。2024年起禁止FEOC电池组件，2025年起禁止FEOC关键矿物。"
+  },
+  {
+    "date": "39",
+    "policy_name": "2023年12月",
+    "issuing_body": "IRA §30D 税收抵免关键技术矿物条款最终规则",
+    "content": "Treasury / IRS",
+    "source": "最终确定关键矿物定义、合格采购计算方法和FTA国家列表（包括韩国、澳大利亚等）。明确了\"关键矿物\"范围（锂、镍、钴、石墨等约50种矿物）。"
+  },
+  {
+    "date": "40",
+    "policy_name": "2024年3月20日",
+    "issuing_body": "EPA Multi-Pollutant Emissions Standards for MY 2027-2032 (2027-2032年多污染物排放标准，最终版)",
+    "content": "EPA",
+    "source": "到2032年要求新乘用车温室气体排放降低约56%（较2026标准），是历史上最严格的排放标准。预计将大幅推动EV普及（EPA预测2032年EV占67%新车市场）。"
+  },
+  {
+    "date": "41",
+    "policy_name": "2024年4月",
+    "issuing_body": "EPA重型车辆温室气体排放标准第二阶段（GHG Phase 2 HD）",
+    "content": "EPA",
+    "source": "针对2027年及以后的商用重型车辆设定严格温室气体排放标准，推动电动/氢燃料电池卡车转型。"
+  },
+  {
+    "date": "42",
+    "policy_name": "2024年5月",
+    "issuing_body": "财政部/IRS发布FEOC最终规则（Section 30D）",
+    "content": "Treasury / IRS",
+    "source": "完成FEOC规则的正式发布，从2024年起将不含FEOC电池组件的车辆才可获$3,750电池组件部分抵免。2025年起FEOC限制扩展至关键矿物。"
+  },
+  {
+    "date": "43",
+    "policy_name": "2024年5-12月",
+    "issuing_body": "DOE通过IRA资助电池和关键矿物供应链项目",
+    "content": "DOE",
+    "source": "通过IRA拨款（约$3.5B以上）资助国内锂矿加工、电池正极/负极材料生产、电池回收设施建设。"
+  },
+  {
+    "date": "44",
+    "policy_name": "2024年6月",
+    "issuing_body": "NHTSA发布2027-2032年CAFE标准最终规则",
+    "content": "NHTSA",
+    "source": "最终确定MY 2027-2032 CAFE标准，要求乘用车燃油效率每年提升约2%（轿车）/4%（轻型卡车），至2032年达到约58 mpg等效。"
+  },
+  {
+    "date": "45",
+    "policy_name": "2024年",
+    "issuing_body": "NEVI项目各州充电桩部署实质性推进",
+    "content": "DOT / DOE",
+    "source": "2024年多个州开始部署NEVI资金支持的快充站（沿州际公路每50英里一个站点）。部分州（如俄亥俄、纽约、宾州）首批站点投入运营。"
+  },
+  {
+    "date": "46",
+    "policy_name": "2025年1月20日",
+    "issuing_body": "EO：终止拜登政府EV强制令",
+    "content": "White House",
+    "source": "总统行政令指示所有联邦机构取消对电动汽车的强制性要求，终止\"EV强制令\"。EPA被指示重新考虑2024年排放标准。"
+  },
+  {
+    "date": "47",
+    "policy_name": "2025年1月20日",
+    "issuing_body": "EO：释放美国能源（Unleashing American Energy）",
+    "content": "White House",
+    "source": "宣布国家能源紧急状态，取消电动车优先政策，撤销多项环境行政令，扩大化石能源生产。"
+  },
+  {
+    "date": "48",
+    "policy_name": "2025年3月12日",
+    "issuing_body": "EPA宣布重新审议MY2027-2032排放标准和重型车GHG标准",
+    "content": "EPA",
+    "source": "EPA局长Zeldin宣布重新考虑2024年LD/MD车辆多污染物排放标准和重型车GHG标准。声称前规则造成超过$700B合规成本。"
+  },
+  {
+    "date": "49",
+    "policy_name": "2025年3月",
+    "issuing_body": "EPA发起温室气体危害发现（Endangerment Finding）废除程序",
+    "content": "EPA",
+    "source": "EPA启动废除2009年温室气体危害发现的行政程序，该危害发现是联邦层面所有汽车温室气体法规的法律基础。"
+  },
+  {
+    "date": "50",
+    "policy_name": "2025年4月",
+    "issuing_body": "取消联邦政府电动车采购目标",
+    "content": "White House",
+    "source": "撤销此前5年EV政府车队采购目标和优先政策，恢复传统车辆采购。"
+  },
+  {
+    "date": "51",
+    "policy_name": "2025年5月",
+    "issuing_body": "EPA撤销加州ZEV先进清洁车豁免",
+    "content": "EPA",
+    "source": "EPA撤销加州依据清洁空气法案所获得的自愿ZEV推动机制豁免权，限制加州设定比联邦更严格的排放标准。2025年11月最终通过。"
+  },
+  {
+    "date": "52",
+    "policy_name": "2025年5月",
+    "issuing_body": "EPA发布CAFE优先权临时最终规则（CAFE Preemption Interim Final Rule）",
+    "content": "EPA",
+    "source": "发布临时最终规则，禁止各州设定独立于联邦CAFE标准的燃油经济性标准，直接针对加州的ACC和ZEV规则。"
+  },
+  {
+    "date": "53",
+    "policy_name": "2025年7月4日",
+    "issuing_body": "One, Big, Beautiful Bill (OBBB) — 大规模税收法案",
+    "content": "国会 / White House",
+    "source": "签署为 Public Law 119-21。加速终止多项清洁能源/车辆税收优惠：30D新清洁车辆抵免（2025.9.30终止），25E二手清洁车辆抵免（2025.9.30终止），45W商业清洁车辆抵免（2025.9.30终止），30C充电设施抵免（2026.6.30终止）。"
+  },
+  {
+    "date": "54",
+    "policy_name": "2025年8月21日",
+    "issuing_body": "IRS发布OBBB下加速终止条款的FAQ",
+    "content": "IRS",
+    "source": "明确车辆税收抵免加速终止的具体条款，包括\"acquired\"（取得）定义：签订书面合同并付款即视为取得。"
+  },
+  {
+    "date": "55",
+    "policy_name": "2025年9月30日",
+    "issuing_body": "30D、25E、45W税收抵免终止",
+    "content": "IRS",
+    "source": "新清洁车辆抵免($7,500)、二手清洁车辆抵免($4,000)、商业清洁车辆抵免($7,500-$40,000)停止接受新的申请。之前已签订合同并付款的仍可在交车时申报。"
+  },
+  {
+    "date": "56",
+    "policy_name": "2025年",
+    "issuing_body": "关税大幅上调（对中国商品）",
+    "content": "USTR / White House",
+    "source": "对中国进口商品加征较高关税（包括电动汽车电池及组件、关键矿物等）。部分品类关税大幅上调（EV进口整车关税提升至100%以上）。"
+  },
+  {
+    "date": "57",
+    "policy_name": "2026年3月",
+    "issuing_body": "2025/2026联合决议：废除EPA重型NOx排放标准",
+    "content": "国会",
+    "source": "通过国会审查法案(CRA)决议，废除2022年EPA重型车辆NOx排放标准。"
+  },
+  {
+    "date": "58",
+    "policy_name": "2026年3月",
+    "issuing_body": "国会审查法案(CRA)决议：废除EPA 2024年轻型车温室气体标准",
+    "content": "国会",
+    "source": "通过CRA联合决议废除EPA 2024年多污染物排放标准（MY 2027-2032），由总统签署生效。EPA被指示回归2020年SAFE规则水平。"
+  },
+  {
+    "date": "59",
+    "policy_name": "2026年4月",
+    "issuing_body": "45X先进制造生产税收抵免调整提案",
+    "content": "国会",
+    "source": "[需进一步验证] 正在立法讨论中的提案，可能调整先进制造生产税收抵免（电池组件/关键矿物相关）的条款和退坡时间表。"
+  },
+  {
+    "date": "60",
+    "policy_name": "2026年4月（状态追踪）",
+    "issuing_body": "NEVI充电设施资金支出追踪",
+    "content": "DOT / FHWA",
+    "source": "【状态追踪，非政策发布】截至2026年4月，NEVI（国家电动汽车基础设施计划）$75亿联邦资金支出状态和各州充电桩部署进度。部分州已完成多批站点建设，但整体资金支出慢于预期。该条目为追踪执行进度而设，非新政策发布。"
+  },
+  {
+    "date": "61",
+    "policy_name": "2026年6月30日（预计）",
+    "issuing_body": "30D/30C充电设施及新清洁车辆税收抵免完全终止",
+    "content": "IRS",
+    "source": "根据OBBB法案（Public Law 119-21）条款，联邦充电设施税收抵免（30C，原最高$30,000/站点）将于2026年6月30日终止。这是OBBB大规模废除清洁能源税收优惠的最后一环——此前30D（新清洁车辆$7,500）、25E（二手清洁车辆$4,000）、45W（商业清洁车辆）已于2025年9月30日先行终止。"
+  }
+]

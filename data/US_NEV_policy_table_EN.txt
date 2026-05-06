@@ -1,5 +1,68 @@
-U.S. NEV, Battery & Charging Infrastructure Policy Timeline (2010–2026.04)
-Based on government public information. Items marked [needs verification] should be cross-checked with original documents.
-共 61 条政策
+地区: US
+政策数: 62
+时间跨度: No. - 61
+生成日期: 2026-05-06
 
-Generated: 2026-05-04 Rev.1 | Contact: www.humanaifit.com
+政策列表:
+1. [No.] Date - Policy Name
+2. [1] Feb 2009 - American Recovery and Reinvestment Act (ARRA) — EV Tax Credits & Battery Manufacturing Grants
+3. [2] 2010 - Advanced Technology Vehicles Manufacturing (ATVM) Loan Program
+4. [3] 2011 - The EV Project — Largest Charging Infrastructure Demonstration
+5. [4] Mar 2012 - EV Everywhere Grand Challenge
+6. [5] 2012 - CAFE Standards for MY 2017-2025
+7. [6] 2013 - DOE Battery and Energy Storage R&D Program
+8. [7] 2014 - California ZEV Action Plan
+9. [8] 2015 - DOE EV Charging Infrastructure Programs
+10. [9] 2016 - Federal EV Tax Credit (Section 30D, continued)
+11. [10] 2016 - CA Advanced Clean Cars II (ACC II) Rule Path
+12. [11] Jun 2017 - U.S. Withdrawal from Paris Agreement
+13. [12] 2017–2018 - SAFE Vehicles Rule (drafting)
+14. [13] 2018 - Hydrogen and Fuel Cell Infrastructure Program
+15. [14] 2019 - Federal EV Credit Phase-Out Begins
+16. [15] 2019 - Multi-State ZEV Task Force (9-state coalition)
+17. [16] 2019 - DOE Accelerated EV Charging Infrastructure Deployment
+18. [17] Mar 2020 - SAFE Vehicles Rule Final — One National Program
+19. [18] Dec 2020 - Energy Act of 2020
+20. [19] Jan 2021 - EO 14017: America's Supply Chains
+21. [20] Mar 2021 - American Jobs Plan (proposal)
+22. [21] Aug 2021 - EO 14037: Strengthening American Leadership in Clean Cars
+23. [22] Nov 2021 - Bipartisan Infrastructure Law (IIJA)
+24. [23] Jan 2022 - DOE 100-Day Supply Chain Assessment: Battery Materials
+25. [24] Feb 2022 - NEVI Formula Program Guidance Published
+26. [25] May 2022 - DOE Announces $3.16B Battery Manufacturing Funding Opportunity (BIL)
+27. [26] Aug 7, 2022 - CHIPS and Science Act of 2022
+28. [27] Aug 16, 2022 - Inflation Reduction Act (IRA)
+29. [28] — IRA §30D - New Clean Vehicle Credit (amended)
+30. [29] — IRA §25E - Previously-Owned Clean Vehicle Credit (new)
+31. [30] — IRA §45W - Qualified Commercial Clean Vehicle Credit (new)
+32. [31] — IRA §30C - Alternative Fuel Vehicle Refueling Property Credit (amended)
+33. [32] — IRA §45X - Advanced Manufacturing Production Credit (new)
+34. [33] — IRA §45V - Clean Hydrogen Production Credit (new)
+35. [34] — IRA Critical Mineral & Battery Component Provisions - §30D Battery Component & Critical Mineral Sourcing Requirements
+36. [35] Mar 2023 - IRS Issues Initial Clean Vehicle Credit Implementation Guidance
+37. [36] Apr 18, 2023 - Battery Component & Critical Mineral Requirements Take Effect
+38. [37] Jun 2023 - NHTSA Proposes CAFE Standards for MY 2027-2032
+39. [38] Dec 2023 - IRA FEOC Final Rule (Non-Clean Vehicles Context)
+40. [39] Dec 2023 - IRA §30D Critical Mineral Terms Final Rule
+41. [40] Mar 20, 2024 - EPA Multi-Pollutant Emissions Standards for MY 2027-2032 (Final)
+42. [41] Apr 2024 - EPA Heavy-Duty GHG Standards Phase 2
+43. [42] May 2024 - Treasury/IRS FEOC Final Rule (§30D)
+44. [43] May-Dec 2024 - DOE Funds Battery & Critical Mineral Supply Chain Projects via IRA
+45. [44] Jun 2024 - NHTSA Final CAFE Standards for MY 2027-2032
+46. [45] 2024 - NEVI State Charger Deployments Accelerate
+47. [46] Jan 20, 2025 - EO: Termination of Biden EV Mandate
+48. [47] Jan 20, 2025 - EO: Unleashing American Energy
+49. [48] Mar 12, 2025 - EPA Reconsiders MY2027-2032 Standards & Heavy-Duty GHG Rule
+50. [49] Mar 2025 - EPA Launches Endangerment Finding Repeal Process
+51. [50] Apr 2025 - Federal EV Fleet Procurement Targets Canceled
+52. [51] May 2025 - EPA Revokes CA ZEV Advanced Clean Cars Waiver
+53. [52] May 2025 - EPA CAFE Preemption Interim Final Rule
+54. [53] Jul 4, 2025 - One, Big, Beautiful Bill (OBBB) — Major Tax Legislation
+55. [54] Aug 21, 2025 - IRS Issues OBBB Accelerated Termination FAQs
+56. [55] Sep 30, 2025 - §30D, §25E, §45W Tax Credits Terminated
+57. [56] 2025 - Tariffs Significantly Increased (on Chinese goods)
+58. [57] Mar 2026 - HJ Resolution: EPA Heavy-Duty NOx Standard Disapproval
+59. [58] Mar 2026 - CRA Resolution: EPA 2024 Light-Duty GHG Standards Disapproval
+60. [59] Apr 2026 - §45X Advanced Manufacturing Credit Amendment Proposal
+61. [60] Apr 2026 (Status Tracking) - NEVI Charging Infrastructure Fund Spending Tracker
+62. [61] Jun 30, 2026 (Anticipated) - §30D/§30C Tax Credits Complete Termination
