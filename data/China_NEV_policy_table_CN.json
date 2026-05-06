@@ -1,12 +1,5 @@
 [
   {
-    "date": "序号",
-    "policy_name": "发布时间",
-    "issuing_body": "政策名称",
-    "content": "发布机构",
-    "source": "核心内容"
-  },
-  {
     "date": "1",
     "policy_name": "1986年3月",
     "issuing_body": "国家高技术研究发展计划（863计划）",

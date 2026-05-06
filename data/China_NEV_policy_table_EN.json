@@ -1,12 +1,5 @@
 [
   {
-    "date": "No.",
-    "policy_name": "Date",
-    "issuing_body": "Policy Name",
-    "content": "Issuing Authority",
-    "source": "Core Content"
-  },
-  {
     "date": "1",
     "policy_name": "March 1986",
     "issuing_body": "National High-Tech R&D Program (863 Program)",

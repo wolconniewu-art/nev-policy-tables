@@ -1,77 +1,76 @@
 地区: China
-政策数: 71
-时间跨度: No. - 70
+政策数: 70
+时间跨度: 1 - 70
 生成日期: 2026-05-06
 
 政策列表:
-1. [No.] Date - Policy Name
-2. [1] March 1986 - National High-Tech R&D Program (863 Program)
-3. [2] 1991 - "Eighth Five-Year" Science & Technology Key Project — Electric Vehicle Key Technologies
-4. [3] September 2001 - "Tenth Five-Year" National S&T Key Project — "Electric Vehicle Major Special Project"
-5. [4] May 2004 - Automotive Industry Development Policy
-6. [5] February 2006 - National Medium- and Long-Term S&T Development Plan (2006-2020)
-7. [6] November 2007 - NEV Production Access Management Rules
-8. [7] January 2009 - Notice on Launching Energy-Efficient and NEV Demonstration & Promotion Pilot (EV1000 / "Ten Cities, Thousand Vehicles" Program)
-9. [8] June 2009 - "Ten Cities, Thousand Vehicles" Program Supplemental Notice
-10. [9] May 2010 - Notice on Launching Private Purchase of NEV Subsidy Pilot
-11. [10] October 2011 - Notice on Further Improving Energy-Saving and NEV Demonstration & Promotion Pilot Work
-12. [11] April 2012 - Energy-Saving and New Energy Vehicle Industry Development Plan (2012-2020)
-13. [12] July 2014 - Announcement on Exempting NEVs from Vehicle Purchase Tax
-14. [13] July 2014 - Guiding Opinions on Accelerating NEV Promotion and Application
-15. [14] November 2014 - Notice on Rewards for NEV Charging Facility Construction
-16. [15] May 2015 - "Made in China 2025"
-17. [16] April 2015 - 2016-2020 NEV Promotion and Application Financial Support Policy
-18. [17] December 2016 - Notice on Adjusting NEV Promotion and Application Financial Subsidy Policies
-19. [18] June 2017 - Parallel Management Measures for Corporate Average Fuel Consumption and New Energy Vehicle Credits (Dual-Credit Policy)
-20. [19] December 2017 - Announcement on Extending NEV Vehicle Purchase Tax Exemption
-21. [20] February 2018 - Notice on Adjusting and Improving NEV Promotion Financial Subsidy Policies
-22. [21] March 2018 - Management Specification for Intelligent Connected Vehicle Road Testing (Trial)
-23. [22] March 2019 - Notice on Further Improving NEV Promotion Financial Subsidy Policies
-24. [23] May 2019 - Pilot Plan for Supporting NEV Power Battery Recycling
-25. [24] April 2020 - Notice on Improving NEV Promotion Financial Subsidy Policies
-26. [25] October 2020 - New Energy Vehicle Industry Development Plan (2021-2035)
-27. [26] November 2020 - New Energy Vehicle Industry Development Plan (2021-2035) (Formal Issuance)
-28. [27] February 2021 - National Comprehensive Three-Dimensional Transport Network Planning Outline
-29. [28] March 2021 - 14th Five-Year Plan for National Economic and Social Development and 2035 Vision Targets
-30. [29] April 2021 - ICV Production Enterprise and Product Access Management Guidelines (Trial)
-31. [30] April 2021 - Notice on Organizing NEV Battery Swap Mode Application Pilot
-32. [31] May 2021 - Guiding Opinions on Further Strengthening NEV Safety System Construction (Draft for Comments)
-33. [32] July 2021 - Management Specification for ICV Road Testing and Demonstration Application (Trial)
-34. [33] August 2021 - Opinions on Strengthening ICV Production Enterprise and Product Access Management
-35. [34] October 2021 - Opinions on Fully, Accurately, and Comprehensively Implementing the New Development Philosophy for Carbon Peak and Carbon Neutrality
-36. [35] October 2021 - Action Plan for Carbon Peaking by 2030
-37. [36] December 2021 - NEV Commercial Insurance Exclusive Clauses (Trial)
-38. [37] December 2021 - Guiding Opinions on Strengthening EV Charging Facility Construction (2021 Edition)
-39. [38] January 2022 - Notice on 2022 NEV Promotion Financial Subsidy Policy
-40. [39] March 2022 - "14th Five-Year Plan" for Modern Energy System
-41. [40] April 2022 - Guiding Opinions on Further Strengthening NEV Enterprise Safety System Construction
-42. [41] June 2022 - Notice on 2022 NEV "Go to the Countryside" Campaign
-43. [42] July 2022 - Several Measures on Further Expanding Auto Consumption
-44. [43] September 2022 - Announcement on Extending NEV Vehicle Purchase Tax Exemption Policy
-45. [44] November 2022 - Notice on Launching Public Sector Vehicle Full Electrification Pilot Zones
-46. [45] November 2022 - ICV Access and Road Operation Pilot Work Guidelines (Draft for Comments)
-47. [46] January 2023 - Notice on Several Measures to Further Vitalize Auto Circulation and Expand Auto Consumption
-48. [47] June 2023 - Announcement on Extending and Optimizing NEV Vehicle Purchase Tax Reduction/Exemption Policy
-49. [48] June 2023 - Guiding Opinions on Further Building a High-Quality Charging Infrastructure System
-50. [49] September 2023 - Announcement on Adjusting Technical Requirements for NEV Products Eligible for Vehicle Purchase Tax Reduction/Exemption
-51. [50] November 2023 - Notice on Launching ICV Access and Road Operation Pilot Work
-52. [51] December 2023 - Announcement on Adjusting Technical Requirements for NEV Products Eligible for Vehicle Purchase Tax Reduction/Exemption
-53. [52] January 2024 - Notice on Organizing 2024 NEV "Go to the Countryside" Campaign
-54. [53] March 2024 - Guiding Opinions on Accelerating Green Development of the Manufacturing Industry
-55. [54] May 2024 - Notice on Launching ICV "Vehicle-Road-Cloud Integration" Application Pilot
-56. [55] July 2024 - Notice on Further Improving NEV Power Battery Recycling
-57. [56] September 2024 - Opinions on Improving Urban Charging and Battery Swap Facility Construction
-58. [57] November 2024 - Several Policy Measures on Further Consolidating and Enhancing NEV Industry Advantages
-59. [58] December 2024 - Notice on 2025 NEV Promotion Policy
-60. [59] January 2025 - 2025 Action Plan for Promoting High-Quality NEV Industry Development
-61. [60] February 2025 - Power Battery Recycling Management Measures (Revised Edition)
-62. [61] April 2025 - ICV Standard System (2025 Edition)
-63. [62] August 2025 - Opinions on Measures to Expand NEV Exports
-64. [63] September 2025 - Announcement on Adjusting Technical Requirements for Energy-Saving and NEV Products Eligible for Vehicle/Vessel Tax Reduction
-65. [64] October 2025 - NEV Operation Safety Inspection Standards
-66. [65] December 2025 - ICV Testing and Demonstration Management Measures (Revised)
-67. [66] January 2026 - Implementation Measures for 2026-2027 NEV Vehicle Purchase Tax Half-Rate Policy
-68. [67] January 2026 - Interim Measures for NEV Waste Power Battery Recycling and Comprehensive Utilization
-69. [68] February 2026 - Vehicle-Road-Cloud Integration Standard System Construction Guide
-70. [69] March 2026 - Notice on Expanding Hydrogen FCV Demonstration Application
-71. [70] April 2026 - NEV Waste Power Battery Recycling and Comprehensive Utilization Management Interim Measures Take Effect
+1. [1] March 1986
+2. [2] 1991
+3. [3] September 2001
+4. [4] May 2004
+5. [5] February 2006
+6. [6] November 2007
+7. [7] January 2009
+8. [8] June 2009
+9. [9] May 2010
+10. [10] October 2011
+11. [11] April 2012
+12. [12] July 2014
+13. [13] July 2014
+14. [14] November 2014
+15. [15] May 2015
+16. [16] April 2015
+17. [17] December 2016
+18. [18] June 2017
+19. [19] December 2017
+20. [20] February 2018
+21. [21] March 2018
+22. [22] March 2019
+23. [23] May 2019
+24. [24] April 2020
+25. [25] October 2020
+26. [26] November 2020
+27. [27] February 2021
+28. [28] March 2021
+29. [29] April 2021
+30. [30] April 2021
+31. [31] May 2021
+32. [32] July 2021
+33. [33] August 2021
+34. [34] October 2021
+35. [35] October 2021
+36. [36] December 2021
+37. [37] December 2021
+38. [38] January 2022
+39. [39] March 2022
+40. [40] April 2022
+41. [41] June 2022
+42. [42] July 2022
+43. [43] September 2022
+44. [44] November 2022
+45. [45] November 2022
+46. [46] January 2023
+47. [47] June 2023
+48. [48] June 2023
+49. [49] September 2023
+50. [50] November 2023
+51. [51] December 2023
+52. [52] January 2024
+53. [53] March 2024
+54. [54] May 2024
+55. [55] July 2024
+56. [56] September 2024
+57. [57] November 2024
+58. [58] December 2024
+59. [59] January 2025
+60. [60] February 2025
+61. [61] April 2025
+62. [62] August 2025
+63. [63] September 2025
+64. [64] October 2025
+65. [65] December 2025
+66. [66] January 2026
+67. [67] January 2026
+68. [68] February 2026
+69. [69] March 2026
+70. [70] April 2026

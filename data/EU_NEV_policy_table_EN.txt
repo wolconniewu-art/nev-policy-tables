@@ -1,49 +1,48 @@
 地区: EU
-政策数: 43
-时间跨度: No. - 42
+政策数: 42
+时间跨度: 1 - 42
 生成日期: 2026-05-06
 
 政策列表:
-1. [No.] Date - Policy Name
-2. [1] 2009.04 - Directive 2009/33/EC on the promotion of clean and energy-efficient road transport vehicles (Clean Vehicles Directive)
-3. [2] 2010.04 - EU Green Cars Initiative
-4. [3] 2011.12 - Smart Grids & E-Mobility Action Plan
-5. [4] 2013.01 - Clean Power for Transport Strategy
-6. [5] 2014.10 - Directive 2014/94/EU on the deployment of alternative fuels infrastructure (AFID)
-7. [6] 2015.07 - Energy Union Strategy
-8. [7] 2016.11 - European Strategy for Low-Emission Mobility
-9. [8] 2017.03 - IPCEI Framework for Batteries
-10. [9] 2017.10 - European Battery Alliance (EBA) Launched
-11. [10] 2018.05 - Strategic Action Plan on Batteries
-12. [11] 2019.04 - Regulation (EU) 2019/631 — CO₂ emission performance standards for new passenger cars and light commercial vehicles
-13. [12] 2019.06 - Regulation (EU) 2019/1242 — CO₂ emission performance standards for new heavy-duty vehicles
-14. [13] 2019.12 - European Green Deal
-15. [14] 2020.03 - New Circular Economy Action Plan
-16. [15] 2020.07 - Critical Raw Materials Action Plan
-17. [16] 2020.12 - Sustainable and Smart Mobility Strategy
-18. [17] 2021.02 - Second Battery IPCEI Approved ("EuBatIn")
-19. [18] 2021.06 - European Climate Law — Regulation (EU) 2021/1119
-20. [19] 2021.07 - Fit for 55 Package
-21. [20] 2021.07 - CBAM Proposal — Regulation establishing a carbon border adjustment mechanism
-22. [21] 2022.06 - European Parliament votes to ban new ICE cars/vans from 2035
-23. [22] 2022.12 - Provisional Political Agreement on CBAM
-24. [23] 2022.12 - Alternative Fuels Infrastructure Regulation (AFIR) Provisional Agreement
-25. [24] 2023.02 - Green Deal Industrial Plan / Net-Zero Industry Act Proposal
-26. [25] 2023.03 - Critical Raw Materials Act Proposal
-27. [26] 2023.04 - Regulation (EU) 2023/851 — Amending CO₂ standards for cars and vans (formally adopted)
-28. [27] 2023.06 - Regulation (EU) 2023/1542 — Batteries Regulation adopted
-29. [28] 2023.08.17 - Regulation (EU) 2023/1542 enters into force
-30. [29] 2023.10.01 - CBAM Transitional Phase Begins
-31. [30] 2023.09 - Regulation (EU) 2023/1804 — Alternative Fuels Infrastructure Regulation (AFIR) formally adopted
-32. [31] 2024.04 - Regulation (EU) 2024/1257 — Euro 7 adopted
-33. [32] 2024.05 - Regulation (EU) 2024/1610 — HDV CO₂ emission standards revised
-34. [33] 2024.10 - EU imposes additional tariffs on Chinese BEVs
-35. [34] 2024.12 - Critical Raw Materials Act enters into force — Regulation (EU) 2024/1252
-36. [35] 2025.05 - Net-Zero Industry Act enters into force — Regulation (EU) 2025/703
-37. [36] 2025.10 - EU-China EV tariff framework agreement
-38. [37] 2025.12 - Automotive Package
-39. [38] 2025.12 - CO₂ Standards Review — 2035 ICE ban flexibility adjustments
-40. [39] 2026.01.01 - CBAM Definitive Regime Begins
-41. [40] 2026.02 - Battery carbon footprint labelling enters into effect
-42. [41] 2026.03 - European Climate Law amended — 2040 target set
-43. [42] 2026.03 - CBAM Q1 2026 certificate price published
+1. [1] 2009.04
+2. [2] 2010.04
+3. [3] 2011.12
+4. [4] 2013.01
+5. [5] 2014.10
+6. [6] 2015.07
+7. [7] 2016.11
+8. [8] 2017.03
+9. [9] 2017.10
+10. [10] 2018.05
+11. [11] 2019.04
+12. [12] 2019.06
+13. [13] 2019.12
+14. [14] 2020.03
+15. [15] 2020.07
+16. [16] 2020.12
+17. [17] 2021.02
+18. [18] 2021.06
+19. [19] 2021.07
+20. [20] 2021.07
+21. [21] 2022.06
+22. [22] 2022.12
+23. [23] 2022.12
+24. [24] 2023.02
+25. [25] 2023.03
+26. [26] 2023.04
+27. [27] 2023.06
+28. [28] 2023.08.17
+29. [29] 2023.10.01
+30. [30] 2023.09
+31. [31] 2024.04
+32. [32] 2024.05
+33. [33] 2024.10
+34. [34] 2024.12
+35. [35] 2025.05
+36. [36] 2025.10
+37. [37] 2025.12
+38. [38] 2025.12
+39. [39] 2026.01.01
+40. [40] 2026.02
+41. [41] 2026.03
+42. [42] 2026.03
